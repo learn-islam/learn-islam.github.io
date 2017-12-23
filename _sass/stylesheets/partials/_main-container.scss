@@ -1,0 +1,6 @@
+@mixin main-container($width) {
+    .main-container {
+        width: $width;
+        float: right;
+    }
+}

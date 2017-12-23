@@ -1,0 +1,7 @@
+body {
+    background-color: $bg-color;
+    font-size: $body-font-size;
+
+    @include sidebar($sidebar-container-width);
+    @include main-container($main-container-width);
+}

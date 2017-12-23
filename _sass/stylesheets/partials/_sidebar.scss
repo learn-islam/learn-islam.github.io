@@ -1,0 +1,14 @@
+@mixin sidebar ($width) {
+    .sidebar-container {
+        width: $width;
+        float: left;
+    
+        nav {
+            width: $width;
+            display: table;
+            a {
+                display: block;
+            }
+        }
+    }
+}
