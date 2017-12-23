@@ -1,0 +1,27 @@
+$body-font-size: 12px;
+$sidebar-container-width: 100px;
+$main-container-width: 1000px;
+
+body {
+    background-color: #a82f2f;
+    font-size: $body-font-size;
+
+    .sidebar-container {
+        width: $sidebar-container-width;
+        float: left;
+
+        nav {
+            width: $sidebar-container-width;
+            display: table;
+            a {
+                display: block;
+            }
+        }
+    }
+
+    .main-container {
+        width: $main-container-width;
+        float: right;
+    }
+    
+}
