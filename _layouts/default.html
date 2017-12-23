@@ -4,17 +4,19 @@
   {% include head.html %}
 
   <body>
+    <div class="parent-container">
+      {% include header.html %}
 
-    {% include header.html %}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
+      <div class="main-container">
+        <main class="page-content" aria-label="Content">
+          <div class="wrapper">
+            {{ content }}
+          </div>
+        </main>
       </div>
-    </main>
 
-    {% include footer.html %}
-
+      {% include footer.html %}
+    </div>
   </body>
 
 </html>
