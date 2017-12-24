@@ -1,6 +1,6 @@
 @mixin site-main-content($width) {
-    .main-container {
+    .site-main-container {
         width: $width;
-        float: right;
+        clear: right;
     }
 }
