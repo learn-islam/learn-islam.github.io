@@ -1,4 +1,4 @@
-@mixin sidebar ($width) {
+@mixin site-sidebar ($width) {
     .sidebar-container {
         width: $width;
         float: left;
