@@ -1,11 +1,10 @@
 @mixin site-sidebar ($width) {
-    .sidebar-container {
+    .site-sidebar {
         width: $width;
         float: left;
     
         nav {
             width: $width;
-            display: table;
             a {
                 display: block;
             }
