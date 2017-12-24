@@ -1,0 +1,7 @@
+@mixin parent() {
+    .site-parent-container {
+        display: table;
+        width: 700px;
+        max-width: 100%;
+    }
+}
