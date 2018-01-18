@@ -1,8 +1,12 @@
-body {
-    background-color: $bg-color;
-    font-size: $body-font-size;
+html {
+    height: 100%;
+    body {
+        background-color: $bg-color;
+        font-size: $body-font-size;
+        height: 100%;
 
-    @include parent();
-    @include site-sidebar($sidebar-container-width);
-    @include site-main-content($main-container-width);
+        @include parent($parent-container-width);
+        @include site-sidebar($sidebar-container-width);
+        @include site-main-content($main-container-width);
+    }
 }
