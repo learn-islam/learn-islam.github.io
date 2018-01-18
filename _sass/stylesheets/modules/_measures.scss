@@ -1,3 +1,4 @@
 $body-font-size: 14px;
 $sidebar-container-width: 100px;
-$main-container-width: 1000px;
+$main-container-width: 800px;
+$parent-container-width: $sidebar-container-width + $main-container-width + 50;
