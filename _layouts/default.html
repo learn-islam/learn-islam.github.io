@@ -5,17 +5,19 @@
 
   <body>
     <div class="site-parent-container">
+
       {% include header.html %}
 
-      <div class="site-main-content">
-        <main class="page-content" aria-label="Content">
-          <div class="wrapper">
-            {{ content }}
-          </div>
-        </main>
-      </div>
+      <main class="site-main-content">
+        <div class="wrapper">
+
+          {{ content }}
+
+        </div>
+      </main>
 
       {% include footer.html %}
+
     </div>
   </body>
 
