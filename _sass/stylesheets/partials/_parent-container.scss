@@ -1,7 +1,6 @@
-@mixin parent() {
+@mixin parent($width) {
     .site-parent-container {
-        display: table;
-        width: 700px;
-        max-width: 100%;
+        width: $width;
+        max-width: $width;
     }
 }
