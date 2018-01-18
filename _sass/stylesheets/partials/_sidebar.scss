@@ -1,12 +1,17 @@
 @mixin site-sidebar ($width) {
-    .site-sidebar {
+    header {
         width: $width;
-        float: left;
-    
-        nav {
+        .site-sidebar {
             width: $width;
-            a {
-                display: block;
+            height: 100%;
+            float: left;
+            // clear: both;
+        
+            nav {
+                width: $width;
+                a {
+                    display: block;
+                }
             }
         }
     }
