@@ -1,4 +1,16 @@
+$bg-color: rgb(255, 255, 255);
+$quran-bg-color: rgba(0,0,0,.05);
+$quran-color: #a07b03;
+$sb-bg-color: #483c32;
+$sb-nav-color: #d4af37;
+$islamic-green: #009000;
+
+$body-font-family: 'Amita';
+$font-post-meta: 'Saira Extra Condensed';
+
 $body-font-size: 14px;
-$sidebar-container-width: 100px;
+$sidebar-container-width: 250px;
 $main-container-width: 800px;
-$parent-container-width: $sidebar-container-width + $main-container-width + 50;
+$main-container-margin: 30px;
+$parent-container-width: $sidebar-container-width + $main-container-width + $main-container-margin + 30px;
+$parent-container-height: 100%;

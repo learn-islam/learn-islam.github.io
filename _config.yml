@@ -30,7 +30,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-paginate: 5
+paginate: 2
 paginate_path: "/blog/page:num/"
 
 # Exclude from processing.

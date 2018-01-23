@@ -1,6 +1,17 @@
-@mixin parent($width) {
+@mixin parent($width, $height) {
     .site-parent-container {
+        background-color: #ffffff;
+
         width: $width;
         max-width: $width;
+        height: 0px;
+        max-height: $height;
+
+        margin: 100px auto;
+
+        display: table;
+        
+        box-shadow: 0px 0 100px 5px #575757;
+        border-radius: 15px;
     }
 }

@@ -1,12 +1,37 @@
 html {
-    height: 100%;
     body {
-        background-color: $bg-color;
-        font-size: $body-font-size;
-        height: 100%;
+        max-height: 100%;
+        margin: 0;
+        padding: 0;
 
-        @include parent($parent-container-width);
+        // background-image: url("/assets/bg.jpg");
+        // background-color: $bg-color;
+        color: $sb-bg-color;
+
+        font-size: $body-font-size;
+        font-family: $body-font-family, sans-serif;
+        text-align: justify;
+        line-height: 25px;
+        
+        a {
+            text-decoration: none;
+            color: $islamic-green;
+        }
+
+        @include outer-wrapper();
+        @include parent($parent-container-width, $parent-container-height);
         @include site-sidebar($sidebar-container-width);
-        @include site-main-content($main-container-width);
+        @include site-main-content($main-container-width,$parent-container-height, $main-container-margin);
+
+        background-color: $bg-color; //hsl(2, 57%, 40%);
+        background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.09) 50px, rgba(0,0,0,.09) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.09) 63px, rgba(0,0,0,.09) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.15) 116px, rgba(0,0,0,.15) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.15) 169px, rgba(0,0,0,.15) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.15) 182px, rgba(0,0,0,.15) 232px, transparent 232px),
+        repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.09) 50px, rgba(0,0,0,.09) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.09) 63px, rgba(0,0,0,.09) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.15) 116px, rgba(0,0,0,.15) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.15) 169px, rgba(0,0,0,.15) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.15) 182px, rgba(0,0,0,.15) 232px, transparent 232px),
+        repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.05) 2px, rgba(0,0,0,.05) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.05) 5px);
     }
 }
+
+@import url('https://fonts.googleapis.com/css?family=Saira+Extra+Condensed|Macondo|Redressed');
+@import url('https://fonts.googleapis.com/css?family=Amiri');
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+@import url('https://fonts.googleapis.com/css?family=Reem+Kufi');
+@import url('https://fonts.googleapis.com/css?family=Amita|Galdeano|Offside');

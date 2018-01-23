@@ -3,9 +3,7 @@ layout: default
 ---
 
 <div class="home">
-
-  <h1>Posts</h1>
-
+  <span class="web-title">Blog Posts</span>
   {{ content }}
 
   <!-- This loops through the paginated posts -->
@@ -23,9 +21,9 @@ layout: default
       {% if post.content contains start and post.content contains end %}
           {% assign first_split = post.content | split: start | last %}
           {% assign second_split = first_split | split: end | first %}
-          {{ second_split | strip_html | truncatewords: 20 }}
+          {{ second_split | strip_html | truncatewords: 100 }}
         {% else %}
-          {{ post.content | strip_html | truncatewords: 20 }}
+          {{ post.content | strip_html | truncatewords: 100 }}
         {% endif %}
     </li>
     {% endfor %}
@@ -47,8 +45,8 @@ layout: default
       <span class="next ">Next</span>
     {% endif %}
   </div>
-  <p class="rss-subscribe">subscribe
+  <div class="rss-subscribe">subscribe
     <a href="{{ "feed.xml" | relative_url }}">via RSS</a>
-  </p>
-
+  </div>  
+  
 </div>
