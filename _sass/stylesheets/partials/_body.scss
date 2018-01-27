@@ -9,7 +9,7 @@ html {
         color: $sb-bg-color;
 
         font-size: $body-font-size;
-        font-family: $body-font-family, sans-serif;
+        font-family: $body-font-family;
         text-align: justify;
         line-height: 25px;
         
@@ -30,6 +30,7 @@ html {
     }
 }
 
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i');
 @import url('https://fonts.googleapis.com/css?family=Saira+Extra+Condensed|Macondo|Redressed');
 @import url('https://fonts.googleapis.com/css?family=Amiri');
 @import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
