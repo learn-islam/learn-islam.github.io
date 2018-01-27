@@ -8,10 +8,10 @@ html {
         // background-color: $bg-color;
         color: $sb-bg-color;
 
-        font-size: $body-font-size;
-        font-family: $body-font-family;
-        text-align: justify;
-        line-height: 25px;
+        font-size: $font-size-body;
+        font-family: $font-body;
+        text-align: $body-text-align;
+        line-height: $body-line-height;
         
         a {
             text-decoration: none;
@@ -31,8 +31,10 @@ html {
 }
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,300i');
-@import url('https://fonts.googleapis.com/css?family=Saira+Extra+Condensed|Macondo|Redressed');
+@import url('https://fonts.googleapis.com/css?family=Saira+Condensed:200');
 @import url('https://fonts.googleapis.com/css?family=Amiri');
 @import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
 @import url('https://fonts.googleapis.com/css?family=Reem+Kufi');
+
 @import url('https://fonts.googleapis.com/css?family=Amita|Galdeano|Offside');
+@import url('https://fonts.googleapis.com/css?family=Rochester');

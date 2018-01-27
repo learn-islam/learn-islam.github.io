@@ -33,7 +33,7 @@
         }
 
         a.post-link, h1.post-title {
-            font-family: 'Berkshire Swash', cursive;
+            font-family: $font-post-title-link;
             font-size: 30px;
             text-decoration:  none;
             color: $sb-bg-color;
@@ -67,32 +67,51 @@
 
         div.question, div.reference {
             padding: 10px;
-            border-left: 2px solid rgba(0, 0, 0, .2);
+            border-left: 2px solid rgba(0, 0, 0, .1);
         }
 
-        // span.question-label {
-        //     background-color: #FF6961;
-        //     color: #ffffff;
-        //     padding: 0 7px;
-        // }
+        div.answer {
+            padding: 10px 0 0 0;
+            border-top: 2px solid rgba(0, 0, 0, .1);
+        }
+
+        div.reference {
+            ul {
+                margin: 0;
+                padding: 0 0 0 15px;
+            }
+        }
 
         span.question-label, span.answer-label, span.reference-label {
+            font-family: $font-post-meta;
             color: #ffffff;
-            padding: 7px 7px;
+            padding: 2px 7px;
         }
 
-        span.question-label {
-            background-color: #FF6961;
+        div.question-label-wrapper {
+            width: 45px;
+            margin: 50px 0 0 0;
+            span.question-label {
+                background-color: #FF6961;
+            }
         }
 
-        span.answer-label {
-            background-color: #FFB347;
+        div.answer-label-wrapper {
+            width: 36px;
+            margin: 30px 0 0 0;
+            span.answer-label {
+                background-color: #FFB347;
+            }
         }
-
-        span.reference-label {
-            background-color: #77DD77;
+        
+        div.reference-label-wrapper {
+            width: 50px;
+            margin: 20px 0 0 0;
+            span.reference-label {
+                background-color: #77DD77;
+            }
         }
-
+    
         .quran {
             display: block;
 
@@ -104,6 +123,7 @@
         }
 
         .translation {
+            font-family: $font-quran-translation;
             display: block;
         }
 
@@ -123,7 +143,8 @@
             width: 100%;
             clear:both;
             color: #ffffff;
-
+            
+            font-family: $font-post-meta; 
             text-align: center;
 
             div.book {
