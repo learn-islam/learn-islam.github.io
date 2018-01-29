@@ -1,7 +1,6 @@
 @mixin site-main-content($width, $height, $margin) {
     main.site-main-content {
         float: right;
-        
         width: $width;
         max-width: $width;
         height: $height;
@@ -90,15 +89,13 @@
         }
 
         div.question-label-wrapper {
-            width: 45px;
-            margin: 50px 0 0 0;
+            margin: 35px 0 0 0;
             span.question-label {
                 background-color: #FF6961;
             }
         }
 
         div.answer-label-wrapper {
-            width: 36px;
             margin: 30px 0 0 0;
             span.answer-label {
                 background-color: #FFB347;
@@ -106,13 +103,35 @@
         }
         
         div.reference-label-wrapper {
-            width: 50px;
             margin: 20px 0 0 0;
             span.reference-label {
                 background-color: #77DD77;
             }
         }
-    
+        
+        .more-button-wrapper {
+            text-align: right;
+            .more-button {
+                padding: 0 8px;
+                background-color: rgba(0, 0, 0, .8);
+                color: #ffffff;
+
+                border-radius: 0px;
+                border-width: 0px;
+
+                font-family: $font-post-meta;
+                font-size: 16px;
+            }
+            
+            .more-button:hover {
+                background-color: rgba(0, 0, 0, .7);
+            }
+
+            .more-button:active {
+                background-color: rgba(0, 0, 0, .8);
+            }
+        }
+
         .quran {
             display: block;
 
@@ -126,6 +145,13 @@
         .translation {
             font-family: $font-quran-translation;
             display: block;
+        }
+
+        div.more-quran-wrapper {
+            margin: 15px;
+            div.quran-wrapper {
+                margin: 0px;
+            }    
         }
 
         div.quran-wrapper {
@@ -163,6 +189,13 @@
                 width: 300px;
                 display:inline-block;
             }
+        }
+
+        div#more-quran-10-89-93 {
+            display: none;
+            opacity: 0; 
+            transform: scaleX(0);
+            transition: 1s ease opacity, 1s ease transform;
         }
     }
 }
