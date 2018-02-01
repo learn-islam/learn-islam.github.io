@@ -4,7 +4,7 @@ html {
         margin: 0;
         padding: 0;
 
-        background-image: url("/assets/bg-final.jpg");
+        background-image: url("/assets/bg-v3.png");
         /* Background image is centered vertically and horizontally at all times */
         background-position: center center;
         
@@ -33,7 +33,7 @@ html {
         
         a {
             text-decoration: none;
-            color: $islamic-green;
+            color: $quran-color;
         }
 
         @include outer-wrapper();
