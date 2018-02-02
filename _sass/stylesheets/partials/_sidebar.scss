@@ -1,7 +1,6 @@
 @mixin site-sidebar ($width) {
     header {
         background-color: $sb-bg-color;
-
         float: left;
         display: table;
         

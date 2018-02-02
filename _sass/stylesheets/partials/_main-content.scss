@@ -1,7 +1,6 @@
 @mixin site-main-content($width, $height, $margin) {
     main.site-main-content {
         float: right;
-        
         width: $width;
         max-width: $width;
         height: $height;
@@ -32,6 +31,36 @@
             text-align: center;
         }
 
+        .previous {
+            margin: 0 10px 0 0;
+        }
+
+        .next {
+            margin: 0 0 0 10px;
+        }
+
+        button {
+            padding: 0 8px;
+
+            background-color: #000000;
+            color: $sb-nav-color;
+
+            font-family: $font-post-meta;
+            border-width: 0px;
+        }
+
+        button:hover {
+            background-color: rgba(0, 0, 0, .8);
+        }
+
+        button:active {
+            background-color: #000000;
+        }
+
+        button.more-button {
+            font-size: 16px;
+        }
+
         a.post-link, h1.post-title {
             font-family: $font-post-title-link;
             font-size: 30px;
@@ -41,7 +70,7 @@
 
         span.post-meta, time, div.rss-subscribe, div.pagination {
             font-family: $font-post-meta, sans-serif;
-            font-size: 14px;
+            font-size: $font-size-post-meta;
             color: $sb-bg-color;
         }
 
@@ -65,12 +94,12 @@
             }
         }
 
-        div.question, div.reference {
+        div.with-left-border, div.question, div.question-christian, div.reference {
             padding: 10px;
             border-left: 2px solid rgba(0, 0, 0, .1);
         }
 
-        div.answer {
+        div.with-top-border, div.answer {
             padding: 10px 0 0 0;
             border-top: 2px solid rgba(0, 0, 0, .1);
         }
@@ -83,36 +112,58 @@
             }
         }
 
-        span.question-label, span.answer-label, span.reference-label {
+        div.question-christian {
+            ol {
+                margin: 0;
+                padding: 0 0 0 15px;
+            }
+        }
+
+        span.question-label, span.answer-label, span.question-christian-label, span.reference-label, span.investigation-label {
             font-family: $font-post-meta;
             color: #ffffff;
             padding: 2px 7px;
         }
 
         div.question-label-wrapper {
-            width: 45px;
-            margin: 50px 0 0 0;
+            margin: 35px 0 0 0;
             span.question-label {
                 background-color: #FF6961;
             }
         }
 
         div.answer-label-wrapper {
-            width: 36px;
             margin: 30px 0 0 0;
             span.answer-label {
                 background-color: #FFB347;
             }
         }
+
+        div.question-christian-wrapper {
+            margin: 30px 0 0 0;
+            span.question-christian-label {
+                background-color: #966FD6;
+            }
+        }
         
         div.reference-label-wrapper {
-            width: 50px;
             margin: 20px 0 0 0;
             span.reference-label {
                 background-color: #77DD77;
             }
         }
-    
+
+        div.investigation-wrapper {
+            margin: 30px 0 0 0;
+            span.investigation-label {
+                background-color: #779ECB;
+            }
+        }
+        
+        .more-button-wrapper {
+            text-align: right;
+        }
+
         .quran {
             display: block;
 
@@ -123,9 +174,21 @@
             text-align: right;
         }
 
+        .emphasize {
+            color: $quran-color;
+            font-weight: bold;
+        }
+
         .translation {
             font-family: $font-quran-translation;
             display: block;
+        }
+
+        div.more-quran-wrapper {
+            margin: 15px;
+            div.quran-wrapper {
+                margin: 0px;
+            }    
         }
 
         div.quran-wrapper {
@@ -163,6 +226,54 @@
                 width: 300px;
                 display:inline-block;
             }
+        }
+
+        div#more-quran-10-89-93 {
+            display: none;
+            opacity: 0; 
+            transform: scaleX(0);
+            transition: 1s ease opacity, 1s ease transform;
+        }
+
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            // border-bottom: 1px dotted black;
+        }
+        
+        .tooltip .tooltiptext {
+            font-family: $font-post-meta;
+            font-size: $font-size-post-meta;
+            visibility: hidden;
+            width: 300px;
+            background-color: #555;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px 0;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -150px;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        
+        .tooltip .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #555 transparent transparent transparent;
+        }
+        
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
         }
     }
 }

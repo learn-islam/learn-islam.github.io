@@ -4,8 +4,26 @@ html {
         margin: 0;
         padding: 0;
 
-        // background-image: url("/assets/bg.jpg");
-        // background-color: $bg-color;
+        background-image: url("/assets/bg-v3.png");
+        /* Background image is centered vertically and horizontally at all times */
+        background-position: center center;
+        
+        /* Background image doesn't tile */
+        background-repeat: no-repeat;
+        
+        /* Background image is fixed in the viewport so that it doesn't move when 
+            the content's height is greater than the image's height */
+        background-attachment: fixed;
+        
+        /* This is what makes the background image rescale based
+            on the container's size */
+        background-size: cover;
+        
+        /* Set a background color that will be displayed
+            while the background image is loading */
+        // background-color: #ffffff;
+        background-color: $bg-color;
+        
         color: $sb-bg-color;
 
         font-size: $font-size-body;
@@ -15,7 +33,7 @@ html {
         
         a {
             text-decoration: none;
-            color: $islamic-green;
+            color: $quran-color;
         }
 
         @include outer-wrapper();
@@ -23,14 +41,15 @@ html {
         @include site-sidebar($sidebar-container-width);
         @include site-main-content($main-container-width,$parent-container-height, $main-container-margin);
 
-        background-color: $bg-color; //hsl(2, 57%, 40%);
-        background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.09) 50px, rgba(0,0,0,.09) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.09) 63px, rgba(0,0,0,.09) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.15) 116px, rgba(0,0,0,.15) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.15) 169px, rgba(0,0,0,.15) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.15) 182px, rgba(0,0,0,.15) 232px, transparent 232px),
-        repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.09) 50px, rgba(0,0,0,.09) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.09) 63px, rgba(0,0,0,.09) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.15) 116px, rgba(0,0,0,.15) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.15) 169px, rgba(0,0,0,.15) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.15) 182px, rgba(0,0,0,.15) 232px, transparent 232px),
-        repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.05) 2px, rgba(0,0,0,.05) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.05) 5px);
+        // background-color: $bg-color; //hsl(2, 57%, 40%);
+        // background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.05) 50px, rgba(0,0,0,.05) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.05) 63px, rgba(0,0,0,.05) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.09) 116px, rgba(0,0,0,.09) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.09) 169px, rgba(0,0,0,.09) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.09) 182px, rgba(0,0,0,.09) 232px, transparent 232px),
+        // repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.05) 50px, rgba(0,0,0,.05) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.05) 63px, rgba(0,0,0,.05) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.09) 116px, rgba(0,0,0,.09) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.09) 169px, rgba(0,0,0,.09) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.09) 182px, rgba(0,0,0,.09) 232px, transparent 232px),
+        // repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.03) 2px, rgba(0,0,0,.03) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.03) 5px);
     }
 }
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,300i');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
 @import url('https://fonts.googleapis.com/css?family=Saira+Condensed:200');
 @import url('https://fonts.googleapis.com/css?family=Amiri');
 @import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
