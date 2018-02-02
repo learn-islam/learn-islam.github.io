@@ -70,7 +70,7 @@
 
         span.post-meta, time, div.rss-subscribe, div.pagination {
             font-family: $font-post-meta, sans-serif;
-            font-size: 14px;
+            font-size: $font-size-post-meta;
             color: $sb-bg-color;
         }
 
@@ -94,12 +94,12 @@
             }
         }
 
-        div.question, div.question-christian, div.reference {
+        div.with-left-border, div.question, div.question-christian, div.reference {
             padding: 10px;
             border-left: 2px solid rgba(0, 0, 0, .1);
         }
 
-        div.answer {
+        div.with-top-border, div.answer {
             padding: 10px 0 0 0;
             border-top: 2px solid rgba(0, 0, 0, .1);
         }
@@ -119,7 +119,7 @@
             }
         }
 
-        span.question-label, span.answer-label, span.question-christian-label, span.reference-label {
+        span.question-label, span.answer-label, span.question-christian-label, span.reference-label, span.investigation-label {
             font-family: $font-post-meta;
             color: #ffffff;
             padding: 2px 7px;
@@ -150,6 +150,13 @@
             margin: 20px 0 0 0;
             span.reference-label {
                 background-color: #77DD77;
+            }
+        }
+
+        div.investigation-wrapper {
+            margin: 30px 0 0 0;
+            span.investigation-label {
+                background-color: #779ECB;
             }
         }
         
@@ -226,6 +233,47 @@
             opacity: 0; 
             transform: scaleX(0);
             transition: 1s ease opacity, 1s ease transform;
+        }
+
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            // border-bottom: 1px dotted black;
+        }
+        
+        .tooltip .tooltiptext {
+            font-family: $font-post-meta;
+            font-size: $font-size-post-meta;
+            visibility: hidden;
+            width: 300px;
+            background-color: #555;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px 0;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -150px;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        
+        .tooltip .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #555 transparent transparent transparent;
+        }
+        
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
         }
     }
 }
