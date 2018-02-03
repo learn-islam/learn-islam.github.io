@@ -35,11 +35,20 @@
             margin: 0 10px 0 0;
         }
 
-        .next {
-            margin: 0 0 0 10px;
+        button.previous {
+            display: none;
         }
 
-        button {
+        .next {
+            margin: 0 0 0 10px;
+            background-color: #000000;
+        }
+
+        button.next {
+            display: none;
+        }
+
+        button, .previous, .next {
             padding: 0 8px;
 
             background-color: #000000;
@@ -49,11 +58,11 @@
             border-width: 0px;
         }
 
-        button:hover {
+        button:hover, .previous:hover, .next:hover {
             background-color: rgba(0, 0, 0, .8);
         }
 
-        button:active {
+        button:active, .previous:active, .next:active {
             background-color: #000000;
         }
 
