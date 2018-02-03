@@ -1,7 +1,7 @@
-function moreButton () {
-    var dat = document.getElementById("more-button-10:89-93");
-    var div = document.getElementById("more-quran-10-89-93");
-    if (dat.innerHTML === "Load 10:89-93") {
+function moreButton (buttonId, divId, label) {
+    var dat = document.getElementById(buttonId);
+    var div = document.getElementById(divId);
+    if (dat.innerHTML === label) {
         dat.innerHTML = "Hide";
         div.style.display = "block";
         window.setTimeout(function() {
@@ -10,7 +10,7 @@ function moreButton () {
         }, 700);
 
     } else if (dat.innerHTML === "Hide"){
-        dat.innerHTML = "Load 10:89-93";
+        dat.innerHTML = label;
         div.style.transform = "scaleX(0)";
         div.style.opacity = "0";
            
