@@ -36,6 +36,35 @@ html {
             color: $quran-color;
         }
 
+        table {
+            width: 100%;
+            max-width: 100%;
+            border-collapse:collapse;
+
+            thead {
+                background-color: $sb-bg-color;
+                padding: 5px; 
+
+                td {
+                    color: $sb-nav-color;
+                    padding: 5px; 
+                    text-align: center;
+                }
+            }
+
+            tbody {
+                background-color: $quran-bg-color;
+                border-width: 0;
+                font-size: 14px;
+
+                td {
+                    padding: 5px 10px;
+                    border-bottom: 1px solid rgba(0,0,0,.05);
+                }
+                
+            }
+        }
+
         @include outer-wrapper();
         @include parent($parent-container-width, $parent-container-height);
         @include site-sidebar($sidebar-container-width);
@@ -47,7 +76,8 @@ html {
         // repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.03) 2px, rgba(0,0,0,.03) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.03) 5px);
     }
 }
-
+@import url('https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,300i');
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 @import url('https://fonts.googleapis.com/css?family=Saira+Condensed:200');
