@@ -4,14 +4,14 @@
 
         width: $width;
         max-width: $width;
-        height: 500px;
+        height: 1px;
         max-height: $height;
 
         margin: 100px auto;
 
         display: table;
         
-        box-shadow: 0px 0 150px 5px #575757;
+        box-shadow: 0px 0 150px 5px rgba(0, 0, 0, 0.5);
         border-radius: 15px;
     }
 }
