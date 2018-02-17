@@ -1,2 +1,2 @@
 # Learn Islam Website
-Asslamu `Alaikum! This repository contains the source code of the Learn Islam website. The primary purpose of this website is to address the misconceptions about Islam and to spread the true teachings of this beautiful religion. Further, this is a personal website which also serve as notes of the author for his religious studies related to Islam.
+Asslamu 'Alaikum! This repository contains the source code of the Learn Islam website. The primary purpose of this website is to address the misconceptions about Islam and to spread the true teachings of this religion. Further, this is a personal website which also serve as notes of the author for his religious studies related to Islam. Peace to you brother/sister!
