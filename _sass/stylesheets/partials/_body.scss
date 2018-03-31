@@ -24,7 +24,7 @@ html {
         // background-color: #ffffff;
         background-color: $bg-color;
         
-        color: $sb-bg-color;
+        color: #000000;
 
         font-size: $font-size-body;
         font-family: $font-body;
@@ -47,7 +47,7 @@ html {
 
                 td {
                     font-family: $font-post-meta; 
-                    color: $sb-nav-color;
+                    color: $gold;
                     padding: 5px; 
                     text-align: center;
                 }
@@ -80,7 +80,7 @@ html {
 @import url('https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre');
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif');
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,300i');
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:400');
 @import url('https://fonts.googleapis.com/css?family=Saira+Condensed:200');
 @import url('https://fonts.googleapis.com/css?family=Amiri');
 @import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');

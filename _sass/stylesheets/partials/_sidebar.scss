@@ -1,6 +1,6 @@
 @mixin site-sidebar ($width) {
     header {
-        background-color: $sb-bg-color;
+        background-color: rgb(234, 234, 234);
         float: left;
         display: table;
         
@@ -19,8 +19,11 @@
         .site-sidebar {     
             // padding: 20px;
             nav {
+                margin: -8px auto;
                 a {
-                    color: $sb-nav-color;
+                    background-color: rgb(240, 240, 240);
+                    border-bottom: 1px solid rgb(221, 221, 221);
+                    color: $quran-color;
 
                     float: center;
                     display: block;
@@ -30,7 +33,14 @@
                     text-decoration: none;    
                     
                     text-align: center;
-                    padding: 10px 16px;
+                    padding: 10px 0px;
+                    // margin: 10px auto;  
+                }
+
+                a:hover {
+                    background-color: #3B444B;
+                    color: #fff;
+                    border-width: 0px;
                 }
             }
         }
