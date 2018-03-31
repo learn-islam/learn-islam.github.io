@@ -51,15 +51,15 @@
         button, .previous, .next {
             padding: 0 8px;
 
-            background-color: #000000;
-            color: $sb-nav-color;
+            background-color: #3B444B;
+            color: $gold;
 
             font-family: $font-post-meta;
             border-width: 0px;
         }
 
         button:hover, .previous:hover, .next:hover {
-            background-color: rgba(0, 0, 0, .8);
+            background-color: rgb(102, 102, 102);
         }
 
         button:active, .previous:active, .next:active {
