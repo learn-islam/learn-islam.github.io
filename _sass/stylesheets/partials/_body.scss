@@ -33,7 +33,15 @@ html {
         
         a {
             text-decoration: none;
-            color: $quran-color;
+            color: $desert-color;
+        }
+
+        li {
+            color: $desert-color;
+        }
+
+        li span {
+            color: #000000;
         }
 
         table {

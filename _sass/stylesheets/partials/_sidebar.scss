@@ -23,7 +23,7 @@
                 a {
                     background-color: rgb(240, 240, 240);
                     border-bottom: 1px solid rgb(221, 221, 221);
-                    color: $quran-color;
+                    color: $desert-color;
 
                     float: center;
                     display: block;
@@ -35,12 +35,16 @@
                     text-align: center;
                     padding: 10px 0px;
                     // margin: 10px auto;  
+                    transition-delay: 0s;
+                    transition-duration: 0.3s;
+                    transition-property: all;
+                    transition-timing-function: ease-in-out;
                 }
 
                 a:hover {
-                    background-color: #3B444B;
+                    background-color: $desert-color; //#3B444B;
                     color: #fff;
-                    border-bottom: 1px solid #3B444B;
+                    border-bottom: 1px solid $desert-color; //#3B444B;
                 }
             }
         }

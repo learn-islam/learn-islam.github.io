@@ -52,7 +52,7 @@
             padding: 0 8px;
 
             background-color: #3B444B;
-            color: $gold;
+            color: $desert-light-color;
 
             font-family: $font-post-meta;
             border-width: 0px;
@@ -60,6 +60,10 @@
 
         button:hover, .previous:hover, .next:hover {
             background-color: rgb(102, 102, 102);
+            transition-delay: 0s;
+            transition-duration: 0.3s;
+            transition-property: all;
+            transition-timing-function: ease-in-out;
         }
 
         button:active, .previous:active, .next:active {
