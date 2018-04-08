@@ -51,15 +51,16 @@
         button, .previous, .next {
             padding: 0 8px;
 
-            background-color: #3B444B;
-            color: $desert-light-color;
+            background-color: $desert-color;
+            color: #fff;
 
             font-family: $font-post-meta;
             border-width: 0px;
         }
 
         button:hover, .previous:hover, .next:hover {
-            background-color: rgb(102, 102, 102);
+            background-color: $desert-light-color;
+            color: #000000;
             transition-delay: 0s;
             transition-duration: 0.3s;
             transition-property: all;

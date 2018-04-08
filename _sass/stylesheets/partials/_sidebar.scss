@@ -47,6 +47,27 @@
                     border-bottom: 1px solid $desert-color; //#3B444B;
                 }
             }
+            div#icon-container {
+                text-align: center;
+                // background-color: $bottom-bg-color;
+                padding: 28px;
+                border-radius: 0 0 20px 20px;
+                a.fa {
+                    padding: 10px;
+                    margin: 0 10px;
+                    width: 16px;
+                    // height: 30px;
+                    background-color: $desert-color;
+                    border-radius: 50%;
+                    color: #fff;
+                    text-decoration: none;
+                    transition: all .3s ease-in-out;
+                }
+                a.fa:hover {
+                    background-color: $desert-light-color;
+                    color: #000000;
+                }
+            }
         }
     }
 }
