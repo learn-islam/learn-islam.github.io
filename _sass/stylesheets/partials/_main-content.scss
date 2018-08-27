@@ -195,11 +195,18 @@
             color: $quran-color;
         }
 
-        .quran {
-            font-size: 20px;
+        .quran, .quran-inline {
             line-height: 250%;
             text-align: right;
             font-family: 'Amiri', serif;
+        }
+
+        .quran {
+            font-size: 20px;
+        }
+
+        .quran-inline {
+            font-size: 15px;
         }
 
         .bible {
@@ -215,6 +222,11 @@
             line-height: $body-line_height;
             font-family: 'Frank Ruhl Libre', serif;
             text-align: right;
+        }
+
+        .emphasize-quran {
+            color: $quran-emphasize;
+            font-weight: bold;
         }
 
         .emphasize {
@@ -278,7 +290,7 @@
             background-color: $bb-bg-color;
         }
         
-        div#more-quran-10-89-93, div#more-quran-3-151, {
+        div#more-quran-10-89-93, div#more-quran-3-151, div#other-translations-17-101, div#other-translations-25-37, div#other-translations-19-10, div#other-translations-38-29 {
             display: none;
             opacity: 0; 
             transform: scaleX(0);
