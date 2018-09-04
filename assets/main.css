@@ -239,6 +239,8 @@ html body {
     html body main.site-main-content .quran, html body main.site-main-content .bible, html body main.site-main-content .bible-hebrew {
       display: block;
       color: #a07b03; }
+    html body main.site-main-content .bible-hebrew-inline {
+      font-size: 18px; }
     html body main.site-main-content .quran, html body main.site-main-content .quran-inline {
       line-height: 250%;
       text-align: right;
