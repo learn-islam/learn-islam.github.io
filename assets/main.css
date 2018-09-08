@@ -40,6 +40,7 @@ html body {
   html body li span {
     color: #000000; }
   html body table {
+    margin: 15px 0;
     width: 100%;
     max-width: 100%;
     border-collapse: collapse; }
@@ -64,71 +65,78 @@ html body {
     margin: 0px auto;
     position: relative; }
   html body .site-parent-container {
-    background-color: #ffffff;
-    width: 1100px;
-    max-width: 1100px;
+    background-color: #ffffff00;
     height: 1px;
     max-height: 100%;
-    margin: 100px auto;
-    display: table;
-    box-shadow: 0px 0 150px 5px rgba(0, 0, 0, 0.5);
-    border-radius: 15px; }
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: table; }
   html body header {
-    background-color: #eaeaea;
     float: left;
     display: table;
-    height: 100%;
-    max-height: 100%;
+    margin-right: 20px;
     width: 250px;
-    max-width: 500px;
-    border-radius: 15px 0 0 15px; }
-    html body header img {
-      width: 250px;
-      border-radius: 15px 0 0 0; }
-    html body header .site-sidebar nav {
-      margin: -8px auto; }
-      html body header .site-sidebar nav a {
-        background-color: #f0f0f0;
-        border-bottom: 1px solid #dddddd;
-        color: #cd7c56;
-        float: center;
-        display: block;
-        font-family: 'Montserrat', sans-serif;
-        font-size: 11px;
-        text-decoration: none;
+    max-width: 500px; }
+    html body header .site-sidebar {
+      position: fixed;
+      background-color: rgba(253, 232, 218, 0.541);
+      border-radius: 15px; }
+      html body header .site-sidebar img {
+        width: 250px;
+        border-radius: 15px 15px 0 0;
+        margin-bottom: 0; }
+      html body header .site-sidebar nav {
+        margin-top: 0px;
+        margin-bottom: -8px;
+        margin-left: 0;
+        margin-left: 0; }
+        html body header .site-sidebar nav a {
+          background-color: rgba(234, 234, 234, 0);
+          border-bottom: 1px solid rgba(221, 221, 221, 0);
+          color: #cd7c56;
+          float: center;
+          display: block;
+          font-family: 'Montserrat', sans-serif;
+          font-size: 11px;
+          text-decoration: none;
+          text-align: center;
+          padding: 10px 0px;
+          transition-delay: 0s;
+          transition-duration: 0.3s;
+          transition-property: all;
+          transition-timing-function: ease-in-out; }
+        html body header .site-sidebar nav a:hover {
+          background-color: rgba(253, 232, 218, 0.541);
+          color: #303030;
+          border-bottom: 1px solid rgba(235, 235, 235, 0); }
+      html body header .site-sidebar div#icon-container {
         text-align: center;
-        padding: 10px 0px;
-        transition-delay: 0s;
-        transition-duration: 0.3s;
-        transition-property: all;
-        transition-timing-function: ease-in-out; }
-      html body header .site-sidebar nav a:hover {
-        background-color: #cd7c56;
-        color: #fff;
-        border-bottom: 1px solid #cd7c56; }
-    html body header .site-sidebar div#icon-container {
-      text-align: center;
-      padding: 30px 2px 0 2px;
-      border-radius: 0 0 20px 20px; }
-      html body header .site-sidebar div#icon-container a.fa {
-        padding: 10px;
-        margin: 0 10px;
-        width: 16px;
-        background-color: #cd7c56;
-        border-radius: 50%;
-        color: #fff;
-        text-decoration: none;
-        transition: all .3s ease-in-out; }
-      html body header .site-sidebar div#icon-container a.fa:hover {
-        background-color: #ffa488;
-        color: #000000; }
+        padding: 20px 2px 15px 2px;
+        border-radius: 0 0 20px 20px; }
+        html body header .site-sidebar div#icon-container a.fa {
+          padding: 10px;
+          margin: 0 10px;
+          width: 16px;
+          background-color: none;
+          border-radius: 50%;
+          color: rgba(255, 255, 255, 0.767);
+          text-decoration: none;
+          transition: all .3s ease-in-out; }
+        html body header .site-sidebar div#icon-container a.fa:hover {
+          background-color: rgba(253, 232, 218, 0.541);
+          color: #303030; }
   html body main.site-main-content {
+    background-color: #ffffff;
     float: right;
     width: 650px;
     max-width: 650px;
     height: 100%;
     max-height: 100%;
-    margin: 50px 100px; }
+    padding: 100px;
+    box-shadow: 0px 0 150px 5px rgba(110, 110, 110, 0.5);
+    border-radius: 15px; }
     html body main.site-main-content div.post-header {
       display: block !important; }
     html body main.site-main-content span.web-title {
@@ -173,7 +181,8 @@ html body {
       font-family: "Fira Sans Condensed", sans-serif;
       font-size: 30px;
       text-decoration: none;
-      color: #36454F; }
+      color: #36454F;
+      margin-top: 0; }
     html body main.site-main-content span.post-meta, html body main.site-main-content time, html body main.site-main-content div.rss-subscribe, html body main.site-main-content div.pagination {
       font-family: "Saira Condensed", sans-serif;
       font-size: 14px;
@@ -240,7 +249,9 @@ html body {
       display: block;
       color: #a07b03; }
     html body main.site-main-content .bible-hebrew-inline {
-      font-size: 18px; }
+      font-size: 20px; }
+    html body main.site-main-content .bible-aramaic-inline {
+      font-size: 15px; }
     html body main.site-main-content .quran, html body main.site-main-content .quran-inline {
       line-height: 250%;
       text-align: right;
