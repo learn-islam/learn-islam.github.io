@@ -273,6 +273,8 @@ html {
       margin-left: auto;
       margin-right: auto;
       display: table; }
+      html body .site-parent-container footer {
+        display: none; }
     html body header {
       float: left;
       display: table;
