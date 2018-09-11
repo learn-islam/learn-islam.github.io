@@ -10,26 +10,28 @@
 @import url("https://fonts.googleapis.com/css?family=Rochester");
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css");
 html {
-  height: 0px; }
+  height: 100%;
+  box-sizing: border-box !important; }
   @media only screen and (min-width: 200px) and (max-width: 800px) {
     html body {
       background-image: none !important;
-      max-width: 100% !important;
+      width: 100% !important;
       font-size: 14px !important;
       text-align: left !important;
-      height: 100%; }
+      height: 100%;
+      box-sizing: border-box !important; }
       html body .outer-wrapper {
-        height: 100%;
-        display: table !important;
-        margin: 0 !important;
-        position: static !important;
+        width: 100% !important;
+        height: 100% !important;
+        display: table;
         overflow: hidden;
+        height: 100%;
         box-sizing: border-box !important; }
         html body .outer-wrapper .site-parent-container {
           box-sizing: border-box;
-          background-color: #ffffff00;
+          background-color: #ffffff;
           width: 100% !important;
-          max-width: 100%;
+          height: 100% !important;
           margin: 0;
           display: table; }
           html body .outer-wrapper .site-parent-container footer {
@@ -109,6 +111,8 @@ html {
             margin-top: 0px;
             box-shadow: none;
             border-radius: 0px; }
+            html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
+              display: none; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
               margin-top: 0; }
             html body .outer-wrapper .site-parent-container main.site-main-content span#list-of-articles {
