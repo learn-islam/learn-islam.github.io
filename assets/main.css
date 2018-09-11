@@ -69,6 +69,15 @@ html {
               box-sizing: border-box;
               height: 45px;
               box-shadow: 0px 3px 15px #888888; }
+              html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name {
+                text-align: center;
+                float: right;
+                padding: 10px;
+                margin: auto;
+                color: white;
+                font-family: Arial, Helvetica, sans-serif;
+                font-weight: bold;
+                font-size: 24px; }
               html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown {
                 margin: auto 0;
                 position: relative;
@@ -109,12 +118,6 @@ html {
                   color: white; }
               html body .outer-wrapper .site-parent-container header .site-sidebar img {
                 display: none; }
-              html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name {
-                text-align: left;
-                float: left;
-                padding: 5px 10px;
-                font-family: 'Berkshire Swash', cursive;
-                font-size: 20px; }
               html body .outer-wrapper .site-parent-container header .site-sidebar nav {
                 margin-top: 0px;
                 margin-left: 0;
