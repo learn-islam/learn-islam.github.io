@@ -118,7 +118,9 @@
             transform: scale(0.3) !important; }
           html body .outer-wrapper .site-parent-container main.site-main-content .bible, html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew, html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
             font-size: 15px; }
-          html body .outer-wrapper .site-parent-container main.site-main-content .quran, html body .outer-wrapper .site-parent-container main.site-main-content .quran-inline {
+          html body .outer-wrapper .site-parent-container main.site-main-content .quran {
+            font-size: 17px !important; }
+          html body .outer-wrapper .site-parent-container main.site-main-content .quran-inline {
             font-size: 15px !important; }
           html body .outer-wrapper .site-parent-container main.site-main-content div.more-quran-wrapper {
             margin: 10px 0 !important; }
