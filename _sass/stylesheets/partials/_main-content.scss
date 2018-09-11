@@ -259,6 +259,7 @@
         }
 
         div.quran-wrapper, div.bible-wrapper {
+            box-sizing: border-box;
             margin: 15px;
             background-color: $quran-bg-color;
         }
@@ -269,6 +270,7 @@
         }
 
         div.verse-no, div.bible-verse-no {
+            box-sizing: border-box;
             border-width: 1px;
             width: 100%;
             clear:both;
@@ -276,21 +278,25 @@
             
             font-family: $font-post-meta; 
             text-align: center;
+            padding: 0 10px;
 
             div.book {
                 float: left;
-                width: 100px
+                width: 100px;
+                text-align: left;
             }
     
             div.chapter-verse {
                 float: right;
                 width: 100px;
+                text-align: right;
             }
 
             div.chapter {
                 margin: 0 auto !important;
                 width: 300px;
-                display:inline-block;
+                display: inline-block;
+                text-align: center;
             }
         }
 
