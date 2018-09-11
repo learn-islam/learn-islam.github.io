@@ -1,13 +1,16 @@
 @mixin site-main-content($width, $height, $margin) {
     main.site-main-content {
+        background-color: #ffffff;
         float: right;
         width: $width;
         max-width: $width;
         height: $height;
         max-height: $height;
 
-        margin: $margin;
-
+        padding: 100px;
+        // margin: $margin;
+        box-shadow: 0px 0 150px 5px rgba(110, 110, 110, 0.5);
+        border-radius: 15px;
         div.post-header {
             display: block !important;
         }
@@ -80,6 +83,7 @@
             font-size: 30px;
             text-decoration:  none;
             color: $sb-bg-color;
+            margin-top: 0;
         }
 
         span.post-meta, time, div.rss-subscribe, div.pagination {
@@ -195,6 +199,14 @@
             color: $quran-color;
         }
 
+        .bible-hebrew-inline {
+            font-size: 20px;
+        }
+
+        .bible-aramaic-inline {
+            font-size: 15px;
+        }
+        
         .quran, .quran-inline {
             line-height: 250%;
             text-align: right;
@@ -247,6 +259,7 @@
         }
 
         div.quran-wrapper, div.bible-wrapper {
+            box-sizing: border-box;
             margin: 15px;
             background-color: $quran-bg-color;
         }
@@ -257,6 +270,7 @@
         }
 
         div.verse-no, div.bible-verse-no {
+            box-sizing: border-box;
             border-width: 1px;
             width: 100%;
             clear:both;
@@ -264,21 +278,25 @@
             
             font-family: $font-post-meta; 
             text-align: center;
+            padding: 0 10px;
 
             div.book {
                 float: left;
-                width: 100px
+                width: 100px;
+                text-align: left;
             }
     
             div.chapter-verse {
                 float: right;
                 width: 100px;
+                text-align: right;
             }
 
             div.chapter {
                 margin: 0 auto !important;
                 width: 300px;
-                display:inline-block;
+                display: inline-block;
+                text-align: center;
             }
         }
 

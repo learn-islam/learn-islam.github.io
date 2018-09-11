@@ -1,28 +1,42 @@
 @mixin site-sidebar ($width) {
     header {
-        background-color: rgb(234, 234, 234);
         float: left;
         display: table;
+
+        // margin-top: 8px;
+        margin-right: 20px;
         
-        height: 100%;
-        max-height: 100%;
+        // height: %;
+        // max-height: 100%;
         width: $width;
         max-width: $width * 2;
 
-        border-radius: 15px 0 0 15px;
-        
-        img {
-            width: $width;
-            border-radius: 15px 0 0 0;
-        }
+        // margin: 0 -1000px 0 0;
 
         .site-sidebar {     
+            position: fixed;
+            img {
+                width: $width;
+                border-radius: 15px 15px 0 0;
+                margin-bottom: 0;
+                opacity: 0.7;
+            }
+            background-color: rgba(253, 232, 218, 0.541);
+            // background-color: #00000000;
+            border-radius: 15px;
+            // -webkit-box-shadow: -8px 3px 5px 5px rgba(0, 0, 0, 0.5);
+            // -moz-box-shadow: -8px 3px 5px 5px rgba(0, 0, 0, 0.5);
+            // box-shadow: -8px 3px 5px 5px rgba(0, 0, 0, 0.5);
             // padding: 20px;
             nav {
-                margin: -8px auto;
+                margin-top: 0px;
+                margin-bottom: -8px;
+                margin-left: 0;
+                margin-left: 0;
+
                 a {
-                    background-color: rgb(240, 240, 240);
-                    border-bottom: 1px solid rgb(221, 221, 221);
+                    background-color: rgba(234, 234, 234, 0);
+                    border-bottom: 1px solid rgba(221, 221, 221, 0);
                     color: $desert-color;
 
                     float: center;
@@ -42,30 +56,30 @@
                 }
 
                 a:hover {
-                    background-color: $desert-color; //#3B444B;
-                    color: #fff;
-                    border-bottom: 1px solid $desert-color; //#3B444B;
+                    background-color: rgba(253, 232, 218, 0.541);
+                    color: rgb(48, 48, 48);
+                    border-bottom: 1px solid rgba(235, 235, 235, 0);
                 }
             }
             div#icon-container {
                 text-align: center;
                 // background-color: $bottom-bg-color;
-                padding: 30px 2px 0 2px;
+                padding: 20px 2px 15px 2px;
                 border-radius: 0 0 20px 20px;
                 a.fa {
                     padding: 10px;
                     margin: 0 10px;
                     width: 16px;
                     // height: 30px;
-                    background-color: $desert-color;
+                    background-color: none;
                     border-radius: 50%;
-                    color: #fff;
+                    color: rgba(255, 255, 255, 0.767);
                     text-decoration: none;
                     transition: all .3s ease-in-out;
                 }
                 a.fa:hover {
-                    background-color: $desert-light-color;
-                    color: #000000;
+                    background-color: rgba(253, 232, 218, 0.541);
+                    color: $desert-color;
                 }
             }
         }
