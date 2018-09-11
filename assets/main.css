@@ -9,74 +9,37 @@
 @import url("https://fonts.googleapis.com/css?family=Amita|Galdeano|Offside");
 @import url("https://fonts.googleapis.com/css?family=Rochester");
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css");
-@media only screen and (min-width: 200px) and (max-width: 800px) {
-  html body {
-    background-image: none !important;
-    max-width: 100% !important;
-    font-size: 14px !important;
-    text-align: left !important; }
-    html body .outer-wrapper {
-      min-width: 100% !important;
-      height: 100%;
-      display: table !important;
-      position: static !important;
-      box-sizing: border-box !important; }
-      html body .outer-wrapper .site-parent-container {
-        box-sizing: border-box;
-        background-color: #ffffff00;
-        width: 100% !important;
-        max-width: 100%;
-        margin: 0;
-        display: table; }
-        html body .outer-wrapper .site-parent-container header {
+html {
+  height: 0px; }
+  @media only screen and (min-width: 200px) and (max-width: 800px) {
+    html body {
+      background-image: none !important;
+      max-width: 100% !important;
+      font-size: 14px !important;
+      text-align: left !important;
+      height: 100%; }
+      html body .outer-wrapper {
+        height: 100%;
+        display: table !important;
+        margin: 0 !important;
+        position: static !important;
+        overflow: hidden;
+        box-sizing: border-box !important; }
+        html body .outer-wrapper .site-parent-container {
           box-sizing: border-box;
-          float: initial;
-          display: block;
-          margin: 0px;
-          width: 100%;
+          background-color: #ffffff00;
+          width: 100% !important;
           max-width: 100%;
-          position: relative; }
-          html body .outer-wrapper .site-parent-container header .site-sidebar {
-            position: static;
-            border-radius: 0px; }
-            html body .outer-wrapper .site-parent-container header .site-sidebar img {
-              display: none; }
-            html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name {
-              text-align: left;
-              float: left;
-              padding: 5px 10px;
-              font-family: 'Berkshire Swash', cursive;
-              font-size: 20px; }
-            html body .outer-wrapper .site-parent-container header .site-sidebar nav {
-              margin-top: 0px;
-              margin-left: 0;
-              text-align: right; }
-              html body .outer-wrapper .site-parent-container header .site-sidebar nav a#home-button {
-                display: none; }
-              html body .outer-wrapper .site-parent-container header .site-sidebar nav a {
-                background-color: #383838;
-                border-bottom: 1px solid rgba(221, 221, 221, 0);
-                color: white;
-                display: inline-block;
-                font-family: 'Montserrat', sans-serif;
-                font-weight: bold;
-                font-size: 11px;
-                text-decoration: none;
-                text-align: center;
-                padding: 5px 10px;
-                transition-delay: 0s;
-                transition-duration: 0.3s;
-                transition-property: all;
-                transition-timing-function: ease-in-out; }
-              html body .outer-wrapper .site-parent-container header .site-sidebar nav a:hover {
-                background-color: black;
-                color: #303030;
-                border-bottom: 1px solid rgba(235, 235, 235, 0); }
-            html body .outer-wrapper .site-parent-container header .site-sidebar div#icon-container {
+          margin: 0;
+          display: table; }
+          html body .outer-wrapper .site-parent-container footer {
+            display: block !important; }
+            html body .outer-wrapper .site-parent-container footer div#icon-container-footer {
               text-align: center;
-              padding: 20px 2px 15px 2px;
-              border-radius: 0 0 20px 20px; }
-              html body .outer-wrapper .site-parent-container header .site-sidebar div#icon-container a.fa {
+              background-color: #d47245;
+              padding: 7px 2px;
+              border-radius: 0; }
+              html body .outer-wrapper .site-parent-container footer div#icon-container-footer a.fa {
                 padding: 10px;
                 margin: 0 10px;
                 width: 16px;
@@ -85,414 +48,461 @@
                 color: rgba(0, 0, 0, 0.767);
                 text-decoration: none;
                 transition: all .3s ease-in-out; }
-              html body .outer-wrapper .site-parent-container header .site-sidebar div#icon-container a.fa:hover {
+              html body .outer-wrapper .site-parent-container footer div#icon-container-footer a.fa:hover {
                 background-color: rgba(253, 232, 218, 0.541);
                 color: #cd7c56; }
-        html body .outer-wrapper .site-parent-container main.site-main-content {
-          box-sizing: border-box;
-          background-color: #ffffff;
-          float: initial;
-          display: block;
-          width: 100%;
-          max-width: 100%;
-          padding: 0px 20px 50px 20px;
-          margin-top: 0px;
-          box-shadow: none;
-          border-radius: 0px; }
-          html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
-            margin-top: 0; }
-          html body .outer-wrapper .site-parent-container main.site-main-content span#list-of-articles {
-            display: none; }
-          html body .outer-wrapper .site-parent-container main.site-main-content h1.post-title {
-            font-size: 23px;
-            padding-top: 20px; }
-          html body .outer-wrapper .site-parent-container main.site-main-content a.post-link {
-            font-size: 23px; }
-          html body .outer-wrapper .site-parent-container main.site-main-content span.web-title {
-            font-size: 30px;
-            margin-top: 10px !important;
-            margin-bottom: 10px !important;
-            margin-right: auto !important;
-            margin-left: auto !important; }
-          html body .outer-wrapper .site-parent-container main.site-main-content img#underconstruction {
-            transform: scale(0.3) !important; }
-          html body .outer-wrapper .site-parent-container main.site-main-content .bible, html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew, html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
-            font-size: 15px; }
-          html body .outer-wrapper .site-parent-container main.site-main-content .quran {
-            font-size: 17px !important; }
-          html body .outer-wrapper .site-parent-container main.site-main-content .quran-inline {
-            font-size: 15px !important; }
-          html body .outer-wrapper .site-parent-container main.site-main-content div.more-quran-wrapper {
-            margin: 10px 0 !important; }
-            html body .outer-wrapper .site-parent-container main.site-main-content div.more-quran-wrapper div.quran-wrapper {
-              margin: 0px !important; }
-          html body .outer-wrapper .site-parent-container main.site-main-content div.quran-wrapper, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-wrapper {
+          html body .outer-wrapper .site-parent-container header {
             box-sizing: border-box;
-            margin: 10px 0 !important;
-            background-color: rgba(0, 0, 0, 0.03); }
-          html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no {
-            box-sizing: border-box;
+            float: initial;
+            display: block;
+            margin: 0px;
             width: 100%;
-            padding: 0 4px !important; }
-            html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.book, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.book {
-              float: left;
-              width: 20%;
-              text-align: left; }
-            html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter-verse, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter-verse {
-              float: right;
-              width: 20%;
-              text-align: right; }
-            html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter {
-              margin: 0 auto !important;
-              width: 55%;
-              display: inline-block;
-              text-align: center; } }
-html body {
-  max-height: 100%;
-  margin: 0;
-  padding: 0;
-  background-image: url("/assets/bg-1.jpg");
-  /* Background image is centered vertically and horizontally at all times */
-  background-position: center center;
-  /* Background image doesn't tile */
-  background-repeat: no-repeat;
-  /* Background image is fixed in the viewport so that it doesn't move when 
-      the content's height is greater than the image's height */
-  background-attachment: fixed;
-  /* This is what makes the background image rescale based
-      on the container's size */
-  background-size: cover;
-  /* Set a background color that will be displayed
-      while the background image is loading */
-  background-color: #ffc6b5;
-  color: #000000;
-  font-size: 16px;
-  font-family: "Roboto", sans-serif;
-  text-align: justify;
-  line-height: 26px; }
-  html body a {
-    text-decoration: none;
-    color: #cd7c56; }
-  html body li {
-    color: #cd7c56; }
-  html body li span {
-    color: #000000; }
-  html body table {
-    margin: 15px 0;
-    width: 100%;
-    max-width: 100%;
-    border-collapse: collapse; }
-    html body table thead {
-      background-color: #36454F;
-      padding: 5px; }
-      html body table thead td {
-        font-family: "Saira Condensed";
-        color: #FFD700;
-        padding: 5px;
-        text-align: center; }
-    html body table tbody {
-      background-color: rgba(0, 0, 0, 0.03);
-      border-width: 0;
-      font-size: 14px; }
-      html body table tbody td {
-        padding: 5px 10px;
-        border-bottom: 1px solid rgba(0, 0, 0, 0.05); }
-  html body .outer-wrapper {
-    width: 100%;
-    height: 100%;
-    margin: 0px auto;
-    position: relative; }
-  html body .site-parent-container {
-    background-color: #ffffff00;
-    height: 1px;
+            max-width: 100%;
+            position: relative; }
+            html body .outer-wrapper .site-parent-container header .site-sidebar {
+              background-color: #d47245;
+              position: static;
+              border-radius: 0px; }
+              html body .outer-wrapper .site-parent-container header .site-sidebar img {
+                display: none; }
+              html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name {
+                text-align: left;
+                float: left;
+                padding: 5px 10px;
+                font-family: 'Berkshire Swash', cursive;
+                font-size: 20px; }
+              html body .outer-wrapper .site-parent-container header .site-sidebar nav {
+                margin-top: 0px;
+                margin-left: 0;
+                text-align: right; }
+                html body .outer-wrapper .site-parent-container header .site-sidebar nav a#home-button {
+                  display: none; }
+                html body .outer-wrapper .site-parent-container header .site-sidebar nav a {
+                  background-color: #383838;
+                  border-bottom: 1px solid rgba(221, 221, 221, 0);
+                  color: white;
+                  display: inline-block;
+                  font-family: 'Montserrat', sans-serif;
+                  font-weight: bold;
+                  font-size: 11px;
+                  text-decoration: none;
+                  text-align: center;
+                  padding: 5px 10px;
+                  transition-delay: 0s;
+                  transition-duration: 0.3s;
+                  transition-property: all;
+                  transition-timing-function: ease-in-out; }
+                html body .outer-wrapper .site-parent-container header .site-sidebar nav a:hover {
+                  background-color: black;
+                  color: #303030;
+                  border-bottom: 1px solid rgba(235, 235, 235, 0); }
+              html body .outer-wrapper .site-parent-container header .site-sidebar div#icon-container {
+                display: none !important; }
+          html body .outer-wrapper .site-parent-container main.site-main-content {
+            box-sizing: border-box;
+            background-color: #ffffff;
+            float: initial;
+            display: block;
+            width: 100%;
+            max-width: 100%;
+            padding: 0px 20px 50px 20px;
+            margin-top: 0px;
+            box-shadow: none;
+            border-radius: 0px; }
+            html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
+              margin-top: 0; }
+            html body .outer-wrapper .site-parent-container main.site-main-content span#list-of-articles {
+              display: none; }
+            html body .outer-wrapper .site-parent-container main.site-main-content h1.post-title {
+              font-size: 23px;
+              padding-top: 20px; }
+            html body .outer-wrapper .site-parent-container main.site-main-content a.post-link {
+              font-size: 23px; }
+            html body .outer-wrapper .site-parent-container main.site-main-content span.web-title {
+              font-size: 30px;
+              margin-top: 10px !important;
+              margin-bottom: 10px !important;
+              margin-right: auto !important;
+              margin-left: auto !important; }
+            html body .outer-wrapper .site-parent-container main.site-main-content img#underconstruction {
+              transform: scale(0.3) !important; }
+            html body .outer-wrapper .site-parent-container main.site-main-content .bible, html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew, html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
+              font-size: 15px; }
+            html body .outer-wrapper .site-parent-container main.site-main-content .quran {
+              font-size: 17px !important; }
+            html body .outer-wrapper .site-parent-container main.site-main-content .quran-inline {
+              font-size: 15px !important; }
+            html body .outer-wrapper .site-parent-container main.site-main-content div.more-quran-wrapper {
+              margin: 10px 0 !important; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div.more-quran-wrapper div.quran-wrapper {
+                margin: 0px !important; }
+            html body .outer-wrapper .site-parent-container main.site-main-content div.quran-wrapper, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-wrapper {
+              box-sizing: border-box;
+              margin: 10px 0 !important;
+              background-color: rgba(0, 0, 0, 0.03); }
+            html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no {
+              box-sizing: border-box;
+              width: 100%;
+              padding: 0 4px !important; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.book, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.book {
+                float: left;
+                width: 20%;
+                text-align: left; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter-verse, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter-verse {
+                float: right;
+                width: 20%;
+                text-align: right; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter {
+                margin: 0 auto !important;
+                width: 55%;
+                display: inline-block;
+                text-align: center; } }
+  html body {
     max-height: 100%;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-left: auto;
-    margin-right: auto;
-    display: table; }
-  html body header {
-    float: left;
-    display: table;
-    margin-right: 20px;
-    width: 250px;
-    max-width: 500px; }
-    html body header .site-sidebar {
-      position: fixed;
-      background-color: rgba(253, 232, 218, 0.541);
-      border-radius: 15px; }
-      html body header .site-sidebar img {
-        width: 250px;
-        border-radius: 15px 15px 0 0;
-        margin-bottom: 0;
-        opacity: 0.7; }
-      html body header .site-sidebar nav {
-        margin-top: 0px;
-        margin-bottom: -8px;
-        margin-left: 0;
-        margin-left: 0; }
-        html body header .site-sidebar nav a {
-          background-color: rgba(234, 234, 234, 0);
-          border-bottom: 1px solid rgba(221, 221, 221, 0);
-          color: #cd7c56;
-          float: center;
-          display: block;
-          font-family: 'Montserrat', sans-serif;
-          font-size: 11px;
-          text-decoration: none;
-          text-align: center;
-          padding: 10px 0px;
-          transition-delay: 0s;
-          transition-duration: 0.3s;
-          transition-property: all;
-          transition-timing-function: ease-in-out; }
-        html body header .site-sidebar nav a:hover {
-          background-color: rgba(253, 232, 218, 0.541);
-          color: #303030;
-          border-bottom: 1px solid rgba(235, 235, 235, 0); }
-      html body header .site-sidebar div#icon-container {
-        text-align: center;
-        padding: 20px 2px 15px 2px;
-        border-radius: 0 0 20px 20px; }
-        html body header .site-sidebar div#icon-container a.fa {
-          padding: 10px;
-          margin: 0 10px;
-          width: 16px;
-          background-color: none;
-          border-radius: 50%;
-          color: rgba(255, 255, 255, 0.767);
-          text-decoration: none;
-          transition: all .3s ease-in-out; }
-        html body header .site-sidebar div#icon-container a.fa:hover {
-          background-color: rgba(253, 232, 218, 0.541);
-          color: #cd7c56; }
-  html body main.site-main-content {
-    background-color: #ffffff;
-    float: right;
-    width: 650px;
-    max-width: 650px;
-    height: 100%;
-    max-height: 100%;
-    padding: 100px;
-    box-shadow: 0px 0 150px 5px rgba(110, 110, 110, 0.5);
-    border-radius: 15px; }
-    html body main.site-main-content div.post-header {
-      display: block !important; }
-    html body main.site-main-content span.web-title {
-      font-family: 'Berkshire Swash', cursive;
-      font-size: 50px;
-      color: #000000;
-      display: block;
-      margin: 50px;
-      text-align: center; }
-    html body main.site-main-content span.basmallah {
-      font-size: 40px;
-      font-family: 'Reem Kufi', sans-serif;
-      display: block;
-      text-align: center; }
-    html body main.site-main-content .previous {
-      margin: 0 10px 0 0; }
-    html body main.site-main-content button.previous {
-      display: none; }
-    html body main.site-main-content .next {
-      margin: 0 0 0 10px;
-      background-color: #000000; }
-    html body main.site-main-content button.next {
-      display: none; }
-    html body main.site-main-content button, html body main.site-main-content .previous, html body main.site-main-content .next {
-      padding: 0 8px;
-      background-color: #cd7c56;
-      color: #fff;
-      font-family: "Saira Condensed";
-      border-width: 0px; }
-    html body main.site-main-content button:hover, html body main.site-main-content .previous:hover, html body main.site-main-content .next:hover {
-      background-color: #ffa488;
-      color: #000000;
-      transition-delay: 0s;
-      transition-duration: 0.3s;
-      transition-property: all;
-      transition-timing-function: ease-in-out; }
-    html body main.site-main-content button:active, html body main.site-main-content .previous:active, html body main.site-main-content .next:active {
-      background-color: #000000; }
-    html body main.site-main-content button.more-button {
-      font-size: 16px; }
-    html body main.site-main-content a.post-link, html body main.site-main-content h1.post-title {
-      font-family: "Fira Sans Condensed", sans-serif;
-      font-size: 30px;
+    margin: 0;
+    padding: 0;
+    background-image: url("/assets/bg-1.jpg");
+    /* Background image is centered vertically and horizontally at all times */
+    background-position: center center;
+    /* Background image doesn't tile */
+    background-repeat: no-repeat;
+    /* Background image is fixed in the viewport so that it doesn't move when 
+        the content's height is greater than the image's height */
+    background-attachment: fixed;
+    /* This is what makes the background image rescale based
+        on the container's size */
+    background-size: cover;
+    /* Set a background color that will be displayed
+        while the background image is loading */
+    background-color: #ffc6b5;
+    color: #000000;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    text-align: justify;
+    line-height: 26px; }
+    html body a {
       text-decoration: none;
-      color: #36454F;
-      margin-top: 0; }
-    html body main.site-main-content span.post-meta, html body main.site-main-content time, html body main.site-main-content div.rss-subscribe, html body main.site-main-content div.pagination {
-      font-family: "Saira Condensed", sans-serif;
-      font-size: 14px;
-      color: #36454F; }
-    html body main.site-main-content div.rss-subscribe {
-      float: left; }
-    html body main.site-main-content div.pagination {
-      float: right; }
-    html body main.site-main-content time, html body main.site-main-content div#rss-subscribe-post.rss-subscribe {
-      display: inline; }
-    html body main.site-main-content ul.post-list {
-      list-style: none;
-      padding: 0; }
-      html body main.site-main-content ul.post-list li {
-        padding: 30px 0; }
-    html body main.site-main-content div.with-left-border, html body main.site-main-content div.question, html body main.site-main-content div.question-christian, html body main.site-main-content div.reference {
-      padding: 10px;
-      border-left: 2px solid rgba(0, 0, 0, 0.1); }
-    html body main.site-main-content div.with-top-border, html body main.site-main-content div.answer {
-      padding: 10px 0 0 0;
-      border-top: 2px solid rgba(0, 0, 0, 0.1); }
-    html body main.site-main-content div.with-all-border {
-      padding: 10px;
-      border: 2px solid rgba(0, 0, 0, 0.1); }
-    html body main.site-main-content div.reference {
-      margin: 0 0 50px 0; }
-      html body main.site-main-content div.reference ol {
+      color: #cd7c56; }
+    html body li {
+      color: #cd7c56; }
+    html body li span {
+      color: #000000; }
+    html body table {
+      margin: 15px 0;
+      width: 100%;
+      max-width: 100%;
+      border-collapse: collapse; }
+      html body table thead {
+        background-color: #36454F;
+        padding: 5px; }
+        html body table thead td {
+          font-family: "Saira Condensed";
+          color: #FFD700;
+          padding: 5px;
+          text-align: center; }
+      html body table tbody {
+        background-color: rgba(0, 0, 0, 0.03);
+        border-width: 0;
+        font-size: 14px; }
+        html body table tbody td {
+          padding: 5px 10px;
+          border-bottom: 1px solid rgba(0, 0, 0, 0.05); }
+    html body .outer-wrapper {
+      width: 100%;
+      height: 100%;
+      margin: 0px auto;
+      position: relative; }
+    html body .site-parent-container {
+      background-color: #ffffff00;
+      height: 1px;
+      max-height: 100%;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-left: auto;
+      margin-right: auto;
+      display: table; }
+    html body header {
+      float: left;
+      display: table;
+      margin-right: 20px;
+      width: 250px;
+      max-width: 500px; }
+      html body header .site-sidebar {
+        position: fixed;
+        background-color: rgba(253, 232, 218, 0.541);
+        border-radius: 15px; }
+        html body header .site-sidebar img {
+          width: 250px;
+          border-radius: 15px 15px 0 0;
+          margin-bottom: 0;
+          opacity: 0.7; }
+        html body header .site-sidebar nav {
+          margin-top: 0px;
+          margin-bottom: -8px;
+          margin-left: 0;
+          margin-left: 0; }
+          html body header .site-sidebar nav a {
+            background-color: rgba(234, 234, 234, 0);
+            border-bottom: 1px solid rgba(221, 221, 221, 0);
+            color: #cd7c56;
+            float: center;
+            display: block;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 11px;
+            text-decoration: none;
+            text-align: center;
+            padding: 10px 0px;
+            transition-delay: 0s;
+            transition-duration: 0.3s;
+            transition-property: all;
+            transition-timing-function: ease-in-out; }
+          html body header .site-sidebar nav a:hover {
+            background-color: rgba(253, 232, 218, 0.541);
+            color: #303030;
+            border-bottom: 1px solid rgba(235, 235, 235, 0); }
+        html body header .site-sidebar div#icon-container {
+          text-align: center;
+          padding: 20px 2px 15px 2px;
+          border-radius: 0 0 20px 20px; }
+          html body header .site-sidebar div#icon-container a.fa {
+            padding: 10px;
+            margin: 0 10px;
+            width: 16px;
+            background-color: none;
+            border-radius: 50%;
+            color: rgba(255, 255, 255, 0.767);
+            text-decoration: none;
+            transition: all .3s ease-in-out; }
+          html body header .site-sidebar div#icon-container a.fa:hover {
+            background-color: rgba(253, 232, 218, 0.541);
+            color: #cd7c56; }
+    html body main.site-main-content {
+      background-color: #ffffff;
+      float: right;
+      width: 650px;
+      max-width: 650px;
+      height: 100%;
+      max-height: 100%;
+      padding: 100px;
+      box-shadow: 0px 0 150px 5px rgba(110, 110, 110, 0.5);
+      border-radius: 15px; }
+      html body main.site-main-content div.post-header {
+        display: block !important; }
+      html body main.site-main-content span.web-title {
+        font-family: 'Berkshire Swash', cursive;
+        font-size: 50px;
+        color: #000000;
+        display: block;
+        margin: 50px;
+        text-align: center; }
+      html body main.site-main-content span.basmallah {
+        font-size: 40px;
+        font-family: 'Reem Kufi', sans-serif;
+        display: block;
+        text-align: center; }
+      html body main.site-main-content .previous {
+        margin: 0 10px 0 0; }
+      html body main.site-main-content button.previous {
+        display: none; }
+      html body main.site-main-content .next {
+        margin: 0 0 0 10px;
+        background-color: #000000; }
+      html body main.site-main-content button.next {
+        display: none; }
+      html body main.site-main-content button, html body main.site-main-content .previous, html body main.site-main-content .next {
+        padding: 0 8px;
+        background-color: #cd7c56;
+        color: #fff;
+        font-family: "Saira Condensed";
+        border-width: 0px; }
+      html body main.site-main-content button:hover, html body main.site-main-content .previous:hover, html body main.site-main-content .next:hover {
+        background-color: #ffa488;
+        color: #000000;
+        transition-delay: 0s;
+        transition-duration: 0.3s;
+        transition-property: all;
+        transition-timing-function: ease-in-out; }
+      html body main.site-main-content button:active, html body main.site-main-content .previous:active, html body main.site-main-content .next:active {
+        background-color: #000000; }
+      html body main.site-main-content button.more-button {
+        font-size: 16px; }
+      html body main.site-main-content a.post-link, html body main.site-main-content h1.post-title {
+        font-family: "Fira Sans Condensed", sans-serif;
+        font-size: 30px;
+        text-decoration: none;
+        color: #36454F;
+        margin-top: 0; }
+      html body main.site-main-content span.post-meta, html body main.site-main-content time, html body main.site-main-content div.rss-subscribe, html body main.site-main-content div.pagination {
+        font-family: "Saira Condensed", sans-serif;
+        font-size: 14px;
+        color: #36454F; }
+      html body main.site-main-content div.rss-subscribe {
+        float: left; }
+      html body main.site-main-content div.pagination {
+        float: right; }
+      html body main.site-main-content time, html body main.site-main-content div#rss-subscribe-post.rss-subscribe {
+        display: inline; }
+      html body main.site-main-content ul.post-list {
+        list-style: none;
+        padding: 0; }
+        html body main.site-main-content ul.post-list li {
+          padding: 30px 0; }
+      html body main.site-main-content div.with-left-border, html body main.site-main-content div.question, html body main.site-main-content div.question-christian, html body main.site-main-content div.reference {
+        padding: 10px;
+        border-left: 2px solid rgba(0, 0, 0, 0.1); }
+      html body main.site-main-content div.with-top-border, html body main.site-main-content div.answer {
+        padding: 10px 0 0 0;
+        border-top: 2px solid rgba(0, 0, 0, 0.1); }
+      html body main.site-main-content div.with-all-border {
+        padding: 10px;
+        border: 2px solid rgba(0, 0, 0, 0.1); }
+      html body main.site-main-content div.reference {
+        margin: 0 0 50px 0; }
+        html body main.site-main-content div.reference ol {
+          margin: 0;
+          padding: 0 0 0 15px; }
+      html body main.site-main-content div.question-christian ol {
         margin: 0;
         padding: 0 0 0 15px; }
-    html body main.site-main-content div.question-christian ol {
-      margin: 0;
-      padding: 0 0 0 15px; }
-    html body main.site-main-content span.question-label, html body main.site-main-content span.answer-label, html body main.site-main-content span.question-christian-label, html body main.site-main-content span.reference-label, html body main.site-main-content span.investigation-label, html body main.site-main-content span.section-label {
-      font-family: "Saira Condensed";
-      color: #ffffff;
-      padding: 2px 7px; }
-    html body main.site-main-content div.question-label-wrapper {
-      margin: 35px 0 0 0; }
-      html body main.site-main-content div.question-label-wrapper span.question-label {
-        background-color: #FF6961; }
-    html body main.site-main-content div.answer-label-wrapper {
-      margin: 30px 0 0 0; }
-      html body main.site-main-content div.answer-label-wrapper span.answer-label {
-        background-color: #FFB347; }
-    html body main.site-main-content div.question-christian-wrapper {
-      margin: 30px 0 0 0; }
-      html body main.site-main-content div.question-christian-wrapper span.question-christian-label {
-        background-color: #966FD6; }
-    html body main.site-main-content div.reference-label-wrapper {
-      margin: 20px 0 0 0; }
-      html body main.site-main-content div.reference-label-wrapper span.reference-label {
-        background-color: #77DD77; }
-    html body main.site-main-content div.investigation-wrapper {
-      margin: 30px 0 0 0; }
-      html body main.site-main-content div.investigation-wrapper span.investigation-label {
-        background-color: #779ECB; }
-    html body main.site-main-content div.section-wrapper {
-      margin: 30px 0 0 0; }
-      html body main.site-main-content div.section-wrapper span.section-label {
-        background-color: #696969; }
-    html body main.site-main-content .more-button-wrapper {
-      text-align: right; }
-    html body main.site-main-content .quran, html body main.site-main-content .bible, html body main.site-main-content .bible-hebrew {
-      display: block;
-      color: #a07b03; }
-    html body main.site-main-content .bible-hebrew-inline {
-      font-size: 20px; }
-    html body main.site-main-content .bible-aramaic-inline {
-      font-size: 15px; }
-    html body main.site-main-content .quran, html body main.site-main-content .quran-inline {
-      line-height: 250%;
-      text-align: right;
-      font-family: 'Amiri', serif; }
-    html body main.site-main-content .quran {
-      font-size: 20px; }
-    html body main.site-main-content .quran-inline {
-      font-size: 15px; }
-    html body main.site-main-content .bible {
-      margin: 0 0 15px 0;
-      font-size: 16px;
-      line-height: 26px;
-      font-family: 'Noto Serif', serif; }
-    html body main.site-main-content .bible-hebrew {
-      margin: 0 0 15px 0;
-      font-size: 23px;
-      line-height: 26px;
-      font-family: 'Frank Ruhl Libre', serif;
-      text-align: right; }
-    html body main.site-main-content .emphasize-quran {
-      color: #000000;
-      font-weight: bold; }
-    html body main.site-main-content .emphasize {
-      color: #a07b03;
-      font-weight: bold; }
-    html body main.site-main-content .translation {
-      font-family: "Amita", cursive;
-      display: block; }
-    html body main.site-main-content div.more-quran-wrapper {
-      margin: 15px; }
-      html body main.site-main-content div.more-quran-wrapper div.quran-wrapper {
-        margin: 0px; }
-    html body main.site-main-content div.quran-wrapper, html body main.site-main-content div.bible-wrapper {
-      box-sizing: border-box;
-      margin: 15px;
-      background-color: rgba(0, 0, 0, 0.03); }
-    html body main.site-main-content div.quran-verse, html body main.site-main-content div.bible-verse {
-      background-color: rgba(0, 0, 0, 0.03);
-      padding: 10px; }
-    html body main.site-main-content div.verse-no, html body main.site-main-content div.bible-verse-no {
-      box-sizing: border-box;
-      border-width: 1px;
-      width: 100%;
-      clear: both;
-      color: #ffffff;
-      font-family: "Saira Condensed";
-      text-align: center;
-      padding: 0 10px; }
-      html body main.site-main-content div.verse-no div.book, html body main.site-main-content div.bible-verse-no div.book {
-        float: left;
-        width: 100px;
-        text-align: left; }
-      html body main.site-main-content div.verse-no div.chapter-verse, html body main.site-main-content div.bible-verse-no div.chapter-verse {
-        float: right;
-        width: 100px;
+      html body main.site-main-content span.question-label, html body main.site-main-content span.answer-label, html body main.site-main-content span.question-christian-label, html body main.site-main-content span.reference-label, html body main.site-main-content span.investigation-label, html body main.site-main-content span.section-label {
+        font-family: "Saira Condensed";
+        color: #ffffff;
+        padding: 2px 7px; }
+      html body main.site-main-content div.question-label-wrapper {
+        margin: 35px 0 0 0; }
+        html body main.site-main-content div.question-label-wrapper span.question-label {
+          background-color: #FF6961; }
+      html body main.site-main-content div.answer-label-wrapper {
+        margin: 30px 0 0 0; }
+        html body main.site-main-content div.answer-label-wrapper span.answer-label {
+          background-color: #FFB347; }
+      html body main.site-main-content div.question-christian-wrapper {
+        margin: 30px 0 0 0; }
+        html body main.site-main-content div.question-christian-wrapper span.question-christian-label {
+          background-color: #966FD6; }
+      html body main.site-main-content div.reference-label-wrapper {
+        margin: 20px 0 0 0; }
+        html body main.site-main-content div.reference-label-wrapper span.reference-label {
+          background-color: #77DD77; }
+      html body main.site-main-content div.investigation-wrapper {
+        margin: 30px 0 0 0; }
+        html body main.site-main-content div.investigation-wrapper span.investigation-label {
+          background-color: #779ECB; }
+      html body main.site-main-content div.section-wrapper {
+        margin: 30px 0 0 0; }
+        html body main.site-main-content div.section-wrapper span.section-label {
+          background-color: #696969; }
+      html body main.site-main-content .more-button-wrapper {
         text-align: right; }
-      html body main.site-main-content div.verse-no div.chapter, html body main.site-main-content div.bible-verse-no div.chapter {
-        margin: 0 auto !important;
+      html body main.site-main-content .quran, html body main.site-main-content .bible, html body main.site-main-content .bible-hebrew {
+        display: block;
+        color: #a07b03; }
+      html body main.site-main-content .bible-hebrew-inline {
+        font-size: 20px; }
+      html body main.site-main-content .bible-aramaic-inline {
+        font-size: 15px; }
+      html body main.site-main-content .quran, html body main.site-main-content .quran-inline {
+        line-height: 250%;
+        text-align: right;
+        font-family: 'Amiri', serif; }
+      html body main.site-main-content .quran {
+        font-size: 20px; }
+      html body main.site-main-content .quran-inline {
+        font-size: 15px; }
+      html body main.site-main-content .bible {
+        margin: 0 0 15px 0;
+        font-size: 16px;
+        line-height: 26px;
+        font-family: 'Noto Serif', serif; }
+      html body main.site-main-content .bible-hebrew {
+        margin: 0 0 15px 0;
+        font-size: 23px;
+        line-height: 26px;
+        font-family: 'Frank Ruhl Libre', serif;
+        text-align: right; }
+      html body main.site-main-content .emphasize-quran {
+        color: #000000;
+        font-weight: bold; }
+      html body main.site-main-content .emphasize {
+        color: #a07b03;
+        font-weight: bold; }
+      html body main.site-main-content .translation {
+        font-family: "Amita", cursive;
+        display: block; }
+      html body main.site-main-content div.more-quran-wrapper {
+        margin: 15px; }
+        html body main.site-main-content div.more-quran-wrapper div.quran-wrapper {
+          margin: 0px; }
+      html body main.site-main-content div.quran-wrapper, html body main.site-main-content div.bible-wrapper {
+        box-sizing: border-box;
+        margin: 15px;
+        background-color: rgba(0, 0, 0, 0.03); }
+      html body main.site-main-content div.quran-verse, html body main.site-main-content div.bible-verse {
+        background-color: rgba(0, 0, 0, 0.03);
+        padding: 10px; }
+      html body main.site-main-content div.verse-no, html body main.site-main-content div.bible-verse-no {
+        box-sizing: border-box;
+        border-width: 1px;
+        width: 100%;
+        clear: both;
+        color: #ffffff;
+        font-family: "Saira Condensed";
+        text-align: center;
+        padding: 0 10px; }
+        html body main.site-main-content div.verse-no div.book, html body main.site-main-content div.bible-verse-no div.book {
+          float: left;
+          width: 100px;
+          text-align: left; }
+        html body main.site-main-content div.verse-no div.chapter-verse, html body main.site-main-content div.bible-verse-no div.chapter-verse {
+          float: right;
+          width: 100px;
+          text-align: right; }
+        html body main.site-main-content div.verse-no div.chapter, html body main.site-main-content div.bible-verse-no div.chapter {
+          margin: 0 auto !important;
+          width: 300px;
+          display: inline-block;
+          text-align: center; }
+      html body main.site-main-content div.verse-no {
+        background-color: #36454F; }
+      html body main.site-main-content div.bible-verse-no {
+        background-color: #003153; }
+      html body main.site-main-content div#more-quran-10-89-93, html body main.site-main-content div#more-quran-3-151, html body main.site-main-content div#other-translations-17-101, html body main.site-main-content div#other-translations-25-37, html body main.site-main-content div#other-translations-19-10, html body main.site-main-content div#other-translations-38-29 {
+        display: none;
+        opacity: 0;
+        transform: scaleX(0);
+        transition: 1s ease opacity, 1s ease transform; }
+      html body main.site-main-content .tooltip {
+        position: relative;
+        display: inline-block; }
+      html body main.site-main-content .tooltip .tooltiptext {
+        font-family: "Saira Condensed";
+        font-size: 14px;
+        visibility: hidden;
         width: 300px;
-        display: inline-block;
-        text-align: center; }
-    html body main.site-main-content div.verse-no {
-      background-color: #36454F; }
-    html body main.site-main-content div.bible-verse-no {
-      background-color: #003153; }
-    html body main.site-main-content div#more-quran-10-89-93, html body main.site-main-content div#more-quran-3-151, html body main.site-main-content div#other-translations-17-101, html body main.site-main-content div#other-translations-25-37, html body main.site-main-content div#other-translations-19-10, html body main.site-main-content div#other-translations-38-29 {
-      display: none;
-      opacity: 0;
-      transform: scaleX(0);
-      transition: 1s ease opacity, 1s ease transform; }
-    html body main.site-main-content .tooltip {
-      position: relative;
-      display: inline-block; }
-    html body main.site-main-content .tooltip .tooltiptext {
-      font-family: "Saira Condensed";
-      font-size: 14px;
-      visibility: hidden;
-      width: 300px;
-      background-color: #555;
-      color: #fff;
-      text-align: center;
-      border-radius: 6px;
-      padding: 5px;
-      line-height: 135%;
-      position: absolute;
-      z-index: 1;
-      bottom: 125%;
-      left: 50%;
-      margin-left: -150px;
-      opacity: 0;
-      transition: opacity 0.3s; }
-    html body main.site-main-content .tooltip .tooltiptext::after {
-      content: "";
-      position: absolute;
-      top: 100%;
-      left: 50%;
-      margin-left: -5px;
-      border-width: 5px;
-      border-style: solid;
-      border-color: #555 transparent transparent transparent; }
-    html body main.site-main-content .tooltip:hover .tooltiptext {
-      visibility: visible;
-      opacity: 1; }
+        background-color: #555;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px;
+        line-height: 135%;
+        position: absolute;
+        z-index: 1;
+        bottom: 125%;
+        left: 50%;
+        margin-left: -150px;
+        opacity: 0;
+        transition: opacity 0.3s; }
+      html body main.site-main-content .tooltip .tooltiptext::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: #555 transparent transparent transparent; }
+      html body main.site-main-content .tooltip:hover .tooltiptext {
+        visibility: visible;
+        opacity: 1; }
 
 /*# sourceMappingURL=main.css.map */

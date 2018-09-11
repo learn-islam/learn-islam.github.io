@@ -1,4 +1,5 @@
 html {
+    height: 0px;
     @media only screen and (min-width: 200px) and (max-width: 800px) {
         body {
             background-image:none !important;
@@ -19,14 +20,15 @@ html {
             max-width: 100% !important;
             font-size: 14px !important;
             text-align: left !important;
+            height: 100%;
             // overflow-x: hidden;
             .outer-wrapper {
-                min-width: 100% !important;
+                // width: 100% !important;
                 height: 100%;
                 display: table !important;
-                // margin: 10px; 
+                margin: 0 !important; 
                 position: static !important;
-                // overflow: hidden;
+                overflow: hidden;
                 box-sizing: border-box !important;
                 .site-parent-container {
                     box-sizing: border-box;
@@ -40,6 +42,33 @@ html {
                     margin: 0;
 
                     display: table;
+
+                    footer {
+                        display: block !important;
+                        div#icon-container-footer {
+                            // display: none;
+                            text-align: center;
+                            background-color: #d47245;
+                            padding: 7px 2px;
+                            border-radius: 0;
+                            a.fa {
+                                padding: 10px;
+                                margin: 0 10px;
+                                width: 16px;
+                                // height: 30px;
+                                background-color: none;
+                                border-radius: 50%;
+                                color: rgba(0, 0, 0, 0.767);
+                                text-decoration: none;
+                                transition: all .3s ease-in-out;
+                            }
+                            a.fa:hover {
+                                background-color: rgba(253, 232, 218, 0.541);
+                                color: $desert-color;
+                            }
+                        }
+                    }
+
                     header {
                         box-sizing: border-box;
                         float: initial;
@@ -50,6 +79,7 @@ html {
                         max-width: 100%;
                         position: relative;
                         .site-sidebar {     
+                            background-color: #d47245;
                             position: static;
                             border-radius: 0px;
                             img {
@@ -111,25 +141,7 @@ html {
                                 }
                             }
                             div#icon-container {
-                                text-align: center;
-                                // background-color: $bottom-bg-color;
-                                padding: 20px 2px 15px 2px;
-                                border-radius: 0 0 20px 20px;
-                                a.fa {
-                                    padding: 10px;
-                                    margin: 0 10px;
-                                    width: 16px;
-                                    // height: 30px;
-                                    background-color: none;
-                                    border-radius: 50%;
-                                    color: rgba(0, 0, 0, 0.767);
-                                    text-decoration: none;
-                                    transition: all .3s ease-in-out;
-                                }
-                                a.fa:hover {
-                                    background-color: rgba(253, 232, 218, 0.541);
-                                    color: $desert-color;
-                                }
+                                display: none !important;
                             }
                         }
                     }
