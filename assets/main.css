@@ -77,7 +77,8 @@ html {
                 color: white;
                 font-family: Arial, Helvetica, sans-serif;
                 font-weight: bold;
-                font-size: 24px; }
+                font-size: 24px;
+                display: initial !important; }
               html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown {
                 margin: auto 0;
                 position: relative;
@@ -282,6 +283,8 @@ html {
         position: fixed;
         background-color: rgba(253, 232, 218, 0.541);
         border-radius: 15px; }
+        html body header .site-sidebar div#website-name {
+          display: none; }
         html body header .site-sidebar img {
           width: 250px;
           border-radius: 15px 15px 0 0;

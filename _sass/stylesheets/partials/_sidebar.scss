@@ -15,6 +15,10 @@
 
         .site-sidebar {     
             position: fixed;
+
+            div#website-name {
+                display: none;
+            }
             img {
                 width: $width;
                 border-radius: 15px 15px 0 0;
