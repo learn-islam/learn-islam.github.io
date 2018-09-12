@@ -99,15 +99,15 @@ html {
                   display: block;
                   font-family: 'Roboto', sans-serif; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content a:hover {
-                  background-color: #f1f1f1;
-                  color: black !important; }
+                  background-color: #3f253c;
+                  color: white !important; }
               html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown:hover div.dropdown-content {
                 display: block; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown:hover div.dropdown-content a:hover {
                   font-weight: bold;
                   color: black; }
               html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown:hover button.dropbtn {
-                background-color: black; }
+                background-color: #3f253c; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown:hover button.dropbtn a {
                   color: white; }
               html body .outer-wrapper .site-parent-container header .site-sidebar img {
