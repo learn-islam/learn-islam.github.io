@@ -98,7 +98,7 @@ html {
                             div#website-name-wrapper {
                                     text-align: right;
                                     float: right;
-                                    display: table;
+                                    display: table !important;
                                 div#website-name {
                                     padding: 0px 10px 0px 0px;
                                     margin: 0;
@@ -188,12 +188,6 @@ html {
                             
                             img {
                                 display: none;
-                                // content: "Hey!";
-                                // width: 100% !important;
-                                // margin-top: -150px;
-                                // border-radius: 0;
-                                // margin-bottom: 0;
-                                // opacity: 0.7;
                             }
 
                             nav {

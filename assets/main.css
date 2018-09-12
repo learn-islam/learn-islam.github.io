@@ -55,7 +55,7 @@ html {
               html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper {
                 text-align: right;
                 float: right;
-                display: table; }
+                display: table !important; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper div#website-name {
                   padding: 0px 10px 0px 0px;
                   margin: 0;
@@ -285,11 +285,13 @@ html {
         position: fixed;
         background-color: rgba(253, 232, 218, 0.541);
         border-radius: 15px; }
+        html body header .site-sidebar div#website-name-wrapper {
+          display: none; }
         html body header .site-sidebar img {
           width: 250px;
           border-radius: 15px 15px 0 0;
           margin-bottom: 0;
-          opacity: 0.7; }
+          opacity: 1.0; }
         html body header .site-sidebar nav {
           margin-top: 0px;
           margin-bottom: -8px;
@@ -368,6 +370,7 @@ html {
         background-color: #cd7c56;
         color: #fff;
         font-family: "Saira Condensed";
+        font-size: 16px;
         border-width: 0px; }
       html body main.site-main-content button:hover, html body main.site-main-content .previous:hover, html body main.site-main-content .next:hover {
         background-color: #ffa488;
