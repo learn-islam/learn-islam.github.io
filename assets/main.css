@@ -50,9 +50,10 @@ html {
               width: 100%;
               border-radius: 0px;
               box-sizing: border-box;
-              height: 45px;
+              height: 50px;
               box-shadow: 0px 1px 5px #888888; }
               html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper {
+                margin: 3px 0;
                 text-align: right;
                 float: right;
                 display: table !important; }
@@ -72,7 +73,7 @@ html {
                   font-family: 'Saira Condensed', sans-serif;
                   color: white; }
               html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown {
-                margin: auto 0;
+                margin: 3px 0;
                 position: relative;
                 display: inline-block !important;
                 box-sizing: border-box; }
@@ -83,7 +84,7 @@ html {
                   border: none;
                   cursor: pointer; }
                   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown button.dropbtn a {
-                    font-size: 25px;
+                    font-size: 24px;
                     color: white; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content {
                   display: none;
