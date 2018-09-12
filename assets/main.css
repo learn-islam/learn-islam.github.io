@@ -62,23 +62,33 @@ html {
             position: relative; }
             html body .outer-wrapper .site-parent-container header .site-sidebar {
               background-image: linear-gradient(#533f51, #4d384b, #4d384b, #533f51);
+              opacity: 0.97;
               position: fixed;
               top: 0%;
               width: 100%;
               border-radius: 0px;
               box-sizing: border-box;
               height: 45px;
-              box-shadow: 0px 3px 15px #888888; }
-              html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name {
-                text-align: center;
+              box-shadow: 0px 1px 5px #888888; }
+              html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper {
+                text-align: right;
                 float: right;
-                padding: 10px;
-                margin: auto;
-                color: white;
-                font-family: Arial, Helvetica, sans-serif;
-                font-weight: bold;
-                font-size: 24px;
-                display: initial !important; }
+                display: table; }
+                html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper div#website-name {
+                  padding: 0px 10px 0px 0px;
+                  margin: 0;
+                  color: white;
+                  font-family: 'Saira Condensed', sans-serif;
+                  font-weight: bold;
+                  font-size: 20px;
+                  display: block; }
+                html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper div#website-description {
+                  padding-right: 10px;
+                  display: block;
+                  margin-top: -8px;
+                  font-size: 13px;
+                  font-family: 'Saira Condensed', sans-serif;
+                  color: white; }
               html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown {
                 margin: auto 0;
                 position: relative;
@@ -104,7 +114,8 @@ html {
                   color: white !important;
                   padding: 12px 16px;
                   text-decoration: none;
-                  display: block; }
+                  display: block;
+                  font-family: 'Roboto', sans-serif; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content a:hover {
                   background-color: #f1f1f1;
                   color: black !important; }
@@ -285,8 +296,6 @@ html {
         position: fixed;
         background-color: rgba(253, 232, 218, 0.541);
         border-radius: 15px; }
-        html body header .site-sidebar div#website-name {
-          display: none; }
         html body header .site-sidebar img {
           width: 250px;
           border-radius: 15px 15px 0 0;
