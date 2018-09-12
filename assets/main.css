@@ -34,24 +34,6 @@ html {
           height: 100% !important;
           margin: 0;
           display: table; }
-          html body .outer-wrapper .site-parent-container footer {
-            display: block !important; }
-            html body .outer-wrapper .site-parent-container footer div#icon-container-footer {
-              text-align: center;
-              background-color: #36454F;
-              padding: 7px 2px;
-              border-radius: 0; }
-              html body .outer-wrapper .site-parent-container footer div#icon-container-footer a.fa {
-                font-size: 20px;
-                padding: 10px;
-                margin: 0 10px;
-                width: 16px;
-                background-color: none;
-                color: white;
-                text-decoration: none;
-                transition: all .3s ease-in-out; }
-              html body .outer-wrapper .site-parent-container footer div#icon-container-footer a.fa:active {
-                color: silver !important; }
           html body .outer-wrapper .site-parent-container header {
             box-sizing: border-box;
             float: initial;
@@ -170,6 +152,13 @@ html {
             margin-top: 50px;
             box-shadow: none;
             border-radius: 0px; }
+            html body .outer-wrapper .site-parent-container main.site-main-content button, html body .outer-wrapper .site-parent-container main.site-main-content .previous, html body .outer-wrapper .site-parent-container main.site-main-content .next {
+              background-color: #4d384b;
+              color: #fff; }
+            html body .outer-wrapper .site-parent-container main.site-main-content button:hover, html body .outer-wrapper .site-parent-container main.site-main-content .previous:hover, html body .outer-wrapper .site-parent-container main.site-main-content .next:hover {
+              background-color: #8d6889; }
+            html body .outer-wrapper .site-parent-container main.site-main-content button:active, html body .outer-wrapper .site-parent-container main.site-main-content .previous:active, html body .outer-wrapper .site-parent-container main.site-main-content .next:active {
+              background-color: #000000; }
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: none; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {

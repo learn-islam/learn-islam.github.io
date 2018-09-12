@@ -24,6 +24,7 @@ html {
             height: 100%;
             // overflow-x: hidden;
             box-sizing: border-box !important;
+
             .outer-wrapper {
                 width: 100% !important;
                 height: 100% !important;
@@ -47,32 +48,32 @@ html {
 
                     display: table;
 
-                    footer {
-                        display: block !important;
-                        div#icon-container-footer {
-                            // display: none;
-                            text-align: center;
-                            background-color: #36454F;
-                            padding: 7px 2px;
-                            border-radius: 0;
-                            a.fa {
-                                font-size: 20px;
-                                padding: 10px;
-                                margin: 0 10px;
-                                width: 16px;
-                                // height: 30px;
-                                background-color: none;
-                                // border-radius: 50%;
-                                color: rgb(255, 255, 255);
-                                text-decoration: none;
-                                transition: all .3s ease-in-out;
-                            }
-                            a.fa:active {
-                                // background-color: #634a60;
-                                color: rgb(192, 192, 192) !important;
-                            }
-                        }
-                    }
+                    // footer {
+                    //     display: block !important;
+                    //     div#icon-container-footer {
+                    //         // display: none;
+                    //         text-align: center;
+                    //         background-color: #36454F;
+                    //         padding: 7px 2px;
+                    //         border-radius: 0;
+                    //         a.fa {
+                    //             font-size: 20px;
+                    //             padding: 10px;
+                    //             margin: 0 10px;
+                    //             width: 16px;
+                    //             // height: 30px;
+                    //             background-color: none;
+                    //             // border-radius: 50%;
+                    //             color: rgb(255, 255, 255);
+                    //             text-decoration: none;
+                    //             transition: all .3s ease-in-out;
+                    //         }
+                    //         a.fa:active {
+                    //             // background-color: #634a60;
+                    //             color: rgb(192, 192, 192) !important;
+                    //         }
+                    //     }
+                    // }
 
                     header {
                         box-sizing: border-box;
@@ -263,6 +264,21 @@ html {
                         // margin-right: 20px;
                         box-shadow: none;
                         border-radius: 0px;
+
+                        button, .previous, .next {
+                            background-color: #4d384b;
+                            color: #fff;
+                        }
+
+                        button:hover, .previous:hover, .next:hover {
+                            background-color: #8d6889;
+                            // color: black;
+                        }
+
+                        button:active, .previous:active, .next:active {
+                            background-color: #000000;
+                        }
+
 
                         div#home-page {
                             display: none;
