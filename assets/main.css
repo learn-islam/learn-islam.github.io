@@ -15,6 +15,7 @@ html {
   @media only screen and (min-width: 200px) and (max-width: 800px) {
     html body {
       background-image: none !important;
+      background-color: white;
       width: 100% !important;
       font-size: 14px !important;
       text-align: left !important;
@@ -180,7 +181,9 @@ html {
               margin-left: auto !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content img#underconstruction {
               transform: scale(0.3) !important; }
-            html body .outer-wrapper .site-parent-container main.site-main-content .bible, html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew, html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
+            html body .outer-wrapper .site-parent-container main.site-main-content .bible, html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew {
+              font-size: 18px; }
+            html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
               font-size: 15px; }
             html body .outer-wrapper .site-parent-container main.site-main-content .quran {
               font-size: 17px !important; }

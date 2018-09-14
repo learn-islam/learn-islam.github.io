@@ -4,6 +4,7 @@ html {
     @media only screen and (min-width: 200px) and (max-width: 800px) {
         body {
             background-image:none !important;
+            background-color: white;
             // background-image: url("/assets/bg-mobile.jpg") !important;
             // background-position: center center;
             
@@ -309,7 +310,11 @@ html {
                             transform: scale(0.3) !important;
                         }
 
-                        .bible, .bible-hebrew, .bible-hebrew-inline, .bible-aramaic-inline {
+                        .bible, .bible-hebrew {
+                            font-size: 18px;
+                        } 
+                        
+                        .bible-hebrew-inline, .bible-aramaic-inline {
                             font-size: 15px;
                         }
                 
