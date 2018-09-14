@@ -60,7 +60,7 @@ html {
                 html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper div#website-name {
                   padding: 0px 10px 0px 0px;
                   margin: 0;
-                  color: white;
+                  color: #ebe7e7;
                   font-family: 'Saira Condensed', sans-serif;
                   font-weight: bold;
                   font-size: 20px;
@@ -71,7 +71,7 @@ html {
                   margin-top: -8px;
                   font-size: 13px;
                   font-family: 'Saira Condensed', sans-serif;
-                  color: white; }
+                  color: #dbdada; }
               html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown {
                 margin: 3px 0;
                 position: relative;
@@ -149,8 +149,9 @@ html {
             display: block;
             width: 100%;
             max-width: 100%;
-            padding: 0px 20px 50px 20px;
-            margin-top: 50px;
+            padding: 0px 10px 50px 10px;
+            margin-top: 30px;
+            margin-bottom: 0;
             box-shadow: none;
             border-radius: 0px; }
             html body .outer-wrapper .site-parent-container main.site-main-content button, html body .outer-wrapper .site-parent-container main.site-main-content .previous, html body .outer-wrapper .site-parent-container main.site-main-content .next {
@@ -168,7 +169,7 @@ html {
               display: none; }
             html body .outer-wrapper .site-parent-container main.site-main-content h1.post-title {
               font-size: 23px;
-              padding-top: 20px; }
+              padding-top: 34px; }
             html body .outer-wrapper .site-parent-container main.site-main-content a.post-link {
               font-size: 23px; }
             html body .outer-wrapper .site-parent-container main.site-main-content span.web-title {
@@ -341,6 +342,7 @@ html {
       height: 100%;
       max-height: 100%;
       padding: 100px;
+      margin: 0 0 100px 0;
       box-shadow: 0px 0 150px 5px rgba(110, 110, 110, 0.5);
       border-radius: 15px; }
       html body main.site-main-content div.post-header {
