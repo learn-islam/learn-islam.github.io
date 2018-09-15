@@ -9,12 +9,17 @@
 
         padding: 100px;
         // margin: $margin;
-        margin: 0 0 100px 0;
+        margin: 0 0 50px 0;
         box-shadow: 0px 0 150px 5px rgba(110, 110, 110, 0.5);
         border-radius: 15px;
         div.post-header {
             display: block !important;
         }
+
+        header.post-header, div.post-content {
+            display: block !important;
+        }
+
         
         span.web-title {
             font-family: 'Berkshire Swash', cursive;

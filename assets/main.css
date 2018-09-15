@@ -118,9 +118,7 @@ html {
                 margin-top: 0px;
                 margin-left: 0;
                 text-align: right; }
-                html body .outer-wrapper .site-parent-container header .site-sidebar nav a#home-button {
-                  display: none; }
-                html body .outer-wrapper .site-parent-container header .site-sidebar nav a#article-button {
+                html body .outer-wrapper .site-parent-container header .site-sidebar nav a#home-button, html body .outer-wrapper .site-parent-container header .site-sidebar nav a#article-button, html body .outer-wrapper .site-parent-container header .site-sidebar nav a#christianity-button {
                   display: none; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar nav a {
                   background-color: #383838;
@@ -155,6 +153,32 @@ html {
             margin-bottom: 0;
             box-shadow: none;
             border-radius: 0px; }
+            html body .outer-wrapper .site-parent-container main.site-main-content article.post {
+              margin-top: 61px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content article.post span.page-title-mobile {
+                display: block !important;
+                font-family: "Fira Sans Condensed", sans-serif;
+                font-size: 23px;
+                text-decoration: none;
+                color: #36454F;
+                font-weight: bold;
+                margin-bottom: 5px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page {
+                margin-bottom: -50px; }
+                html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question-label-wrapper {
+                  margin-top: 20px; }
+                html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question ol {
+                  padding-left: 20px; }
+                html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question div.bible-wrapper div.bible-verse .bible {
+                  font-size: 15px; }
+                html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question div.bible-wrapper div.bible-verse .bible-hebrew {
+                  font-size: 18px; }
+                html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question div.bible-wrapper div.bible-verse .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question div.bible-wrapper div.bible-verse .bible-aramaic-inline {
+                  font-size: 15px; }
+                html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question .quran {
+                  font-size: 17px !important; }
+                html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question .quran-inline {
+                  font-size: 15px !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content button, html body .outer-wrapper .site-parent-container main.site-main-content .previous, html body .outer-wrapper .site-parent-container main.site-main-content .next {
               background-color: #4d384b;
               color: #fff; }
@@ -165,12 +189,20 @@ html {
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: none; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
-              margin-top: 0; }
+              margin-top: 0px;
+              padding-top: 15px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list li {
+                padding: 15px 0; }
+                html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list li span h2 {
+                  margin: 8px 0; }
             html body .outer-wrapper .site-parent-container main.site-main-content span#list-of-articles {
               display: none; }
             html body .outer-wrapper .site-parent-container main.site-main-content h1.post-title {
               font-size: 23px;
-              padding-top: 34px; }
+              padding-top: 0px;
+              margin-bottom: 10px; }
+            html body .outer-wrapper .site-parent-container main.site-main-content p.post-meta {
+              margin: 8px 0; }
             html body .outer-wrapper .site-parent-container main.site-main-content a.post-link {
               font-size: 23px; }
             html body .outer-wrapper .site-parent-container main.site-main-content span.web-title {
@@ -181,7 +213,9 @@ html {
               margin-left: auto !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content img#underconstruction {
               transform: scale(0.3) !important; }
-            html body .outer-wrapper .site-parent-container main.site-main-content .bible, html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew {
+            html body .outer-wrapper .site-parent-container main.site-main-content .bible {
+              font-size: 15px; }
+            html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew {
               font-size: 18px; }
             html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
               font-size: 15px; }
@@ -273,8 +307,8 @@ html {
       background-color: #ffffff00;
       height: 1px;
       max-height: 100%;
-      margin-top: 100px;
-      margin-bottom: 100px;
+      margin-top: 50px;
+      margin-bottom: 50px;
       margin-left: auto;
       margin-right: auto;
       display: table; }
@@ -345,10 +379,12 @@ html {
       height: 100%;
       max-height: 100%;
       padding: 100px;
-      margin: 0 0 100px 0;
+      margin: 0 0 50px 0;
       box-shadow: 0px 0 150px 5px rgba(110, 110, 110, 0.5);
       border-radius: 15px; }
       html body main.site-main-content div.post-header {
+        display: block !important; }
+      html body main.site-main-content header.post-header, html body main.site-main-content div.post-content {
         display: block !important; }
       html body main.site-main-content span.web-title {
         font-family: 'Berkshire Swash', cursive;

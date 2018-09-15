@@ -198,11 +198,7 @@ html {
                                 // margin-left: 0;
                                 text-align: right;
                                 
-                                a#home-button {
-                                    display: none;
-                                }
-
-                                a#article-button {
+                                a#home-button, a#article-button, a#christianity-button {
                                     display: none;
                                 }
                                 
@@ -260,6 +256,59 @@ html {
                         box-shadow: none;
                         border-radius: 0px;
 
+                        article.post {
+                            margin-top: 61px;
+                            span.page-title-mobile {
+                                display: block !important;
+                                font-family: $font-post-title-link;
+                                font-size: 23px;
+                                text-decoration:  none;
+                                color: $sb-bg-color;
+                                font-weight: bold;
+                                // padding-top: 20px;
+                                margin-bottom: 5px;
+                            }
+
+                            div.post-content {
+                                div.page {
+                                    margin-bottom: -50px;
+                                    div.question-label-wrapper {
+                                        margin-top: 20px;
+                                    }
+                                    div.question {
+
+                                        ol {
+                                            padding-left: 20px;
+                                        }
+
+                                        div.bible-wrapper {
+                                            div.bible-verse {
+                                                .bible {
+                                                    font-size: 15px;
+                                                } 
+                                                
+                                                .bible-hebrew {
+                                                    font-size: 18px;
+                                                } 
+                                                
+                                                .bible-hebrew-inline, .bible-aramaic-inline {
+                                                    font-size: 15px;
+                                                }
+                                            }
+                                        }                                
+                                         
+                                        .quran {
+                                            font-size: 17px !important;
+                                        } 
+                                        
+                                        .quran-inline {
+                                            font-size: 15px !important;
+                                        }    
+                                    }
+                                }
+                            }
+                        }
+
                         button, .previous, .next {
                             background-color: #4d384b;
                             color: #fff;
@@ -281,7 +330,16 @@ html {
 
                         div.home {
                             ul.post-list {
-                                margin-top: 0;
+                                margin-top: 0px;
+                                padding-top: 15px;
+                                li {
+                                    padding: 15px 0;
+                                    span {
+                                        h2 {
+                                            margin: 8px 0;
+                                        }
+                                    }
+                                }
                             }
                         }
 
@@ -291,7 +349,12 @@ html {
 
                         h1.post-title {
                             font-size: 23px;
-                            padding-top: 34px;
+                            padding-top: 0px;
+                            margin-bottom: 10px;
+                        }
+
+                        p.post-meta {
+                            margin: 8px 0;
                         }
 
                         a.post-link {
@@ -310,7 +373,11 @@ html {
                             transform: scale(0.3) !important;
                         }
 
-                        .bible, .bible-hebrew {
+                        .bible {
+                            font-size: 15px;
+                        }
+                        
+                        .bible-hebrew {
                             font-size: 18px;
                         } 
                         
