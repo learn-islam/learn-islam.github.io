@@ -172,6 +172,7 @@ html {
                 html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question div.bible-wrapper div.bible-verse .bible {
                   font-size: 15px; }
                 html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question div.bible-wrapper div.bible-verse .bible-hebrew {
+                  font-family: 'Frank Ruhl Libre', serif;
                   font-size: 18px; }
                 html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question div.bible-wrapper div.bible-verse .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question div.bible-wrapper div.bible-verse .bible-aramaic-inline {
                   font-size: 15px; }
@@ -216,8 +217,10 @@ html {
             html body .outer-wrapper .site-parent-container main.site-main-content .bible {
               font-size: 15px; }
             html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew {
+              font-family: 'Frank Ruhl Libre', serif;
               font-size: 18px; }
             html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
+              font-family: 'Frank Ruhl Libre', serif;
               font-size: 15px; }
             html body .outer-wrapper .site-parent-container main.site-main-content .quran {
               font-size: 17px !important; }
