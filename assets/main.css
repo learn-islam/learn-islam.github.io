@@ -162,6 +162,7 @@ html {
                 text-decoration: none;
                 color: #36454F;
                 font-weight: bold;
+                padding: 10px 0;
                 margin-bottom: 5px; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page {
                 margin-bottom: -50px; }
@@ -200,7 +201,7 @@ html {
               display: none; }
             html body .outer-wrapper .site-parent-container main.site-main-content h1.post-title {
               font-size: 23px;
-              padding-top: 0px;
+              padding: 10px 0;
               margin-bottom: 10px; }
             html body .outer-wrapper .site-parent-container main.site-main-content p.post-meta {
               margin: 8px 0; }
