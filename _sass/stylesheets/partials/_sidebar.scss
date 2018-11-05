@@ -25,7 +25,7 @@
                 margin-bottom: 0;
                 opacity: 1.0;
             }
-            background-color: rgba(253, 232, 218, 0.541);
+            background-color: $button-bg;
             // background-color: #00000000;
             border-radius: 15px;
             // -webkit-box-shadow: -8px 3px 5px 5px rgba(0, 0, 0, 0.5);
@@ -60,8 +60,8 @@
                 }
 
                 a:hover {
-                    background-color: rgba(253, 232, 218, 0.541);
-                    color: rgb(48, 48, 48);
+                    background-color: $button-bg;
+                    color: $button-color;
                     border-bottom: 1px solid rgba(235, 235, 235, 0);
                 }
             }
@@ -82,7 +82,7 @@
                     transition: all .3s ease-in-out;
                 }
                 a.fa:hover {
-                    background-color: rgba(253, 232, 218, 0.541);
+                    background-color: $button-bg;
                     color: $desert-color;
                 }
             }
