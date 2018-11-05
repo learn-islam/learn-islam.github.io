@@ -3,16 +3,32 @@ layout: default
 ---
 
 <div class="home">
-  <span class="web-title" id="list-of-articles" style="margin: 0 50px 50px 50px;">List of Articles</span>
+  <!-- <span class="web-title" id="list-of-articles" style="margin: 0 50px 50px 50px;">List of Articles</span> -->
+  <div class="title-header">
+      <div class="path parents">
+          <a class="ptext" href="/index.html">Learn Islam</a>
+      </div>
+      <div class="path children">
+          <a class="ctext" href="/blog/index.html">Articles</a>
+      </div>
+  </div>
   {{ content }}
 
   <!-- This loops through the paginated posts -->
   <ul class="post-list">
     {% for post in paginator.posts %}
-    <li>
+    <li style="padding-top: 0;">
       <span>
       {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      
+      <!-- <div class="title-header">
+          <div class="path parents">
+             <a class="ptext" href="#"><span class="post-meta">{{ post.date | date: date_format }}</span></a>
+          </div>
+          <div class="path children">
+              <a class="ctext" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          </div>
+      </div> -->
       <h2>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
       </h2>
