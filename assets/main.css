@@ -388,10 +388,16 @@ html {
       padding: 100px;
       margin: 0 0 50px 0;
       box-shadow: 0px 0 150px 5px rgba(110, 110, 110, 0.5);
-      border-radius: 15px; }
+      border-radius: 15px;
+      /*style the arrow inside the select element:*/
+      /*point the arrow upwards when the select box is open (active):*/
+      /*style the items (options), including the selected item:*/
+      /*style items (options):*/
+      /*hide the items when the select box is closed:*/ }
       html body main.site-main-content div.post-header {
         display: block !important; }
-      html body main.site-main-content header.post-header, html body main.site-main-content div.post-content {
+      html body main.site-main-content header.post-header,
+      html body main.site-main-content div.post-content {
         display: block !important; }
       html body main.site-main-content span.web-title {
         font-family: 'Berkshire Swash', cursive;
@@ -400,6 +406,53 @@ html {
         display: block;
         margin: 50px;
         text-align: center; }
+      html body main.site-main-content div.title-header {
+        margin: 0 0 50px 0; }
+      html body main.site-main-content div.path {
+        display: inline-block;
+        font-family: "Saira Condensed";
+        font-size: 16px;
+        margin: 0;
+        transform: skew(20deg, 0deg); }
+        html body main.site-main-content div.path a.ptext {
+          display: block;
+          transform: skew(-20deg);
+          color: #afafaf;
+          padding: 0 10px; }
+        html body main.site-main-content div.path a.ctext {
+          display: block;
+          transform: skewX(-20deg);
+          color: #303030;
+          padding: 0 10px; }
+      html body main.site-main-content div.parents {
+        background-color: white;
+        border: 0.5px solid #afafaf; }
+      html body main.site-main-content div.parents:hover {
+        background-color: #ffa488;
+        border: 0.5px solid #ffa488;
+        font-weight: bold;
+        transition-delay: 0s;
+        transition-duration: 0.3s;
+        transition-property: all;
+        transition-timing-function: ease-in-out; }
+        html body main.site-main-content div.parents:hover a.ptext {
+          color: #303030; }
+      html body main.site-main-content div.children {
+        font-weight: bold;
+        background-color: rgba(253, 232, 218, 0.541);
+        border: 0.5px solid #cd7c56; }
+      html body main.site-main-content div.children:hover {
+        background-color: #ffa488;
+        border: 0.5px solid #ffa488;
+        transition-delay: 0s;
+        transition-duration: 0.3s;
+        transition-property: all;
+        transition-timing-function: ease-in-out; }
+        html body main.site-main-content div.children:hover a.ctext {
+          display: block;
+          transform: skewX(-20deg);
+          color: #303030;
+          padding: 0 10px; }
       html body main.site-main-content span.basmallah {
         font-size: 40px;
         font-family: 'Reem Kufi', sans-serif;
@@ -414,31 +467,42 @@ html {
         background-color: #000000; }
       html body main.site-main-content button.next {
         display: none; }
-      html body main.site-main-content button, html body main.site-main-content .previous, html body main.site-main-content .next {
+      html body main.site-main-content button,
+      html body main.site-main-content .previous,
+      html body main.site-main-content .next {
         padding: 0 8px;
-        background-color: #cd7c56;
-        color: #fff;
+        background-color: rgba(253, 232, 218, 0.541);
+        color: #303030;
         font-family: "Saira Condensed";
         font-size: 16px;
-        border-width: 0px; }
-      html body main.site-main-content button:hover, html body main.site-main-content .previous:hover, html body main.site-main-content .next:hover {
+        border: 0.5px solid #cd7c56; }
+      html body main.site-main-content button:hover,
+      html body main.site-main-content .previous:hover,
+      html body main.site-main-content .next:hover {
         background-color: #ffa488;
-        color: #000000;
+        color: #303030;
+        border: 0.5px solid #ffa488;
         transition-delay: 0s;
         transition-duration: 0.3s;
         transition-property: all;
         transition-timing-function: ease-in-out; }
-      html body main.site-main-content button:active, html body main.site-main-content .previous:active, html body main.site-main-content .next:active {
+      html body main.site-main-content button:active,
+      html body main.site-main-content .previous:active,
+      html body main.site-main-content .next:active {
         background-color: #000000; }
       html body main.site-main-content button.more-button {
         font-size: 16px; }
-      html body main.site-main-content a.post-link, html body main.site-main-content h1.post-title {
+      html body main.site-main-content a.post-link,
+      html body main.site-main-content h1.post-title {
         font-family: "Yanone Kaffeesatz", sans-serif;
         font-size: 30px;
         text-decoration: none;
         color: #36454F;
         margin-top: 0; }
-      html body main.site-main-content span.post-meta, html body main.site-main-content time, html body main.site-main-content div.rss-subscribe, html body main.site-main-content div.pagination {
+      html body main.site-main-content span.post-meta,
+      html body main.site-main-content time,
+      html body main.site-main-content div.rss-subscribe,
+      html body main.site-main-content div.pagination {
         font-family: "Saira Condensed", sans-serif;
         font-size: 14px;
         color: #36454F; }
@@ -446,17 +510,22 @@ html {
         float: left; }
       html body main.site-main-content div.pagination {
         float: right; }
-      html body main.site-main-content time, html body main.site-main-content div#rss-subscribe-post.rss-subscribe {
+      html body main.site-main-content time,
+      html body main.site-main-content div#rss-subscribe-post.rss-subscribe {
         display: inline; }
       html body main.site-main-content ul.post-list {
         list-style: none;
         padding: 0; }
         html body main.site-main-content ul.post-list li {
           padding: 30px 0; }
-      html body main.site-main-content div.with-left-border, html body main.site-main-content div.question, html body main.site-main-content div.question-christian, html body main.site-main-content div.reference {
+      html body main.site-main-content div.with-left-border,
+      html body main.site-main-content div.question,
+      html body main.site-main-content div.question-christian,
+      html body main.site-main-content div.reference {
         padding: 10px;
         border-left: 2px solid rgba(0, 0, 0, 0.1); }
-      html body main.site-main-content div.with-top-border, html body main.site-main-content div.answer {
+      html body main.site-main-content div.with-top-border,
+      html body main.site-main-content div.answer {
         padding: 10px 0 0 0;
         border-top: 2px solid rgba(0, 0, 0, 0.1); }
       html body main.site-main-content div.with-all-border {
@@ -470,7 +539,12 @@ html {
       html body main.site-main-content div.question-christian ol {
         margin: 0;
         padding: 0 0 0 15px; }
-      html body main.site-main-content span.question-label, html body main.site-main-content span.answer-label, html body main.site-main-content span.question-christian-label, html body main.site-main-content span.reference-label, html body main.site-main-content span.investigation-label, html body main.site-main-content span.section-label {
+      html body main.site-main-content span.question-label,
+      html body main.site-main-content span.answer-label,
+      html body main.site-main-content span.question-christian-label,
+      html body main.site-main-content span.reference-label,
+      html body main.site-main-content span.investigation-label,
+      html body main.site-main-content span.section-label {
         font-family: "Saira Condensed";
         color: #ffffff;
         padding: 2px 7px; }
@@ -500,14 +574,17 @@ html {
           background-color: #696969; }
       html body main.site-main-content .more-button-wrapper {
         text-align: right; }
-      html body main.site-main-content .quran, html body main.site-main-content .bible, html body main.site-main-content .bible-hebrew {
+      html body main.site-main-content .quran,
+      html body main.site-main-content .bible,
+      html body main.site-main-content .bible-hebrew {
         display: block;
         color: #a07b03; }
       html body main.site-main-content .bible-hebrew-inline {
         font-size: 20px; }
       html body main.site-main-content .bible-aramaic-inline {
         font-size: 15px; }
-      html body main.site-main-content .quran, html body main.site-main-content .quran-inline {
+      html body main.site-main-content .quran,
+      html body main.site-main-content .quran-inline {
         line-height: 250%;
         text-align: right;
         font-family: 'Amiri', serif; }
@@ -539,14 +616,17 @@ html {
         margin: 15px; }
         html body main.site-main-content div.more-quran-wrapper div.quran-wrapper {
           margin: 0px; }
-      html body main.site-main-content div.quran-wrapper, html body main.site-main-content div.bible-wrapper {
+      html body main.site-main-content div.quran-wrapper,
+      html body main.site-main-content div.bible-wrapper {
         box-sizing: border-box;
         margin: 15px;
         background-color: rgba(0, 0, 0, 0.03); }
-      html body main.site-main-content div.quran-verse, html body main.site-main-content div.bible-verse {
+      html body main.site-main-content div.quran-verse,
+      html body main.site-main-content div.bible-verse {
         background-color: rgba(0, 0, 0, 0.03);
         padding: 10px; }
-      html body main.site-main-content div.verse-no, html body main.site-main-content div.bible-verse-no {
+      html body main.site-main-content div.verse-no,
+      html body main.site-main-content div.bible-verse-no {
         box-sizing: border-box;
         border-width: 1px;
         width: 100%;
@@ -555,15 +635,18 @@ html {
         font-family: "Saira Condensed";
         text-align: center;
         padding: 0 10px; }
-        html body main.site-main-content div.verse-no div.book, html body main.site-main-content div.bible-verse-no div.book {
+        html body main.site-main-content div.verse-no div.book,
+        html body main.site-main-content div.bible-verse-no div.book {
           float: left;
           width: 100px;
           text-align: left; }
-        html body main.site-main-content div.verse-no div.chapter-verse, html body main.site-main-content div.bible-verse-no div.chapter-verse {
+        html body main.site-main-content div.verse-no div.chapter-verse,
+        html body main.site-main-content div.bible-verse-no div.chapter-verse {
           float: right;
           width: 100px;
           text-align: right; }
-        html body main.site-main-content div.verse-no div.chapter, html body main.site-main-content div.bible-verse-no div.chapter {
+        html body main.site-main-content div.verse-no div.chapter,
+        html body main.site-main-content div.bible-verse-no div.chapter {
           margin: 0 auto !important;
           width: 300px;
           display: inline-block;
@@ -572,7 +655,12 @@ html {
         background-color: #36454F; }
       html body main.site-main-content div.bible-verse-no {
         background-color: #003153; }
-      html body main.site-main-content div#more-quran-10-89-93, html body main.site-main-content div#more-quran-3-151, html body main.site-main-content div#other-translations-17-101, html body main.site-main-content div#other-translations-25-37, html body main.site-main-content div#other-translations-19-10, html body main.site-main-content div#other-translations-38-29 {
+      html body main.site-main-content div#more-quran-10-89-93,
+      html body main.site-main-content div#more-quran-3-151,
+      html body main.site-main-content div#other-translations-17-101,
+      html body main.site-main-content div#other-translations-25-37,
+      html body main.site-main-content div#other-translations-19-10,
+      html body main.site-main-content div#other-translations-38-29 {
         display: none;
         opacity: 0;
         transform: scaleX(0);
@@ -610,5 +698,45 @@ html {
       html body main.site-main-content .tooltip:hover .tooltiptext {
         visibility: visible;
         opacity: 1; }
+      html body main.site-main-content .custom-select {
+        position: relative;
+        font-family: Arial; }
+      html body main.site-main-content .custom-select select {
+        display: none;
+        /*hide original SELECT element:*/ }
+      html body main.site-main-content .select-selected {
+        background-color: DodgerBlue; }
+      html body main.site-main-content .select-selected:after {
+        position: absolute;
+        content: "";
+        top: 14px;
+        right: 10px;
+        width: 0;
+        height: 0;
+        border: 6px solid transparent;
+        border-color: #fff transparent transparent transparent; }
+      html body main.site-main-content .select-selected.select-arrow-active:after {
+        border-color: transparent transparent #fff transparent;
+        top: 7px; }
+      html body main.site-main-content .select-items div,
+      html body main.site-main-content .select-selected {
+        color: #ffffff;
+        padding: 8px 16px;
+        border: 1px solid transparent;
+        border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+        cursor: pointer;
+        user-select: none; }
+      html body main.site-main-content .select-items {
+        position: absolute;
+        background-color: DodgerBlue;
+        top: 100%;
+        left: 0;
+        right: 0;
+        z-index: 99; }
+      html body main.site-main-content .select-hide {
+        display: none; }
+      html body main.site-main-content .select-items div:hover,
+      html body main.site-main-content .same-as-selected {
+        background-color: rgba(0, 0, 0, 0.1); }
 
 /*# sourceMappingURL=main.css.map */
