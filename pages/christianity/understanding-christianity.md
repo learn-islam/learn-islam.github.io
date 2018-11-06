@@ -16,7 +16,6 @@ title: Understanding Christianity
 <h3>Table of Content</h3>
 <ul>
     <li><span><a href="/pages/christianity/trinity.html">Trinity</a></span></li>
-    <li><span>Original Sins</span></li>
     <li><span>Atonement of Sins</span></li>
     <li><span>Crucifixion</span></li>
     <li><span>Denominations</span></li>
