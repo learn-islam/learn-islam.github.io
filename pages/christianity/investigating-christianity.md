@@ -19,10 +19,10 @@ title: A Closer Look at Christianity
         <span><a href="/pages/christianity/questions-trinity.html">Questions on Trinity</a></span>
     </li>
     <li>
-        <span>Questions on Original Sins</span>
+        <span><a class="ctext" href="/pages/christianity/questions-sins.html">Questions of Sins</a></span>
     </li>
     <li>
-        <span>Questions on Atonement of Sins</span>
+        <span><a class="ctext" href="/pages/christianity/questions-atonement-of-sins.html">Questions of Atonement of Sins</a></span>
     </li>
     <li>
         <span>Questions on Crucifixion</span>

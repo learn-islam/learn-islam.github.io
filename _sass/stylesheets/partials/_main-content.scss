@@ -65,9 +65,9 @@
         }
 
         div.parents:hover {
-            background-color: $desert-light-color;
-            border: .5px solid $desert-light-color;
-            font-weight: bold;
+            background-color: $pastel-orange;
+            border: .5px solid $pastel-orange;
+            // font-weight: bold;
             transition-delay: 0s;
             transition-duration: 0.3s;
             transition-property: all;
@@ -78,14 +78,14 @@
         }
 
         div.children {
-            font-weight: bold;
+            // font-weight: bold;
             background-color: $button-bg;
             border: .5px solid $desert-color;
         }
 
         div.children:hover {
-            background-color: $desert-light-color;
-            border: .5px solid $desert-light-color;
+            background-color: $pastel-orange;
+            border: .5px solid $pastel-orange;
             transition-delay: 0s;
             transition-duration: 0.3s;
             transition-property: all;
@@ -139,9 +139,9 @@
         button:hover,
         .previous:hover,
         .next:hover {
-            background-color: $desert-light-color;
+            background-color: $pastel-orange;
             color: $button-color;
-            border: .5px solid $desert-light-color;
+            border: .5px solid $pastel-orange;
             transition-delay: 0s;
             transition-duration: 0.3s;
             transition-property: all;
@@ -151,7 +151,7 @@
         button:active,
         .previous:active,
         .next:active {
-            background-color: #000000;
+            background-color: $pastel-orange;
         }
 
         button.more-button {

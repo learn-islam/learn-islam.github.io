@@ -428,9 +428,8 @@ html {
         background-color: white;
         border: 0.5px solid #afafaf; }
       html body main.site-main-content div.parents:hover {
-        background-color: #ffa488;
-        border: 0.5px solid #ffa488;
-        font-weight: bold;
+        background-color: #f1ece9;
+        border: 0.5px solid #f1ece9;
         transition-delay: 0s;
         transition-duration: 0.3s;
         transition-property: all;
@@ -438,12 +437,11 @@ html {
         html body main.site-main-content div.parents:hover a.ptext {
           color: #303030; }
       html body main.site-main-content div.children {
-        font-weight: bold;
         background-color: rgba(253, 232, 218, 0.541);
         border: 0.5px solid #cd7c56; }
       html body main.site-main-content div.children:hover {
-        background-color: #ffa488;
-        border: 0.5px solid #ffa488;
+        background-color: #f1ece9;
+        border: 0.5px solid #f1ece9;
         transition-delay: 0s;
         transition-duration: 0.3s;
         transition-property: all;
@@ -479,9 +477,9 @@ html {
       html body main.site-main-content button:hover,
       html body main.site-main-content .previous:hover,
       html body main.site-main-content .next:hover {
-        background-color: #ffa488;
+        background-color: #f1ece9;
         color: #303030;
-        border: 0.5px solid #ffa488;
+        border: 0.5px solid #f1ece9;
         transition-delay: 0s;
         transition-duration: 0.3s;
         transition-property: all;
@@ -489,7 +487,7 @@ html {
       html body main.site-main-content button:active,
       html body main.site-main-content .previous:active,
       html body main.site-main-content .next:active {
-        background-color: #000000; }
+        background-color: #f1ece9; }
       html body main.site-main-content button.more-button {
         font-size: 16px; }
       html body main.site-main-content a.post-link,
