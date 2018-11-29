@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Economica:400,400i");
 @import url("https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre");
 @import url("https://fonts.googleapis.com/css?family=Noto+Serif");
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,300i");
@@ -10,7 +11,6 @@
 @import url("https://fonts.googleapis.com/css?family=Amita|Galdeano|Offside");
 @import url("https://fonts.googleapis.com/css?family=Rochester");
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css");
-@import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300");
 html {
   height: 100%;
   box-sizing: border-box !important; }
@@ -160,7 +160,7 @@ html {
               margin-top: 61px; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post span.page-title-mobile {
                 display: block !important;
-                font-family: "Yanone Kaffeesatz", sans-serif;
+                font-family: "Economica", sans-serif;
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
@@ -433,7 +433,7 @@ html {
       html body main.site-main-content button.more-button {
         font-size: 16px; }
       html body main.site-main-content a.post-link, html body main.site-main-content h1.post-title {
-        font-family: "Yanone Kaffeesatz", sans-serif;
+        font-family: "Economica", sans-serif;
         font-size: 30px;
         text-decoration: none;
         color: #36454F;
