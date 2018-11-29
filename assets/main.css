@@ -164,7 +164,7 @@ html {
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
-                font-weight: bold;
+                font-weight: 300;
                 padding: 10px 0;
                 margin-bottom: 5px; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page {
@@ -435,6 +435,7 @@ html {
       html body main.site-main-content a.post-link, html body main.site-main-content h1.post-title {
         font-family: "Economica", sans-serif;
         font-size: 30px;
+        font-weight: 300;
         text-decoration: none;
         color: #36454F;
         margin-top: 0; }
