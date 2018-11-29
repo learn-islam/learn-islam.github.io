@@ -36,7 +36,7 @@ The Christian belief is that Jesus (A.S.) died for the sins of all humanity. Tha
                         וַיִּגֹּ֥ף יְהוָ֖ה אֶת־הָעָ֑ם עַ֚ל אֲשֶׁ֣ר עָשׂ֣וּ אֶת־הָעֵ֔גֶל אֲשֶׁ֥ר עָשָׂ֖ה אַהֲרֹֽן׃ ס
                         </div>
                         <div class="translation">
-                            The next day Moses said to the people, "You have sinned a great sin. And now I will go up to the Lord; perhaps <span class="emphasize">I can make atonement for your sin</span>." So Moses returned to the Lord and said, "Alas, this people has sinned a great sin. They have made for themselves gods of gold. But now, if you will forgive their sin—but if not, <span class="emphasize">please blot me out of your book that you have written</span>." But the Lord said to Moses, "<span class="emphasize">Whoever has sinned against me, I will blot out of my book</span>. But now go, lead the people to the place about which I have spoken to you; behold, my angel shall go before you. Nevertheless, in the day when I visit, I will visit their sin upon them." Then the Lord sent a plague on the people, because they made the calf, the one that Aaron made.
+                            The next day Moses said to the people, "You have sinned a great sin. And now I will go up to the Lord; perhaps <span class="emphasize">I can make atonement for your sin</span>." So Moses returned to the Lord and said, "Alas, this people has sinned a great sin. They have made for themselves gods of gold. But now, if you will forgive their sin—but if not, <span class="emphasize">please blot me out of your book that you have written</span>." But the Lord said to Moses, "<span class="emphasize">Whoever has sinned against me, I will blot out of my book</span>. But now go, lead the people to the place about which I have spoken to you; behold, my angel shall go before you. Nevertheless, <span class="emphasize">in the day when I visit, I will visit their sin upon them</span>." Then the Lord sent a plague on the people, because they made the calf, the one that Aaron made.
                         </div>  
                     </div>
                     <div class="bible-verse-no">
@@ -76,7 +76,7 @@ The Christian belief is that Jesus (A.S.) died for the sins of all humanity. Tha
                             λέγει αὐτῇ ἰησοῦς, μή μου ἅπτου, οὔπω γὰρ ἀναβέβηκα πρὸς τὸν πατέρα· πορεύου δὲ πρὸς τοὺς ἀδελφούς μου καὶ εἰπὲ αὐτοῖς, ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν.
                         </div>
                         <div class="translation">
-                            The word of the Lord came to me: "What do you mean by repeating this proverb concerning the land of Israel, The fathers have eaten sour grapes, and the children's teeth are set on edge'? As I live, declares the Lord God, this proverb shall no more be used by you in Israel. Behold, all souls are mine; the soul of the father as well as the soul of the son is mine: <span class="emphasize">the soul who sins shall die</span>.
+                            The word of the Lord came to me: "What do you mean by repeating this proverb concerning the land of Israel, <span class="emphasize">The fathers have eaten sour grapes, and the children's teeth are set on edge'?</span> As I live, declares the Lord God, this proverb shall no more be used by you in Israel. Behold, all souls are mine; the soul of the father as well as the soul of the son is mine: <span class="emphasize">the soul who sins shall die</span>.
                         </div>  
                     </div>
                     <div class="bible-verse-no">
@@ -107,7 +107,7 @@ The Christian belief is that Jesus (A.S.) died for the sins of all humanity. Tha
                             λέγει αὐτῇ ἰησοῦς, μή μου ἅπτου, οὔπω γὰρ ἀναβέβηκα πρὸς τὸν πατέρα· πορεύου δὲ πρὸς τοὺς ἀδελφούς μου καὶ εἰπὲ αὐτοῖς, ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν.
                         </div>
                         <div class="translation">
-                            When a righteous person turns away from his righteousness and does injustice, <span class="emphasize">he shall die for it; for the injustice that he has done he shall die</span>. Again, when a wicked person turns away from the wickedness he has committed and does what is just and right, he shall save his life.
+                            When a righteous person turns away from his righteousness and does injustice, <span class="emphasize">he shall die for it; for the injustice that he has done he shall die</span>. Again, when a wicked person turns away from the wickedness he has committed and does what is just and right, <span class="emphasize">he shall save his life</span>.
                         </div>  
                     </div>
                     <div class="bible-verse-no">
@@ -123,10 +123,10 @@ The Christian belief is that Jesus (A.S.) died for the sins of all humanity. Tha
                             λέγει αὐτῇ ἰησοῦς, μή μου ἅπτου, οὔπω γὰρ ἀναβέβηκα πρὸς τὸν πατέρα· πορεύου δὲ πρὸς τοὺς ἀδελφούς μου καὶ εἰπὲ αὐτοῖς, ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν.
                         </div>
                         <div class="translation">
-                            In those days they shall no longer say:
+                            <span class="emphasize">In those days they shall no longer say</span>:
                             “‘The fathers have eaten sour grapes,
                             and the children's teeth are set on edge.’
-                            <span class="emphasize">But everyone shall die for his own iniquity</span>. Each man who eats sour grapes, his teeth shall be set on edge.
+                            <span class="emphasize">But everyone shall die for his own iniquity. Each man who eats sour grapes, his teeth shall be set on edge.</span>
                         </div>  
                     </div>
                     <div class="bible-verse-no">
