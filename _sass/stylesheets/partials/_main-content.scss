@@ -123,6 +123,46 @@
             display: none;
         }
 
+        // div.parents {
+        //     background-color: white;
+        //     border: .5px solid $gray;
+        // }
+
+        // div.parents:hover {
+        //     background-color: $pastel-orange;
+        //     border: .5px solid $pastel-orange;
+        //     // font-weight: bold;
+        //     transition-delay: 0s;
+        //     transition-duration: 0.3s;
+        //     transition-property: all;
+        //     transition-timing-function: ease-in-out;
+        //     a.ptext {
+        //         color: $button-color;
+        //     }
+        // }
+
+        // div.children {
+        //     // font-weight: bold;
+        //     background-color: $button-bg;
+        //     border: .5px solid $desert-color;
+        // }
+
+        // div.children:hover {
+        //     background-color: $pastel-orange;
+        //     border: .5px solid $pastel-orange;
+        //     transition-delay: 0s;
+        //     transition-duration: 0.3s;
+        //     transition-property: all;
+        //     transition-timing-function: ease-in-out;
+        //     a.ctext {
+        //         display: block;
+        //         transform: skewX(-20deg);
+        //         color: $button-color;
+        //         padding: 0 10px;
+        //     }
+        // }
+
+
         button,
         .previous,
         .next {
@@ -140,7 +180,6 @@
         .previous:hover,
         .next:hover {
             background-color: $pastel-orange;
-            color: $button-color;
             border: .5px solid $pastel-orange;
             transition-delay: 0s;
             transition-duration: 0.3s;
