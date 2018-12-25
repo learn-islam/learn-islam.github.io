@@ -1018,7 +1018,7 @@ html {
                 width: 55%;
                 display: inline-block;
                 text-align: center; } }
-  @media (min-width: 900px) and (max-width: 1024px) and (orientation: landscape) {
+  @media (min-width: 950px) and (max-width: 1024px) and (orientation: landscape) {
     html body {
       background-image: none !important;
       background-color: white;
