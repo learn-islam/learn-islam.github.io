@@ -1399,6 +1399,8 @@ html {
       /*style the items (options), including the selected item:*/
       /*style items (options):*/
       /*hide the items when the select box is closed:*/ }
+      html body main.site-main-content article.post div.title-header {
+        margin-bottom: 20px; }
       html body main.site-main-content div.post-header {
         display: block !important; }
       html body main.site-main-content header.post-header,
@@ -1412,7 +1414,7 @@ html {
         margin: 50px;
         text-align: center; }
       html body main.site-main-content div.title-header {
-        margin: 0 0 50px 0; }
+        margin: 0; }
       html body main.site-main-content div.path {
         display: inline-block;
         font-family: "Saira Condensed";
