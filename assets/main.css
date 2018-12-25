@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Economica:400,400i");
 @import url("https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre");
 @import url("https://fonts.googleapis.com/css?family=Noto+Serif");
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,300i");
@@ -10,7 +11,6 @@
 @import url("https://fonts.googleapis.com/css?family=Amita|Galdeano|Offside");
 @import url("https://fonts.googleapis.com/css?family=Rochester");
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css");
-@import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300");
 html {
   height: 100%;
   box-sizing: border-box !important; }
@@ -1178,11 +1178,11 @@ html {
                   margin-top: 2.5px; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post span.page-title-mobile {
                 display: block !important;
-                font-family: "Yanone Kaffeesatz", sans-serif;
+                font-family: "Economica", sans-serif;
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
-                font-weight: bold;
+                font-weight: 300;
                 padding: 10px 0;
                 margin-bottom: 5px; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question-label-wrapper {
@@ -1498,10 +1498,10 @@ html {
         background-color: #f1ece9; }
       html body main.site-main-content button.more-button {
         font-size: 16px; }
-      html body main.site-main-content a.post-link,
-      html body main.site-main-content h1.post-title {
-        font-family: "Saira Condensed";
-        font-size: 27px;
+      html body main.site-main-content a.post-link, html body main.site-main-content h1.post-title {
+        font-family: "Economica", sans-serif;
+        font-size: 30px;
+        font-weight: 300;
         text-decoration: none;
         color: #36454F;
         margin-top: 0; }
