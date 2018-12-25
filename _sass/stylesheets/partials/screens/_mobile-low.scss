@@ -282,9 +282,10 @@
     
                         article.post {
                             margin-top: 70px;
+                            // margin-bottom: 30px;
 
                             div.title-header {
-                                margin-bottom: 0;
+                                margin-bottom: 8px;
     
                                 div.path {
                                     transform: initial;
@@ -312,7 +313,7 @@
     
                             div.post-content {
                                 div.page {
-                                    margin-bottom: -50px;
+                                    // margin-bottom: -50px;
                                     div.question-label-wrapper {
                                         margin-top: 20px;
                                     }
