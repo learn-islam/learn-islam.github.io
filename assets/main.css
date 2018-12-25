@@ -182,7 +182,7 @@ html {
                     transform: initial; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post span.page-title-mobile {
                 display: block !important;
-                font-family: "Yanone Kaffeesatz", sans-serif;
+                font-family: "Economica", sans-serif;
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
@@ -436,7 +436,7 @@ html {
                     transform: initial; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post span.page-title-mobile {
                 display: block !important;
-                font-family: "Yanone Kaffeesatz", sans-serif;
+                font-family: "Economica", sans-serif;
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
@@ -690,7 +690,7 @@ html {
                     transform: initial; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post span.page-title-mobile {
                 display: block !important;
-                font-family: "Yanone Kaffeesatz", sans-serif;
+                font-family: "Economica", sans-serif;
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
@@ -781,8 +781,6 @@ html {
       background-image: none !important;
       background-color: white;
       width: 100% !important;
-      font-size: 14px !important;
-      text-align: left !important;
       height: 100%;
       box-sizing: border-box !important; }
       html body .outer-wrapper {
@@ -934,7 +932,7 @@ html {
                   margin-top: 2.5px; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post span.page-title-mobile {
                 display: block !important;
-                font-family: "Yanone Kaffeesatz", sans-serif;
+                font-family: "Economica", sans-serif;
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
@@ -1020,13 +1018,11 @@ html {
                 width: 55%;
                 display: inline-block;
                 text-align: center; } }
-  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  @media (min-width: 900px) and (max-width: 1024px) and (orientation: landscape) {
     html body {
       background-image: none !important;
       background-color: white;
       width: 100% !important;
-      font-size: 14px !important;
-      text-align: left !important;
       height: 100%;
       box-sizing: border-box !important; }
       html body .outer-wrapper {
@@ -1157,7 +1153,7 @@ html {
             display: block;
             width: 100%;
             max-width: 100%;
-            padding: 0px 230px 20px 230px;
+            padding: 0px 170px 20px 170px;
             margin-top: 30px;
             margin-bottom: 0;
             box-shadow: none;
@@ -1182,7 +1178,7 @@ html {
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
-                font-weight: 300;
+                font-weight: bold;
                 padding: 10px 0;
                 margin-bottom: 5px; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question-label-wrapper {
@@ -1498,10 +1494,10 @@ html {
         background-color: #f1ece9; }
       html body main.site-main-content button.more-button {
         font-size: 16px; }
-      html body main.site-main-content a.post-link, html body main.site-main-content h1.post-title {
-        font-family: "Economica", sans-serif;
-        font-size: 30px;
-        font-weight: 300;
+      html body main.site-main-content a.post-link,
+      html body main.site-main-content h1.post-title {
+        font-family: "Saira Condensed";
+        font-size: 27px;
         text-decoration: none;
         color: #36454F;
         margin-top: 0; }
