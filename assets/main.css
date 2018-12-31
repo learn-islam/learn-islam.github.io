@@ -182,7 +182,7 @@ html {
                     transform: initial; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post span.page-title-mobile {
                 display: block !important;
-                font-family: "Yanone Kaffeesatz", sans-serif;
+                font-family: "Economica", sans-serif;
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
@@ -436,7 +436,7 @@ html {
                     transform: initial; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post span.page-title-mobile {
                 display: block !important;
-                font-family: "Yanone Kaffeesatz", sans-serif;
+                font-family: "Economica", sans-serif;
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
@@ -690,7 +690,7 @@ html {
                     transform: initial; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post span.page-title-mobile {
                 display: block !important;
-                font-family: "Yanone Kaffeesatz", sans-serif;
+                font-family: "Economica", sans-serif;
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
@@ -934,7 +934,7 @@ html {
                   margin-top: 2.5px; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post span.page-title-mobile {
                 display: block !important;
-                font-family: "Yanone Kaffeesatz", sans-serif;
+                font-family: "Economica", sans-serif;
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
@@ -1182,7 +1182,7 @@ html {
                 font-size: 23px;
                 text-decoration: none;
                 color: #36454F;
-                font-weight: 300;
+                font-weight: bold;
                 padding: 10px 0;
                 margin-bottom: 5px; }
               html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.question-label-wrapper {
@@ -1498,10 +1498,10 @@ html {
         background-color: #f1ece9; }
       html body main.site-main-content button.more-button {
         font-size: 16px; }
-      html body main.site-main-content a.post-link, html body main.site-main-content h1.post-title {
-        font-family: "Economica", sans-serif;
-        font-size: 30px;
-        font-weight: 300;
+      html body main.site-main-content a.post-link,
+      html body main.site-main-content h1.post-title {
+        font-family: "Saira Condensed";
+        font-size: 27px;
         text-decoration: none;
         color: #36454F;
         margin-top: 0; }
@@ -1598,11 +1598,12 @@ html {
         font-size: 20px; }
       html body main.site-main-content .quran-inline {
         font-size: 15px; }
+      html body main.site-main-content .bible, html body main.site-main-content .bible-inline {
+        font-family: 'Noto Serif', serif; }
       html body main.site-main-content .bible {
         margin: 0 0 15px 0;
         font-size: 16px;
-        line-height: 26px;
-        font-family: 'Noto Serif', serif; }
+        line-height: 26px; }
       html body main.site-main-content .bible-hebrew {
         margin: 0 0 15px 0;
         font-size: 23px;
