@@ -1596,11 +1596,12 @@ html {
         font-size: 20px; }
       html body main.site-main-content .quran-inline {
         font-size: 15px; }
+      html body main.site-main-content .bible, html body main.site-main-content .bible-inline {
+        font-family: 'Noto Serif', serif; }
       html body main.site-main-content .bible {
         margin: 0 0 15px 0;
         font-size: 16px;
-        line-height: 26px;
-        font-family: 'Noto Serif', serif; }
+        line-height: 26px; }
       html body main.site-main-content .bible-hebrew {
         margin: 0 0 15px 0;
         font-size: 23px;

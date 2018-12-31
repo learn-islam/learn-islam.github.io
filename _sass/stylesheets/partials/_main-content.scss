@@ -371,11 +371,18 @@
             font-size: 15px;
         }
 
+        .bible, .bible-inline {
+            font-family: 'Noto Serif', serif;
+        }
+
         .bible {
             margin: 0 0 15px 0;
             font-size: $font-size-body;
             line-height: $body-line_height;
-            font-family: 'Noto Serif', serif;
+        }
+
+        .bible-inline {
+
         }
 
         .bible-hebrew {
