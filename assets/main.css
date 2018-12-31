@@ -781,8 +781,6 @@ html {
       background-image: none !important;
       background-color: white;
       width: 100% !important;
-      font-size: 14px !important;
-      text-align: left !important;
       height: 100%;
       box-sizing: border-box !important; }
       html body .outer-wrapper {
@@ -1020,13 +1018,11 @@ html {
                 width: 55%;
                 display: inline-block;
                 text-align: center; } }
-  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  @media (min-width: 950px) and (max-width: 1024px) and (orientation: landscape) {
     html body {
       background-image: none !important;
       background-color: white;
       width: 100% !important;
-      font-size: 14px !important;
-      text-align: left !important;
       height: 100%;
       box-sizing: border-box !important; }
       html body .outer-wrapper {
@@ -1157,7 +1153,7 @@ html {
             display: block;
             width: 100%;
             max-width: 100%;
-            padding: 0px 230px 20px 230px;
+            padding: 0px 170px 20px 170px;
             margin-top: 30px;
             margin-bottom: 0;
             box-shadow: none;
@@ -1403,6 +1399,8 @@ html {
       /*style the items (options), including the selected item:*/
       /*style items (options):*/
       /*hide the items when the select box is closed:*/ }
+      html body main.site-main-content article.post div.title-header {
+        margin-bottom: 20px; }
       html body main.site-main-content div.post-header {
         display: block !important; }
       html body main.site-main-content header.post-header,
@@ -1416,7 +1414,7 @@ html {
         margin: 50px;
         text-align: center; }
       html body main.site-main-content div.title-header {
-        margin: 0 0 50px 0; }
+        margin: 0; }
       html body main.site-main-content div.path {
         display: inline-block;
         font-family: "Saira Condensed";
