@@ -63,7 +63,7 @@ title: Trinity
         </li>
         <li>
             <span>
-                Who is the God of the Israelites according to Jesus (A.S.)? Were the Israelites refer to a triune God or one absolute being (who is the Father)?
+                Who is the God of the Israelites according to Jesus (A.S.)? Did the Israelites worship the triuned nature God or the one absolute being (who is the Father)?
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -83,7 +83,35 @@ title: Trinity
         </li>
         <li>
             <span>
-                When Jesus (A.S.) was given the opportunity to teach trinity, did Jesus (A.S.) (knowing that the God of the Israelites is one) correct the belief of the learned Jewish (a Scribe) and taught that God possesses a triune nature and that Jesus (A.S.) is part of it?
+                Will there be any God to come after the God of the Israelites?
+                <div class="bible-wrapper">
+                    <div class="bible-verse">
+                        <div class="bible-hebrew">
+                            אַתֶּ֤ם עֵדַי֙ נְאֻם־יְהוָ֔ה וְעַבְדִּ֖י אֲשֶׁ֣ר בָּחָ֑רְתִּי לְמַ֣עַן תֵּ֠דְעוּ וְתַאֲמִ֨ינוּ לִ֤י וְתָבִ֙ינוּ֙ כִּֽי־אֲנִ֣י ה֔וּא לְפָנַי֙ לֹא־נ֣וֹצַר אֵ֔ל וְאַחֲרַ֖י לֹ֥א יִהְיֶֽה׃ ס
+                            אָנֹכִ֥י אָנֹכִ֖י יְהוָ֑ה וְאֵ֥ין מִבַּלְעָדַ֖י מוֹשִֽׁיעַ׃
+                        </div>
+                        <div class="translation">
+                            “You are my witnesses,” declares the Lord,
+                            “and my servant whom I have chosen,
+                            that you may know and believe me
+                            and understand that I am he.
+                            <span class="emphasize">Before me no god was formed,
+                            nor shall there be any after me</span>.
+                            I, I am the Lord,
+                            and <span class="emphasize">besides me there is no savior</span>.
+                        </div>
+                    </div>
+                    <div class="bible-verse-no">
+                        <div class="book">Bible (ESV)</div>
+                        <div class="chapter">Isaiah</div>
+                        <div class="chapter-verse">43:10-11</div>
+                    </div>
+                </div>
+            </span>
+        </li>
+        <li>
+            <span>
+                When Jesus (A.S.) was given the opportunity to teach trinity, did Jesus (A.S.) (knowing that the God of the Israelites is one) correct the belief of the learned Jew (a Scribe) and taught that God possesses a triune nature and that Jesus (A.S.) is part of it?
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -103,7 +131,7 @@ title: Trinity
         </li>
         <li>
             <span>
-                If righteousness were through the law, then we don't need the crucifixion of Jesus (A.S.) according to Paul:
+                If righteousness were through the law, then we don't need the Crucifixion of Jesus (A.S.) according to Paul:
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -119,7 +147,7 @@ title: Trinity
                         <div class="chapter-verse">2:21</div>
                     </div>  
                 </div>
-                However, Jesus (A.S.) came not abolish the law. Who should we follow then, Jesus (A.S.) or Paul?
+                However, Jesus (A.S.) came not to abolish the law. Who should we follow then, Jesus (A.S.) or Paul?
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
