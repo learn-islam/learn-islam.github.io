@@ -16,6 +16,9 @@ title: Trinity
         <a class="ctext" href="/pages/christianity/questions-trinity.html">Questions on Trinity</a>
     </div>
 </div>
+In the name of Allah (the Almighty God), the Entirely Merciful, the Especially Merciful. Let me begin with the sincerest intention all for the sake of truth.
+The following questions I prepared are meant to seek the truth and nothing else. I have no intention of judging Christianity or Judaism, or any religion, all I want is sincerety and honesty. 
+If there is something in the following questions that might go against you, I sincerely apologize, and I am open for any correction. I intend to have a dialogue and not to spread hatred. I prepared this in all honesty and tried my best to be respectful in some sensitive questions.
 <div class="question-label-wrapper">
     <span class="question-label">Summary</span>
 </div>
@@ -111,7 +114,7 @@ title: Trinity
         </li>
         <li>
             <span>
-                When Jesus (A.S.) was given the opportunity to teach trinity, did Jesus (A.S.) (knowing that the God of the Israelites is one) correct the belief of the learned Jew (a Scribe) and taught that God possesses a triune nature and that Jesus (A.S.) is part of it?
+                When Jesus (A.S.) was given the opportunity to teach trinity, did Jesus (A.S.) (knowing that the God of the Israelites is one supreme being, who is the Father) correct the belief of the learned Jew (a Scribe) and taught that God possesses a triune nature and that Jesus (A.S.) is part of it?
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -190,9 +193,8 @@ title: Trinity
                         <div class="chapter-verse">24:36</div>
                     </div>  
                 </div>
-                Some Christians argue that the reason why Jesus (A.S.) is not knowledgeable is due to the fact that he possesses
-                a human nature at the same time. Hence in this case, only the Father knows the hour. However, why ONLY the Father? What about 
-                the Holy Spirit? Isn't the Holy Spirit a God as well and not a human? So why the Father ONLY?
+                I respect the belief of our Christian brothers, and I don't intend to judge them. I just want to clarify some of the arguments I received from them. For example, one respond I received for this is that, the reason why Jesus (A.S.) is not knowledgeable of the time of his return, is due to the fact that he possesses
+                a human nature as well. Hence, given this limitation, it is therefore reasonable to say that, only the Father knows the hour. While I understand that, but if that is the case, then why ONLY the Father? What about the Holy Spirit? Isn't the Holy Spirit a God as well and not a human? So why the Father ONLY?
             </span>
         </li>
         <li>
@@ -237,7 +239,7 @@ title: Trinity
         </li>
         <li>
             <span>
-                Christianity taught us that Jesus (A.S.) is a mediator (see 1 Timothy 2:5) between God and men, that is, we cannot worship God directly, because according to Jesus (A.S.) “. . .no one comes to the Father except through me” (see John 14:6). If that is the case, why would he say/agree to worship the Father (directly without mediator?) and serve the Father only?
+                Christianity taught us that Jesus (A.S.) is a mediator (see 1 Timothy 2:5) between God and men, that is, we cannot worship God directly, because according to Jesus (A.S.) “. . .no one comes to the Father except through me” (see John 14:6). While that clearly justifies why our Christian brothers worship Jesus (A.S.), and I respect that, but if that is the case, why would he say/agree to worship the Father (directly without mediator?) and serve the Father only?
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -253,7 +255,7 @@ title: Trinity
                         <div class="chapter-verse">4:10</div>
                     </div>  
                 </div>
-                The word "written" in the above verse is referenced to the following verse of the old testament: 
+                The word "written" in the above verse is also referenced to the following verse of the Old Testament: 
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible-hebrew">                                
@@ -269,7 +271,7 @@ title: Trinity
                         <div class="chapter-verse">6:13-15</div>
                     </div>  
                 </div>
-                I’m not trying to make a conclusion, but correct me if I’m wrong. From the above verse, it seems to be very risky to add/associate a partner to the Father, for He is a jealous God, isn’t it? And if we do so, He will destroy us off from the face of the earth? 
+                I'm just a human being with my limited knowledge, so I’m not trying to make a conclusion, but correct me if I’m wrong. From the above verse, it seems to be very risky to add/associate a partner to the Father, for He is a jealous God, isn’t it? If we do so, the verse tells us that He will destroy us off from the face of the earth?
                 <p>
                     Additional verse where Jesus (A.S.) commands us to worship the Father when we pray are given in the following verses: 
                     <div class="bible-wrapper">
@@ -287,6 +289,7 @@ title: Trinity
                             <div class="chapter-verse">6:6</div>
                         </div>  
                     </div>
+                    There maybe context to this as what our Christian brothers mentioned in one of my dialogue with them, and I am interested though as to what is the context.
                 </p>
             </span>
         </li>
@@ -304,15 +307,15 @@ title: Trinity
                     </div>
                     <div class="bible-verse-no">
                         <div class="book">Bible (ESV)</div>
-                        <div class="chapter">John</div>
-                        <div class="chapter-verse">4:23-24</div>
+                        <div class="chapter">1 Timothy</div>
+                        <div class="chapter-verse">1:17</div>
                     </div>  
                 </div>
             </span>
         </li>
         <li>
             <span>
-                If Jesus (A.S.) is God and is part of the trinity as taught by the churches, why did he not clarify and teach this to us when he was given the opportunity, when he was asked about the greatest commandment? 
+                I don't intend to attack the Churches, as I respect the priests and the pastors, so forgive me if I have to ask this question. If Jesus (A.S.) is God and is part of the trinity as taught by the Churches, why did he not clarify and teach this to us when he was given the opportunity, when he was asked about the greatest commandment? 
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -328,12 +331,12 @@ title: Trinity
                         <div class="chapter-verse">12:28-34</div>
                     </div>  
                 </div>
-            Here, a learned Jew asked Jesus (A.S.), and from John 8:54 above, Jesus (A.S.) knew that Jews believed in one absolute being, who is the Father only. Therefore, this is the perfect time for Jesus (A.S.) to teach the scribe/learned Jewish about the new nature of God. That is, if trinity is indeed what the Bible teaches and that Jesus (A.S.) is part of the triune God, shouldn't Jesus (A.S.) reject the absolute oneness of God, and instead clarify and teach that God is part of the trinity? The <i>shema</i> which is the phrase "<i>Hear, O Israel: The Lord our God, the Lord is one</i>" (see Deuteronomy 6:4) is the core belief of the Jews, and they recite this several times in a day in their prayers. The fact that Jews and Muslims are praying to the same one God, and that Jesus (A.S.) is a Jew, shouldn't we worship his God alone? 
+            Recall from John 8:54 above, Jesus (A.S.) knew that Jews believed in one absolute supreme being, who is the Father only. Having this knowledge, it is therefore the perfect opportunity for Jesus (A.S.) to teach the scribe/learned Jew about the new nature of God. That is, (again, I don't intend to judge the belief of our Christian brothers, but simply to learn from them) if trinity is indeed what the Bible teaches and that Jesus (A.S.) is part of the triune God, shouldn't Jesus (A.S.) reject the absolute oneness of God as believed by the Jews? Instead clarify and teach that God is part of the trinity? The <i>shema</i> which is the phrase "<i>Hear, O Israel: The Lord our God, the Lord is one</i>" (see Deuteronomy 6:4) is the core belief of the Jews, from what I found in my humble research, and they recite this several times in a day in their prayers. I'm not trying to brag, but this is the fact and anyone  can confirm it, that the fact that Jews and Muslims are praying to the same one God, and that Jesus (A.S.) is a Jew, shouldn't we worship his God alone? 
             </span>
         </li>
         <li>
             <span>
-                If Jesus (A.S.) is God, why would he call the Father as the only true God? 
+                If Jesus (A.S.) is God, why would he call the Father as the ONLY TRUE God? 
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -349,19 +352,19 @@ title: Trinity
                         <div class="chapter-verse">17:3</div>
                     </div>  
                 </div>
-                This verse seems to suggest that, if trinity did exist, then according to this explicit statement by Jesus (A.S.), the other godheads associated to the Father are not true gods. 
+                I don't intend to be rude, but because the verse above is so explicit, it therefore suggest that, if trinity did exist, then according to this explicit statement by Jesus (A.S.), the other godheads associated to the Father are not true gods. 
             </span>
         </li>
         <li>
             <span>
-                If the atonement of sins is the sacrifice of Jesus (A.S.) because that's what the old testament says (see Leviticus 17:11) accordingly, then can we also use the old testament to check as to who God is? I’ve read Matthew and Mark, and still working on Luke, with few chapters on John, but if you read the Gospels, from Matthew to John, Jesus (A.S.) is also called the Son of Man, for example Matthew 8:20, Mark 2:10, Luke 5:24, John 3:13, etc. Therefore, if Jesus (A.S.) is the Son of Man, then why does the old testament say that God is not a man or a Son of Man? 
+                If the atonement of sins is the sacrifice of Jesus (A.S.) because that's what the Old Testament says (see Leviticus 17:11) accordingly, then can we also use the Old Testament to check as to who God is? I try to be humble as much as possible, but I did my best and finished reading Matthew and Mark, but still working on Luke, with few chapters on John, but if you read the Gospels, from Matthew to John, Jesus (A.S.) is also called the Son of Man, for example Matthew 8:20, Mark 2:10, Luke 5:24, John 3:13, etc. Therefore, if Jesus (A.S.) is the Son of Man, then why does the Old Testament say that God is not a man or a Son of Man? 
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible-hebrew">    
                             לֹ֣א אִ֥ישׁ אֵל֙ וִֽיכַזֵּ֔ב וּבֶן־אָדָ֖ם וְיִתְנֶחָ֑ם הַה֤וּא אָמַר֙ וְלֹ֣א יַעֲשֶׂ֔ה וְדִבֶּ֖ר וְלֹ֥א יְקִימֶֽנָּה
                         </div>
                         <div class="translation">
-                            <span class="emphasize">God is not man</span>, that he should lie, <span class="emphasize">or a son of man</span>, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?
+                            <span class="emphasize">God is not man</span>, that he should lie, <span class="emphasize">or a Son of Man</span>, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?
                         </div>  
                     </div>
                     <div class="bible-verse-no">
@@ -370,7 +373,7 @@ title: Trinity
                         <div class="chapter-verse">23:19</div>
                     </div>  
                 </div>
-                Further, there is a verse in the bible where a man claimed himself to be God, and the response of God is in the following verse: 
+                Further, from my humble research, there is a verse in the bible where a man claimed himself to be God, and the response of God is in the following verse: 
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible-hebrew">    
@@ -406,7 +409,7 @@ title: Trinity
         </li>
         <li>
             <span>
-                I once attended a mass at a Christian church and I also learned this from one of the bible study I attended, at one point of the session I heard the speaker saying, that we are all sinners and we cannot uphold the law --- the ten commandments. From doing research, I found out that the reason is due to the writings of Paul, where he emphasized that we cannot be saved by keeping the law, or good works, but through faith in Jesus (A.S.), who accordingly is God. See the verse below on why we cannot uphold the law according to Paul,
+                I once attended a mass at a Christian Church and I also learned this from one of the Bible Study I attended, at one point of the session I heard the speaker saying, that we are all sinners and we cannot uphold the law --- the ten commandments. From doing research, I found out that the reason is due to the writings of Paul, where he emphasized that we cannot be saved by keeping the law, or good works, but through faith in Jesus (A.S.), who accordingly is God. See the verse below on why we cannot uphold the law according to Paul,
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -467,7 +470,7 @@ title: Trinity
                         <div class="chapter-verse">2:21</div>
                     </div>  
                 </div>
-                Therefore, according to Paul we cannot be saved by keeping the law, but by faith in Jesus (A.S.), for <b>the law accordingly brings wrath</b>; and if we were to base our righteousness through the law, <b>then Christ died for no purpose</b>. Hence, we cannot uphold the law including the first commandment which is to uphold the absolute oneness of God. If that is the case, then why (this time) according to Jesus (A.S.) (not Paul) that, he did not come to abolish the law and instead fulfill it? 
+                Therefore, according to Paul we cannot be saved by keeping the law, but by faith in Jesus (A.S.), for <b>the law accordingly brings wrath</b>; and if we were to base our righteousness through the law, <b>then Christ died for no purpose</b>. Hence, we cannot uphold the law including the first commandment which is to uphold the absolute oneness of God. If that is the case, then why (this time) according to Jesus (A.S.) (not Paul) that, he did not come to abolish the law and instead fulfill it? I sincerely apologize if this was sensitive to ask.
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -483,7 +486,7 @@ title: Trinity
                         <div class="chapter-verse">5:17-19</div>
                     </div>  
                 </div>
-                Why would Paul relaxes the law when Jesus (A.S.) said not to? I do respect what the Christians believe, but who should I follow, Jesus (A.S.) or Paul? Further, I also don’t understand, honestly, why almost all Christians eat pork? Isn't it prohibited in the law to eat it? From what we have above, according to Jesus (A.S.) not Paul, that by eating pork will relax the law.
+                Why would Paul relaxes the law when Jesus (A.S.) said not to? I do respect what our Christian brothers believe, but I'm honestly confuse as to who should I follow, Jesus (A.S.) or Paul? Further, I also don’t understand but I don't intend to judge them, honestly, why almost all Christians eat pork? Isn't it prohibited in the law to eat it? From what we have above, according to Jesus (A.S.) not Paul, that by eating pork will relax the law.
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible-hebrew">    
@@ -514,7 +517,7 @@ title: Trinity
                         <div class="chapter-verse">14:8</div>
                     </div>  
                 </div>
-                As far as I know, because Jesus (A.S.) is a Jew, he never indeed ate pork, but instead ate kosher foods -- a Jewish equivalent of Halal foods. Another verse related to this is the following:
+                As far as I know, because Jesus (A.S.) is a Jew, he never indeed ate pork, but instead ate kosher foods -- a Jewish equivalent of the Halal foods. Another verse related to this is the following:
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -530,19 +533,21 @@ title: Trinity
                         <div class="chapter-verse">7:21-23</div>
                     </div>  
                 </div>
-                This verse suggests that, if I stick to the will of the Father by following His law, then Jesus (A.S.) will acknowledge me on the day of judgement. Otherwise (by abolishing the law), <b>I will be among the workers of lawlessness</b>?
+                I apologize, but I'm trying not to be rude, I apologize if I have to ask this. This verse suggests that, if I stick to the will of the Father by following His law, then Jesus (A.S.) will acknowledge me on the day of judgement. Otherwise (by abolishing the law), <b>I will be among the workers of lawlessness</b>?
                 <p>
-                Some Christians argue that there may be Muslims who eat pork as well, just like some Iglesia ni Cristo (INC) who does not follow the teachings in the Bible. Simple answer: any Muslim who eat pork is not a Muslim. A Muslim is someone who follows the Torah, the Gospels and the Qur'an, and you cannot find a Muslim who eat pork. When I say Torah and Gospels, I'm referring to the original Torah and Gospels that Christian scholars acknowledged to be nowhere to be found.
+                I do understand why some Christians argue that there may be Muslims who eat pork as well, just like some Iglesia ni Cristo (INC) who does not follow the teachings in the Bible. This is my honest answer: any Muslim who eat pork is not a Muslim. A Muslim is someone who follows the Torah, the Gospels and the Qur'an, and you cannot find a Muslim who eat pork. When I say Torah and Gospels, I'm referring to the original Torah and Gospels that Christian scholars acknowledged (I understand this and respect it) to be nowhere to be found.
+                </p>
+                <p>Further, in one of my engagement, some Christians argue that (I understand if this is for the sake of justifying that eating pork is not a problem, and I don't intend to be judgemental) that Jesus (A.S.) was sent to the Gentiles as well. If I understand it correctly, this argument seems to suggest that, because the Gentiles don't follow the Torah, and so they eat pork, and since Jesus (A.S.) was sent to them as well, somehow eating pork is accepted because Gentiles still do eat pork today. (I apologize if I hurt the readers, but I sincerely don't intend to be rude. I sincerely apologize) However, we know that there were Gentiles who accepted Jesus (A.S.) and there were Gentiles who did not accept him. I apologize for asking this, but are we saying then that this argument is meant to suggest, that we need to follow the practice of the Gentiles who did not follow Jesus (A.S.)? Instead of following the practice of the followers of Jesus (A.S.)?
                 </p>
                 <p>
-                Another point I want to make is that, there are some writings of Paul as well where he supports the law.
-                However, that directly contradicts the purpose of Crucifixion. What is the purpose of Crucifixion of Jesus (A.S.) if Paul said to follow the law?
+                One final point for this question that I want to make is that, there are some writings of Paul where he supported the law. Unfortunately, from what I observed is that, this is not emphasized in the Bible Study. Thus having this experience, makes me doubt if every Christians believed that Paul also teaches to follow the law by good works, since in all Bible Study I attended, the emphasis is, "Righteousness through faith and not by good works". Further, if righteousness were through the law, then that directly contradicts the purpose of Crucifixion. What is the purpose of Crucifixion of Jesus (A.S.) if Paul told us to follow the law? I sincerely apologize if this was sensitive.
                 </p>
             </span>
         </li>
         <li>
             <span>
-                Again, the common argument I learned is that, we are all sinners and we cannot uphold the law as taught by Paul not Jesus (A.S.). Hence, according to the teachings of Paul, we need Jesus (A.S.) as atonement for our sins. However, by definition, we know that God is omniscient and wise, why would he give the law and then later found out (accordingly) that we cannot uphold it? Isn't God not a son of man, that he should change his mind according to Numbers 23:19? Isn't God supposed to not change according to Malachi 3:6? Why would he even change from 1 to 3 in 1?<div class="bible-wrapper">
+                Again, the common argument I learned is that, we are all sinners and we cannot uphold the law as taught by Paul not Jesus (A.S.). Hence, according to the teachings of Paul, we need Jesus (A.S.) as atonement for our sins. However, by definition, we know that God is omniscient and wise, why would he give the law and then later found out (accordingly) that we cannot uphold it? Isn't God not a Son of Man, that he should change his mind according to Numbers 23:19? Isn't God supposed to not change according to Malachi 3:6? Why would he even change from 1 to 3 in 1? I sincerely apologize if I hurt the reader.
+                <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible-hebrew">    
                             כִּ֛י אֲנִ֥י יְהוָ֖ה לֹ֣א שָׁנִ֑יתִי וְאַתֶּ֥ם בְּנֵֽי־יַעֲקֹ֖ב לֹ֥א כְלִיתֶֽם׃
@@ -561,16 +566,15 @@ title: Trinity
         </li>
         <li>
             <span>
-                According to Christianity, God died for our sins. If that is the case, I honestly don’t understand how can God die? If God died during crucifixion, then who is in charge of the world and the heavens? From what I read, the common response here is that God did not die, but only the human part of him. However, if that is the case, then why would they say God died for our sins in the first place if he didn’t?
+                According to Christianity, God died for our sins. If that is the case, I honestly don’t understand how can God die? If God died during crucifixion, then who is in charge of the world and the heavens? From what I read, the common response here is that God did not die, but only the human part of him. However, if that is the case, then why would they say God died for our sins in the first place if he didn’t? I sincerely apologize again if I hurt the reader.
             </span>
         </li>
         <li>
             <span>
-                If Jesus (A.S.) is not knowledgeable about his return, as in the previous question in reference to Matthew 24:36, because from what I learned is that, the common argument to address this question is due to fact that Jesus (A.S) is both man and God. If that is the case, then we should at least expect Jesus (A.S.) to be God when we need him to, and be man when he has to. Salvation accordingly is through him; I’m sorry, I don’t intend to be rude (I warned you this is sensitive), but shouldn't he at least make it clear to us that he is God? Because it is a matter of living in paradise or hell eternally. 
-                Miracles can be used as a proof, but previous prophets did miracles too and their miracles is not from them but from the permission of God, and they were sent by God the same as Jesus (A.S.); and even if the miracles were enough proofs, how are we going to reconcile what Jesus (A.S.) said about the only true God, who according to him is the Father (John 17:3)? Let me give an example, (again, I apologize, but I’m trying to express this in a respectful manner, I don’t intend to be judgmental, the fact that I studied and spent time reading the bible, simply suggest that I didn’t judged it by what people says) if someone attempts to run for presidency, 
-                the candidate shouldn't do body language or implied messages for us to assume that he will run for president. He clearly needs to go to the stage and declare it to the public. The same situation when you doubt someone, say in a relationship (e.g. your child in love with someone, or your relationship with God, etc.). You wouldn't feel at peace if your partner (e.g. the one courting your child, or your God) is beating around the bush without giving direct commitment. What I’m trying to respectfully say is, if Jesus (A.S.) is God, the basic assumption I expect is that he himself has declared it. If so, can you guide me as to where it is in the bible where he says "I am God"? 
-                Obviously, I looked into it and surfed the web. The findings I found is that, there is none in the bible, just as the word "bible" or “trinity” not found in the bible. However, the word bible simply refers to the holy book of Christianity, you can name the book anything you want; and the word “trinity” simply refers to the 3 godheads in 1 essence. The name is not important, what is important is the definition. For example, you cannot find the word “Doctor” in the Japanese books, but you can find the definition of it, and you say “Doctor” is in the Japanese books because it has the same definition as the word “Ishi” (医師). Therefore, if Jesus (A.S.) is God and is part of the 
-                trinity, what is the definition should we expect? Of course, Jesus (A.S.) should have said, “I am God, part of the 3 godheads (the father, the son, and the holy spirit) in 1 essence, and you should worship me”. If I may refer to our analogy before respectfully, what matters to us as listeners, is for someone whom we want to support to at least declare that he will run for president. Further, if Jesus (A.S.) is both man and god, where is the foundation of this in the bible? Are there any verses declaring this? So that we don’t have to make assumptions and to remove confusions? However, we have seen already from Numbers 23:19, that God is not a man or a Son of Man. This question was raised in the Qur’an in the following verse:
+                If Jesus (A.S.) is not knowledgeable about his return, as in the previous question in reference to Matthew 24:36, because from what I learned is that, the common argument to address this question is due to fact that Jesus (A.S) is both man and God. If that is the case, then shouldn't we at least expect Jesus (A.S.) to be God when we need him to? And be man when he has to. Salvation accordingly is through him; I sincerely apologize, I don’t intend to be rude, but shouldn't he at least make it clear to us that he is God? Because it is a matter of living in paradise or hell eternally. 
+                Miracles can be used as a proof, but previous prophets did miracles too and their miracles is not from them but from the permission of God, and they were sent by God the same as Jesus (A.S.); and even if the miracles were enough proofs, how are we going to reconcile what Jesus (A.S.) said about the only true God, who according to him is the Father (John 17:3)? For purpose of clarity, allow me to cite an example, (again, I apologize, but I’m trying to express this in a respectful manner, I don’t intend to be judgmental, the fact that I studied and spent time reading the bible, simply suggest that I didn’t judged it by what people says) if someone attempts to run for presidency, 
+                the candidate shouldn't do body language or implied messages for us to assume that he will run for president. He clearly needs to go to the stage and declare it to the public. The same situation when you doubt someone, say in a relationship (e.g. your child in love with someone, or your relationship with God, etc.). You wouldn't feel at peace if your partner (or e.g. the one courting your child, or your God) is beating around the bush without giving direct commitment. What I’m trying to respectfully say is, if Jesus (A.S.) is God, the basic assumption I expect is that he himself has declared it. If so, I sincerely want to be guided as to where it is in the bible where he says "I am God"? 
+                For purpose of sincerety, I did looked into it already and surfed the web. The findings I found is that, there is none in the bible just as the word "bible" or “trinity” not found in the bible. However, (I apologize for this long explanation) the word bible simply refers to the holy book of Christianity, you can name the book anything you want; and the word “trinity” simply refers to the 3 godheads in 1 essence. The name is not important, what is important is the definition. For example, you cannot find the word “Doctor” in the Japanese books, but you can find the definition of it, and you say “Doctor” is in the Japanese books because it has the same definition as the word “Ishi” (医師). Therefore, if Jesus (A.S.) is God and is part of the trinity, what is the definition that we must expect? Well I think we should agree that, Jesus (A.S.) should have said, “I am God, part of the 3 godheads (the father, the son, and the Holy Spirit) in 1 essence, and you should worship me”. If we refer back to our analogy before respectfully, I think what matters to us as listeners, is for someone whom we want to support to at least declare that he will run for president. Further, if Jesus (A.S.) is both man and god, I sincerely don't know where is the foundation of this in the bible? Are there any verses declaring this? So that we don’t have to make assumptions and to remove confusions? (I apologize sincerely if I hurt the reader) However, we have seen already from Numbers 23:19, that God is not a man or a Son of Man. This question was raised in the Qur’an in the following verse:
                 <div class="quran-wrapper">
                     <div class="quran-verse">
                         <div class="quran">
@@ -590,12 +594,12 @@ title: Trinity
                         <div class="chapter-verse">116-118</div>
                     </div>  
                 </div>
-                I know, I use the Qur’an here despite the fact that Christians don’t believe in it. I respect my non-Muslim readers, but I’m a Muslim, so this should be no surprise, unless I’m a Christian already. The question being posted here does make a point, (I’m not trying to be biased, but honestly it does make a point). So did Jesus (A.S.) say “I am God and you should worship me”? If there is a verse, then at least we have an evidence to present to God in the day of judgement, if in case Jesus (A.S.) will disassociate himself from us. Now if you say, God will not ask us because that statement is from the Qur’an, and because the Qur’an is not acknowledged by the Christians, hence one might conclude that it won’t happen. But there is a “what if?” Isn’t it? There is a hole, so do we have something to present if in case?
+                I sincerely apologize if this you did not expect this, but as a seeker of truth, I think we don't have to judge any book by its cover, may it be Hebrew Bible, Christian Bible, Hindus Religious book. I use the Qur’an here despite the fact that our Christian brothers don’t believe in it. I respect my non-Muslim readers, but I’m a Muslim who only wants truth for the sake of God, so I hope my non-Muslim readers will understand if I use it, of course, only when necessary. The question being posted here does make a point, (I’m not trying to be biased, but honestly it does make a point). We can ask therefore if Jesus (A.S.) did say "I am God and you should worship me"? If there is a verse, then at least we have an evidence to present to God in the day of judgement, if in case Jesus (A.S.) will disassociate himself from us. Now if you say, God will not ask us because that statement is from the Qur’an (I understand if this is the respond of our Christian brothers and I respect that), and because the Qur’an is not acknowledged by the Christians, hence one might conclude that it won’t happen. But there is a “what if?” Isn’t it? There is a hole, so do we have something to present if in case? I apologize sincerely.
             </span>
         </li>
         <li>
             <span>
-                If salvation is achieved by believing in the doctrine of trinity (that is, claiming Jesus (A.S.) as God), why would Jesus (A.S.) say that, salvation is from the Jews? Or in other words, why would he say salvation is achieved by upholding the law (that is, God is one and have no partners)?
+                If salvation is achieved by believing in the doctrine of trinity (that is, claiming Jesus (A.S.) as God), why would Jesus (A.S.) say that, salvation is from the Jews? Or in other words, why would he acknowledged that salvation is achieved by upholding the law (that is, God is one and have no partners)?
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -631,9 +635,9 @@ title: Trinity
                         <div class="chapter-verse">10:30</div>
                     </div>  
                 </div>
-                The verse is an interesting one, and it is almost explicitly stated. I’m trying not to be biased, although for Christians, this is explicitly stated already. The reason follows from the fact that, the other verses I presented seems to be not supporting this verse. Not supporting if we think that Jesus (A.S.) and the Father as “one being”. Let me site an example again, if the vice-president says he and the president are one, wouldn’t it simply suggest that they are one in purpose/mission? Unless the vice-president says he and the president are “one being”, then that is very explicit. How then are we going to understand the meaning/context of this verse? Of course, by looking at other verses. If they are one as in “one being”, then some verses in the bible will be affected and hard to understand. For example, when Jesus (A.S.) needs the help of God as in Luke 22:42, he prayed to the Father; another in Matthew 27:46 and Mark 15:34, he called God. Again, if I were to say these, I would do it in a respectful manner, that if Jesus (A.S.) and God are “one being”, was Jesus (A.S.) praying to himself then? Was he calling himself? And how can God pray? Isn’t God self-sufficient? Isn’t God not a Son of Man (Numbers 23:19)? Isn’t God invisible (1 Timothy 1:17)? 
+                The verse is an interesting one, and it is almost explicitly stated. I’m trying not to be biased, although for Christians, this is explicitly stated already. The reason follows from the fact that, the other verses I presented seems to be not supporting this verse. Not supporting if we think that Jesus (A.S.) and the Father as “one being”. Let me cite an example again, if the vice-president says he and the president are one, wouldn’t it simply suggest that they are one in purpose/mission? Unless the vice-president says he and the president are “one being”, then that is very explicit. How then are we going to understand the meaning/context of this verse? I think we agree, that this is done by looking at other verses. If they are one as in “one being”, then some verses in the bible will be affected and hard to understand. For example, when Jesus (A.S.) needs the help of God as in Luke 22:42, he prayed to the Father; another in Matthew 27:46 and Mark 15:34, he called God. Again, if I were to say these, I would do it in a respectful manner, that if Jesus (A.S.) and God are “one being”, was Jesus (A.S.) praying to himself then? Was he calling himself? And how can God pray? Isn’t God self-sufficient? Isn’t God not a Son of Man (Numbers 23:19)? Isn’t God invisible (1 Timothy 1:17)? 
                 <p>
-                    Further, if we are to agree on that verse believing that Jesus (A.S.) and the Father as “one being”, where is the holy spirit, shouldn’t the three of them one? Is there a verse where it says Jesus (A.S.) and the holy spirit are one? And is there a verse where it says the Father and the holy spirit are one? Also, what about the other succeeding verses where Jesus (A.S.) talks about his disciples to God?
+                    Further, if we are to agree on that verse believing that Jesus (A.S.) and the Father as “one being”, where is the Holy Spirit? Shouldn’t the three of them one? Is there a verse where it says Jesus (A.S.) and the Holy Spirit are one? Moreover, is there a verse where it says the Father and the Holy Spirit are one? Also, what about the other succeeding verses where Jesus (A.S.) talks about his disciples to God?
                 </p>
                 <div class="bible-wrapper">
                     <div class="bible-verse">
@@ -670,7 +674,7 @@ title: Trinity
         </li>
         <li>
             <span>
-                If Jesus (A.S.) is God, why would he complain of being called good and says that none is good but God (Father) only?
+                If Jesus (A.S.) is God, why would he complain of being called good and says that none is good but God (the Father) only?
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -726,7 +730,7 @@ title: Trinity
                     “For many Christians, the Trinity is an abstract principle, a confusing and difficult doctrine that they believe, although they are not really sure why in their honest moments.” - James White, “Loving the Trinity,” Christian Research Journal, vol. 21, no. 22. 
                 </p>
                 <p>
-                    This is just my honest opinion, but I think the main reason is because the above verses do not follow trinity. It is confusing to be honest as Dr. White write for most Christians, and I have asked a couple of Christians already, those whom I can bravely asked straightforward. I also looked into debates about this, but still confusing. I tried to understand it and unify it with the above verses, but still most Christians I asked don’t also understand it as well. For some, they tend to look at it as a mystery, but that is hard/difficult to simply agree or accept in that state --- mystery (believed upon by many) without understanding. Especially, when it is the core belief and is being taught in the church. It won’t make someone at peace if something is difficult to understand, maybe for some they can stand it, but I’m one of those who are not at peace, believing something without understanding (in all honesty). However, according to the bible, God is not a God of confusion, but of peace. 
+                    This is just my honest opinion, but I think the main reason is because the above verses do not follow trinity. It is confusing to be honest as Dr. White write for most Christians, and I have asked a couple of Christians already, those whom I can bravely ask straightforward. I also looked into debates about this, but still confusing. I tried to understand it and unify it with the above verses, but still most Christians I asked don’t also understand it as well. For some, they tend to look at it as a mystery, but that is hard/difficult to simply agree or accept in that state --- mystery (believed upon by many) without understanding. Especially, when it is the core belief and is being taught in the Church. It won’t make someone at peace if something is difficult to understand, maybe for some they can stand it, but I’m one of those who are not at peace, believing something without understanding (in all honesty). However, according to the bible, God is not a God of confusion, but of peace. 
                 </p>
                 <div class="bible-wrapper">
                     <div class="bible-verse">
@@ -743,7 +747,7 @@ title: Trinity
                         <div class="chapter-verse">14:33</div>
                     </div>  
                 </div>
-                According to Albert Einstein which I agree on is that, “Peace cannot be kept by force. It only be achieved through understanding”. It cannot be kept by force, that is, force by waging war; or force by simply believing without understanding. Further, another quote from this scientist which I also agree on is that, “If you can’t explain it simply, you don’t understand it well enough”.
+                According to Albert Einstein which I agree on is that, “Peace cannot be kept by force. It can only be achieved through understanding”. It cannot be kept by force, that is, force by waging war; or force by simply believing without understanding. Further, another quote from this scientist which I also agree on is that, “If you can’t explain it simply, you don’t understand it well enough”.
             </span>
         </li>
         <li>
@@ -764,7 +768,7 @@ title: Trinity
                         <div class="chapter-verse">8:58</div>
                     </div>  
                 </div>
-                At first glance, one would not expect the interpretation of this verse. However, according to our Christian brothers this follows from the old testament where God, the Father, said to Moses (A.S.):
+                At first glance, one would not expect the interpretation of this verse. However, according to our Christian brothers this follows from the Old Testament where God, the Father, said to Moses (A.S.):
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible-hebrew">    
@@ -781,9 +785,9 @@ title: Trinity
                         <div class="chapter-verse">3:13-14</div>
                     </div>  
                 </div>
-                Accordingly, since Jesus (A.S.) declared "I am", then somehow he declared to be God, referring back to Exodus 3:14.
+                Accordingly, since Jesus (A.S.) emphasized "I am", then somehow he declared to be God, referring back to Exodus 3:14.
                 <p>
-                    I have to admit, honestly, this is so risky for us to make an assumption on what Jesus (A.S.) meant in the above verse, which is not explicit and ambiguous unless we look at the context. The reason follows from the fact that, we don't really know for sure, we simply relied on the phrase "I am" not even close to "I am God". It is also risky since, what was explicitly taught by Jesus (A.S.) in John 17:3 and many verses where he acknowledged that the Father is the only true God, seems to be of no value now. Instead, what we value now is something out of our own interpretation, something not explicitly stated by Jesus (A.S.). When I say explicitly stated, I mean Jesus (A.S.) saying "I am God" instead of "I am". Further, if we were the one to come up with this interpretation, shouldn't we at least be mindful of what the old testament repeatedly and explicitly say, that God is but One God? Because if the intention of Jesus (A.S.) was to claim that he is God, he could have said it easily when he was given opportunity in Mark 12:28-34.
+                    I have to admit, honestly, this is so risky for us to make an assumption on what Jesus (A.S.) meant in the above verse, which is not explicit and ambiguous unless we look at the context. The reason follows from the fact that, we don't really know for sure, we simply relied on the phrase "I am" not even close to "I am God". It is also risky since, what was explicitly taught by Jesus (A.S.) in John 17:3 and many verses where he acknowledged that the Father is the only true God, seems to be of no value now. Instead, what we value now is something out of our own interpretation, something not explicitly stated by Jesus (A.S.). When I say explicitly stated, I mean Jesus (A.S.) saying "I am God" instead of "I am". Further, if we were the one to come up with this interpretation, shouldn't we at least be mindful of what the Old Testament repeatedly and explicitly conveyed, that God is but One God? Because if the intention of Jesus (A.S.) was to claim that he is God, he could have said it easily when he was given the opportunity in Mark 12:28-34.
                 </p>
                 <p>
                     Supposed, for the sake of argument, we believe in that interpretation. Let's see the verse again and look at the greek phrase for "I am".
@@ -818,10 +822,10 @@ title: Trinity
                             <div class="chapter-verse">9:8-9</div>
                         </div>  
                     </div>
-                    Again, the word <span class="bible-inline">ἐγὼ εἰμί</span> is used in John 9:9 with <span class="bible-inline">ἐ</span> written as a capital letter. Therefore, the blind man in the verse also uttered the phrase "I am" in greek but translated as "I am the man". Are we saying that the man also claimed to be God in this case? Of course not, instead the man simply says "I am the man you are talking about" not "I am God".
+                    Again, the word <span class="bible-inline">ἐγὼ εἰμί</span> is used in John 9:9 with <span class="bible-inline">ἐ</span> written as a capital letter. Therefore, the blind man in the verse also uttered the phrase "I am" in greek but translated as "I am the man". Are we saying that the man also claimed to be God in this case because of emphasizing <span class="bible-inline">ἐγὼ εἰμί</span>? Of course not, instead the man simply says "I am the man you are talking about" not "I am God".
                 </p>
                 <p>
-                    Now let's look at other verses to understand the context of John 8:58. Consider the following:
+                    Now let's take look at other verses to further support this interpretation:
                     <div class="bible-wrapper">
                         <div class="bible-verse">
                             <div class="bible">    
@@ -837,7 +841,7 @@ title: Trinity
                             <div class="chapter-verse">4:25-26</div>
                         </div>  
                     </div>
-                    The word <span class="bible-inline">Ἐγώ εἰμι</span> is again used above, which in John 8:58 is translated as "I am". Referring to John 4:25-26 above, Jesus (A.S.) never meant "I am God", instead he was simply saying "I am the one who you are talking about, I am the Messiah". There are many other verses where the greek word <span class="bible-inline">Ἐγώ εἰμι</span> is used and were translated properly, one more evidence is the following:
+                    The word <span class="bible-inline">Ἐγώ εἰμι</span> is again used above, which in John 8:58 is translated as "I am". On the other hand, Christians are aware that in John 4:25-26 above, Jesus (A.S.) never meant to say "I am God", instead he was simply saying "I am the one who you are talking about, I am the Messiah". There are many other verses where the greek word <span class="bible-inline">Ἐγώ εἰμι</span> is used and were translated properly contrary to John 8:58, one more evidence is the following:
                     <div class="bible-wrapper">
                         <div class="bible-verse">
                             <div class="bible">    
@@ -855,7 +859,7 @@ title: Trinity
                     </div>
                     In the above verse, Jesus (A.S.) was simply saying "unless you believe I am the promised Messiah you will die in your sins". He was not saying "I am God". 
                 </p>
-                <p>Now that we understand the context on the meaning of the word <span class="bible-inline">ἐγὼ εἰμί</span>, shouldn't we interpret John 8:58 as Jesus (A.S.) saying "Before Abraham existed, I am the one that they are talking about, the promised Messiah in the knowledge/mind of God". Unfortunately, the translators were not consistent. One might argue, why in the mind of God? Shouldn't it be Jesus (A.S.) existed not in the mind of God but rather existed before anyone existed? Well if that is the case, consider Ephesians 1:4,
+                <p>Now that we understand the context on the meaning of the word <span class="bible-inline">ἐγὼ εἰμί</span>, shouldn't we interpret John 8:58 as Jesus (A.S.) saying "Before Abraham existed, I am the one that they are talking about, the promised Messiah in the knowledge/mind of God". One might argue, why in the mind of God? Shouldn't it be Jesus (A.S.) existed not in the mind of God but rather existed before anyone existed? Well if that is the case, consider Ephesians 1:4,
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -871,7 +875,7 @@ title: Trinity
                         <div class="chapter-verse">1:4</div>
                     </div>  
                 </div>
-                Does that mean we already existed before the foundation of the world? Of course not, rather we existed in the knowledge of God, and that's how we must properly interpret John 8:58, that Jesus (A.S.) was simply saying "Before Abraham existed, I am the one that they are talking about, the promised Messiah in the knowledge/mind of God". By doing that, everything will fit in starting with John 17:3.
+                Does that mean we already existed before the foundation of the world? Of course not, rather we existed in the knowledge of God, and that's how we must properly interpret John 8:58, that Jesus (A.S.) was simply saying "Before Abraham existed, I am the one that they are talking about, the promised Messiah in the knowledge/mind of God". By doing that, everything will fit in to what Jesus (A.S.) preached in John 17:3.
                 </p>
             </span>
         </li>
@@ -927,4 +931,5 @@ title: Trinity
             <div class="chapter-verse">16:4</div>
         </div>  
     </div>
+    Further, as I tried my best to understand it, I can never comprehend, in all truth and honesty, the fact that despite I follow all practices of Jesus (A.S.), from believing that God is but one God (Mark 12:28-34 and John 17:3), to believing that he is a prophet (Matthew 21:10-11 and John 4:17-22) and not God (John 4:22), and that I believe in what he preached about following the Laws of Moses (Matthew 5:17-19), and that I don't eat pork just as Jesus (A.S.), and that I fast closely the way how Jesus (A.S.) fasted (Matthew 4:2), and that I pray the way how he prayed (Muslims pray by prostration just as how Jesus (A.S.) prayed in Matthew 26:39), and despite that Muslim Women dressed the way how his Mother, Mary (may God peace be with her), dressed (even Paul supported it in 1 Corinthians 11:2–16, 1 Timothy 2:9, 1 Corinthians 11:15). Despite all these, I am still considered as not following Jesus (A.S.) according to Christians.
 </div>
