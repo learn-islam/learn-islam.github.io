@@ -45,7 +45,7 @@ The Christian belief is that Jesus (A.S.) died for the sins of all humanity. Tha
                         <div class="chapter-verse">32:30-35</div>
                     </div>  
                 </div>
-                In one of my dialogue with a Christian, I asked her "is blood sacrifice the ONLY WAY for the forgiveness of sin?" and she replied "Yes". At that time, I haven't read much of the old testament. So I was very curious to verify her claim, until I found the above verse, which clearly shows why atonement through human sacrifice of one person for the sins of the other is not something God (the Father) emphasized. In fact, God (the Father) went the other way around and says "<b>Whoever has sinned against me, I will blot out of my book</b>". In other words, the one who sinned against the Father is the one whom the Father will charge.
+                In one of my dialogue with our Christian brothers, I asked them "is blood sacrifice the ONLY WAY for the forgiveness of sin?" and they replied "Yes". At that time, I haven't read much of the old testament. So I was very curious to verify their claim, until I found the above verse, which clearly shows why atonement through human sacrifice of one person for the sins of the other is not something God (the Father) emphasized. In fact, God (the Father) went the other way around and says "<b>Whoever has sinned against me, I will blot out of my book</b>". In other words, the one who sinned against the Father is the one whom the Father will charge.
             </span>
         </li>
         <li>
