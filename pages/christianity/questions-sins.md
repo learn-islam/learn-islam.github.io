@@ -13,7 +13,7 @@ title: Trinity
         <a class="ptext" href="/pages/christianity/investigating-christianity.html">A Closer Look at Christianty</a>
     </div>
     <div class="path children">
-        <a class="ctext" href="/pages/christianity/questions-sins.html">Questions of Sins</a>
+        <a class="ctext" href="/pages/christianity/questions-sins.html">Questions on Sins</a>
     </div>
 </div>
 <!-- <div class="question-label-wrapper">
@@ -24,7 +24,7 @@ The Christian belief is that Jesus (A.S.) died for the sins of all humanity. Tha
     <ol>
         <li>
             <span>
-                Is human sacrifice necessary for forgiveness of sin, why God (the Father) disagree to this when Moses wants to?
+                Is human sacrifice necessary for the forgiveness of sin, why God (the Father) disagree to this when Moses wants to offer himself as atonement for his peaple?
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible-hebrew">    
@@ -45,11 +45,12 @@ The Christian belief is that Jesus (A.S.) died for the sins of all humanity. Tha
                         <div class="chapter-verse">32:30-35</div>
                     </div>  
                 </div>
+                In one of my dialogue with a Christian, I asked her "is blood sacrifice the ONLY WAY for the forgiveness of sin?" and she replied "Yes". At that time, I haven't read much of the old testament. So I was very curious to verify her claim, until I found the above verse, which clearly shows why atonement through human sacrifice of one person for the sins of the other is not something God (the Father) emphasized. In fact, God (the Father) went the other way around and says "<b>Whoever has sinned against me, I will blot out of my book</b>". In other words, the one who sinned against the Father is the one whom the Father will charge.
             </span>
         </li>
         <li>
             <span>
-                If someone sinned, and that human sacrifice is needed then why according to God (the Father) that anyone sinned is responsible
+                Christianity taught us that if someone sinned, that sin can only be removed through the sacrifice of Jesus (A.S.) because the Father is so righteous that we cannot be with Him because we are all sinners. Having this understanding, why would the Father emphasize that the one who committed the sin is the one who shall be put to death, not a substitute like Jesus (A.S.).
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible-hebrew">    
@@ -61,15 +62,16 @@ The Christian belief is that Jesus (A.S.) died for the sins of all humanity. Tha
                     </div>
                     <div class="bible-verse-no">
                         <div class="book">Bible (ESV)</div>
-                        <div class="chapter">John</div>
-                        <div class="chapter-verse">14:28</div>
+                        <div class="chapter">Deuteronomy</div>
+                        <div class="chapter-verse">24:16</div>
                     </div>  
                 </div>
+                The first sentence of the above verse is so powerful, that one person cannot be put to death for the sins of the other. The second sentence further expound this with the Father saying "<b>Each one shall be put to death for his own sin</b>".
             </span>
         </li>
         <li>
             <span>
-                If Jesus (A.S.) is God and is equal to the Father, why would he call the Father as his God? 
+                If the above verses are not yet convincing, then below are the verses where the Father went on to elaborate on this topic.
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -101,6 +103,7 @@ The Christian belief is that Jesus (A.S.) died for the sins of all humanity. Tha
                         <div class="chapter-verse">18:20-24</div>
                     </div>  
                 </div>
+                All Christians I engaged emphasized that good works is not enough or will not erase the sins committed by the person. In fact, at one point of my dialogue with them, they asked me in Tagalog "kaya mo bang bayaran kasalanan mo?" (can you afford to pay for your sins?), I responded in Tagalog "ihihinto ko lang yung masamang gawain at gumawa ng kabutihan" (I will simply stop the bad works I do and do more good works). Unfortunately, good deeds accordingly is not enough. However, the Father emphasized above the following contrary to what I learned from the Christians: <i>“But if a wicked person turns away from all his sins that he has committed and keeps all my statutes and does what is just and right, <b>he shall surely live; he shall not die. None of the transgressions that he has committed shall be remembered against him; for the righteousness that he has done he shall live</b></i>. Having this command from God (the Father), simply suggest that human sacrifice is not necessary for the forgiveness of sins, but rather stopping bad deeds and do good deeds, which make a lot of sense.
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    
@@ -116,7 +119,7 @@ The Christian belief is that Jesus (A.S.) died for the sins of all humanity. Tha
                         <div class="chapter-verse">18:26-27</div>
                     </div>  
                 </div>
-                Again, this same principle is stated in the Book of Jeremiah. In the 31st chapter, Gd tells of a time in the future when no one will continue to believe in such a thing. 
+                Again, this same principle is stated in the Book of Jeremiah. In the 31st chapter, God (the Father) tells of a time in the future when no one will continue to believe in such a thing. 
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible">    

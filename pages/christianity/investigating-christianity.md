@@ -23,8 +23,8 @@ title: A Closer Look at Christianity
     </li>
     <li>
         <span>
-            Questions of Sins
-            <!-- <a class="ctext" href="/pages/christianity/questions-sins.html">Questions of Sins</a> -->
+            <!-- Questions of Sins -->
+            <a class="ctext" href="/pages/christianity/questions-sins.html">Questions on Sins</a>
         </span>
     </li>
     <li>
