@@ -1342,7 +1342,7 @@ html {
           width: 250px;
           border-radius: 15px 15px 0 0;
           margin-bottom: 0;
-          opacity: 1.0; }
+          opacity: 0.8; }
         html body header .site-sidebar nav {
           margin-top: 0px;
           margin-bottom: -8px;
