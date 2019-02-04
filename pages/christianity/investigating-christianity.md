@@ -28,8 +28,9 @@ title: A Closer Look at Christianity
         </span>
     </li>
     <li>
-        <span>Questions of Atonement of Sins
-            <!-- <a class="ctext" href="/pages/christianity/questions-atonement-of-sins.html">Questions of Atonement of Sins</a> -->
+        <span>
+            <!-- Questions of Atonement of Sins -->
+            <a class="ctext" href="/pages/christianity/questions-atonement-of-sins.html">Questions on Atonement of Sins</a>
         </span>
     </li>
     <li>
