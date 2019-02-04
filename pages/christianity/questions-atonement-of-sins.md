@@ -13,126 +13,268 @@ title: Trinity
         <a class="ptext" href="/pages/christianity/investigating-christianity.html">A Closer Look at Christianty</a>
     </div>
     <div class="path children">
-        <a class="ctext" href="/pages/christianity/questions-atonement-of-sins.html">Questions of Atonement of Sins</a>
+        <a class="ctext" href="/pages/christianity/questions-atonement-of-sins.html">Questions on Atonement of Sins</a>
     </div>
 </div>
 <!-- <div class="question-label-wrapper">
     <span class="question-label">Questions</span>
 </div> -->
 The Christian belief is that Jesus (A.S.) died for the sins of all humanity. That is, the Messiah is supposed to be the blood sacrifice necessary for the forgiveness of sin; in other words, a human sacrifice. 
+
+Those who believe in the efficacy of blood sacrifice look to Leviticus 17:11 for justification: 
+<div class="bible-wrapper">
+    <div class="bible-verse">
+        <div class="bible-hebrew">    
+            כִּ֣י נֶ֣פֶשׁ הַבָּשָׂר֮ בַּדָּ֣ם הִוא֒ וַאֲנִ֞י נְתַתִּ֤יו לָכֶם֙ עַל־הַמִּזְבֵּ֔חַ לְכַפֵּ֖ר עַל־נַפְשֹׁתֵיכֶ֑ם כִּֽי־הַדָּ֥ם ה֖וּא בַּנֶּ֥פֶשׁ יְכַפֵּֽר׃
+        </div>
+        <div class="translation">
+            For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life.
+        </div>  
+    </div>
+    <div class="bible-verse-no">
+        <div class="book">Bible (ESV)</div>
+        <div class="chapter">Leviticus</div>
+        <div class="chapter-verse">17:11</div>
+    </div>  
+</div>
+But if you read this verse in context, you will find that it refers to abstaining from eating or drinking the blood of a sacrifice, and nothing more. Gd commanded this prohibition in order to maintain the distinction between the Jewish people and the pagans. Most pagans ate the blood of their sacrifices as a means of incorporating their gods into their bodies and into their lives. (See 'The Golden Bough' by Sir James Frazer, the chapter entitled 'Eating The Gd.') Perhaps this is the source of the Christian rite of communion. But the holiness of the People of Israel requires them to abhor the pagan ways and not to hold the same beliefs as their pagan neighbors. 
 <div class="investigation">    
     <ol>
         <li>
             <span>
-                Is human sacrifice necessary for forgiveness of sin, why God (the Father) disagree to this when Moses wants to?
+                The entire quotation from Leviticus 17:10-14 reads: 
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible-hebrew">    
-                                                    וַיְהִי֙ מִֽמָּחֳרָ֔ת וַיֹּ֤אמֶר מֹשֶׁה֙ אֶל־הָעָ֔ם אַתֶּ֥ם חֲטָאתֶ֖ם חֲטָאָ֣ה גְדֹלָ֑ה וְעַתָּה֙ אֶֽעֱלֶ֣ה אֶל־יְהוָ֔ה אוּלַ֥י אֲכַפְּרָ֖ה בְּעַ֥ד חַטַּאתְכֶֽם׃
-                        וַיָּ֧שָׁב מֹשֶׁ֛ה אֶל־יְהוָ֖ה וַיֹּאמַ֑ר אָ֣נָּ֗א חָטָ֞א הָעָ֤ם הַזֶּה֙ חֲטָאָ֣ה גְדֹלָ֔ה וַיַּֽעֲשׂ֥וּ לָהֶ֖ם אֱלֹהֵ֥י זָהָֽב׃
-                        וְעַתָּ֖ה אִם־תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם־אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ׃
-                        וַיֹּ֥אמֶר יְהוָ֖ה אֶל־מֹשֶׁ֑ה מִ֚י אֲשֶׁ֣ר חָֽטָא־לִ֔י אֶמְחֶ֖נּוּ מִסִּפְרִֽי׃
-                        וְעַתָּ֞ה לֵ֣ךְ׀ נְחֵ֣ה אֶת־הָעָ֗ם אֶ֤ל אֲשֶׁר־דִּבַּ֙רְתִּי֙ לָ֔ךְ הִנֵּ֥ה מַלְאָכִ֖י יֵלֵ֣ךְ לְפָנֶ֑יךָ וּבְי֣וֹם פָּקְדִ֔י וּפָקַדְתִּ֥י עֲלֵיהֶ֖ם חַטָּאתָֽם׃
-                        וַיִּגֹּ֥ף יְהוָ֖ה אֶת־הָעָ֑ם עַ֚ל אֲשֶׁ֣ר עָשׂ֣וּ אֶת־הָעֵ֔גֶל אֲשֶׁ֥ר עָשָׂ֖ה אַהֲרֹֽן׃ ס
+                            וְאִ֨ישׁ אִ֜ישׁ מִבֵּ֣ית יִשְׂרָאֵ֗ל וּמִן־הַגֵּר֙ הַגָּ֣ר בְּתוֹכָ֔ם אֲשֶׁ֥ר יֹאכַ֖ל כָּל־דָּ֑ם וְנָתַתִּ֣י פָנַ֗י בַּנֶּ֙פֶשׁ֙ הָאֹכֶ֣לֶת אֶת־הַדָּ֔ם וְהִכְרַתִּ֥י אֹתָ֖הּ מִקֶּ֥רֶב עַמָּֽהּ׃
+                            כִּ֣י נֶ֣פֶשׁ הַבָּשָׂר֮ בַּדָּ֣ם הִוא֒ וַאֲנִ֞י נְתַתִּ֤יו לָכֶם֙ עַל־הַמִּזְבֵּ֔חַ לְכַפֵּ֖ר עַל־נַפְשֹׁתֵיכֶ֑ם כִּֽי־הַדָּ֥ם ה֖וּא בַּנֶּ֥פֶשׁ יְכַפֵּֽר׃
+                            עַל־כֵּ֤ן אָמַ֙רְתִּי֙ לִבְנֵ֣י יִשְׂרָאֵ֔ל כָּל־נֶ֥פֶשׁ מִכֶּ֖ם לֹא־תֹ֣אכַל דָּ֑ם וְהַגֵּ֛ר הַגָּ֥ר בְּתוֹכְכֶ֖ם לֹא־יֹ֥אכַל דָּֽם׃ ס
+                            וְאִ֨ישׁ אִ֜ישׁ מִבְּנֵ֣י יִשְׂרָאֵ֗ל וּמִן־הַגֵּר֙ הַגָּ֣ר בְּתוֹכָ֔ם אֲשֶׁ֨ר יָצ֜וּד צֵ֥יד חַיָּ֛ה אוֹ־ע֖וֹף אֲשֶׁ֣ר יֵאָכֵ֑ל וְשָׁפַךְ֙ אֶת־דָּמ֔וֹ וְכִסָּ֖הוּ בֶּעָפָֽר׃
+                            כִּֽי־נֶ֣פֶשׁ כָּל־בָּשָׂ֗ר דָּמ֣וֹ בְנַפְשׁוֹ֮ הוּא֒ וָֽאֹמַר֙ לִבְנֵ֣י יִשְׂרָאֵ֔ל דַּ֥ם כָּל־בָּשָׂ֖ר לֹ֣א תֹאכֵ֑לוּ כִּ֣י נֶ֤פֶשׁ כָּל־בָּשָׂר֙ דָּמ֣וֹ הִ֔וא כָּל־אֹכְלָ֖יו יִכָּרֵֽת׃
                         </div>
                         <div class="translation">
-                            The next day Moses said to the people, "You have sinned a great sin. And now I will go up to the Lord; perhaps <span class="emphasize">I can make atonement for your sin</span>." So Moses returned to the Lord and said, "Alas, this people has sinned a great sin. They have made for themselves gods of gold. But now, if you will forgive their sin—but if not, <span class="emphasize">please blot me out of your book that you have written</span>." But the Lord said to Moses, "<span class="emphasize">Whoever has sinned against me, I will blot out of my book</span>. But now go, lead the people to the place about which I have spoken to you; behold, my angel shall go before you. Nevertheless, in the day when I visit, I will visit their sin upon them." Then the Lord sent a plague on the people, because they made the calf, the one that Aaron made.
+                            “If any one of the house of Israel or of the strangers who sojourn among them eats any blood, I will set my face against that person who eats blood and will cut him off from among his people. For the life of the flesh is in the blood, and I have given it for you on the altar to make atonement for your souls, for it is the blood that makes atonement by the life. Therefore I have said to the people of Israel, No person among you shall eat blood, neither shall any stranger who sojourns among you eat blood.
+                            “Any one also of the people of Israel, or of the strangers who sojourn among them, who takes in hunting any beast or bird that may be eaten shall pour out its blood and cover it with earth. For the life of every creature is its blood: its blood is its life. Therefore I have said to the people of Israel, You shall not eat the blood of any creature, for the life of every creature is its blood. Whoever eats it shall be cut off.
                         </div>  
                     </div>
                     <div class="bible-verse-no">
                         <div class="book">Bible (ESV)</div>
-                        <div class="chapter">Exodus</div>
-                        <div class="chapter-verse">32:30-35</div>
+                        <div class="chapter">Leviticus</div>
+                        <div class="chapter-verse">17:10-14</div>
+                    </div>  
+                </div>
+                Some might still insist that blood is needed to atone for sins. But there are many examples in the TaNaKh where other things besides blood atone for sins. If you are poor and unable to afford a blood sacrifice, Gd allows you to use flour, which is not from an animal and therefore has no blood. If the poor were not able to offer a sacrifice of flour, forgiveness would only be for the wealthy -- but Gd would never exclude humans from obtaining forgiveness on the basis of wealth: 
+                <div class="bible-wrapper">
+                    <div class="bible-verse">
+                        <div class="bible-hebrew">    
+                            וְאִם־לֹא֩ תַשִּׂ֨יג יָד֜וֹ לִשְׁתֵּ֣י תֹרִ֗ים אוֹ֮ לִשְׁנֵ֣י בְנֵי־יוֹנָה֒ וְהֵבִ֨יא אֶת־קָרְבָּנ֜וֹ אֲשֶׁ֣ר חָטָ֗א עֲשִׂירִ֧ת הָאֵפָ֛ה סֹ֖לֶת לְחַטָּ֑את לֹא־יָשִׂ֨ים עָלֶ֜יהָ שֶׁ֗מֶן וְלֹא־יִתֵּ֤ן עָלֶ֙יהָ֙ לְבֹנָ֔ה כִּ֥י חַטָּ֖את הִֽיא׃
+                            וֶהֱבִיאָהּ֮ אֶל־הַכֹּהֵן֒ וְקָמַ֣ץ הַכֹּהֵ֣ן׀ מִ֠מֶּנָּה מְל֨וֹא קֻמְצ֜וֹ אֶת־אַזְכָּרָתָה֙ וְהִקְטִ֣יר הַמִּזְבֵּ֔חָה עַ֖ל אִשֵּׁ֣י יְהוָ֑ה חַטָּ֖את הִֽוא׃
+                            וְכִפֶּר֩ עָלָ֨יו הַכֹּהֵ֜ן עַל־חַטָּאת֧וֹ אֲשֶׁר־חָטָ֛א מֵֽאַחַ֥ת מֵאֵ֖לֶּה וְנִסְלַ֣ח ל֑וֹ וְהָיְתָ֥ה לַכֹּהֵ֖ן כַּמִּנְחָֽה׃ ס
+                        </div>
+                        <div class="translation">
+                            “But if he cannot afford two turtledoves or two pigeons, then <span class="emphasize">he shall bring as his offering for the sin that he has committed a tenth of an ephah of fine flour for a sin offering</span>. He shall put no oil on it and shall put no frankincense on it, for it is a sin offering. And he shall bring it to the priest, and the priest shall take a handful of it as its memorial portion and burn this on the altar, on the Lord's food offerings; it is a sin offering. <span class="emphasize">Thus the priest shall make atonement for him for the sin which he has committed in any one of these things, and he shall be forgiven</span>. And the remainder shall be for the priest, as in the grain offering.”
+                        </div>  
+                    </div>
+                    <div class="bible-verse-no">
+                        <div class="book">Bible (ESV)</div>
+                        <div class="chapter">Leviticus</div>
+                        <div class="chapter-verse">5:11-13</div>
+                    </div>  
+                </div>
+                So here, in the middle of the commandments concerning the sacrifices for sin, the Bible tells us we do not need any blood sacrifice. This is clear, unambiguous proof; any claim to the contrary is unbiblical - some would say antibiblical. 
+            </span>
+        </li>
+        <li>
+            <span>
+                Remember, too, the story of the book of Jonah. Jonah tried to escape from doing Gd's will regarding the people of the city of Niniveh. After the incident of the great fish, he goes to Niniveh, says five words to the people, and what do they do? They fast:
+                <div class="bible-wrapper">
+                    <div class="bible-verse">
+                        <div class="bible-hebrew">    
+                            וַיְהִ֧י דְבַר־יְהוָ֛ה אֶל־יוֹנָ֖ה שֵׁנִ֥ית לֵאמֹֽר׃
+                            ק֛וּם לֵ֥ךְ אֶל־נִֽינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה וִּקְרָ֤א אֵלֶ֙יהָ֙ אֶת־הַקְּרִיאָ֔ה אֲשֶׁ֥ר אָנֹכִ֖י דֹּבֵ֥ר אֵלֶֽיךָ׃
+                            וַיָּ֣קָם יוֹנָ֗ה וַיֵּ֛לֶךְ אֶל־נִֽינְוֶ֖ה כִּדְבַ֣ר יְהוָ֑ה וְנִֽינְוֵ֗ה הָיְתָ֤ה עִיר־גְּדוֹלָה֙ לֵֽאלֹהִ֔ים מַהֲלַ֖ךְ שְׁלֹ֥שֶׁת יָמִֽים׃
+                            וַיָּ֤חֶל יוֹנָה֙ לָב֣וֹא בָעִ֔יר מַהֲלַ֖ךְ י֣וֹם אֶחָ֑ד וַיִּקְרָא֙ וַיֹּאמַ֔ר ע֚וֹד אַרְבָּעִ֣ים י֔וֹם וְנִֽינְוֵ֖ה נֶהְפָּֽכֶת׃
+                            וַֽיַּאֲמִ֛ינוּ אַנְשֵׁ֥י נִֽינְוֵ֖ה בֵּֽאלֹהִ֑ים וַיִּקְרְאוּ־צוֹם֙ וַיִּלְבְּשׁ֣וּ שַׂקִּ֔ים מִגְּדוֹלָ֖ם וְעַד־קְטַנָּֽם׃
+                            וַיִּגַּ֤ע הַדָּבָר֙ אֶל־מֶ֣לֶך נִֽינְוֵ֔ה וַיָּ֙קָם֙ מִכִּסְא֔וֹ וַיַּעֲבֵ֥ר אַדַּרְתּ֖וֹ מֵֽעָלָ֑יו וַיְכַ֣ס שַׂ֔ק וַיֵּ֖שֶׁב עַל־הָאֵֽפֶר׃
+                            וַיַּזְעֵ֗ק וַיֹּ֙אמֶר֙ בְּנִֽינְוֵ֔ה מִטַּ֧עַם הַמֶּ֛לֶךְ וּגְדֹלָ֖יו לֵאמֹ֑ר הָאָדָ֨ם וְהַבְּהֵמָ֜ה הַבָּקָ֣ר וְהַצֹּ֗אן אַֽל־יִטְעֲמוּ֙ מְא֔וּמָה אַ֨ל־יִרְע֔וּ וּמַ֖יִם אַל־יִשְׁתּֽוּ׃
+                            וְיִתְכַּסּ֣וּ שַׂקִּ֗ים הָֽאָדָם֙ וְהַבְּהֵמָ֔ה וְיִקְרְא֥וּ אֶל־אֱלֹהִ֖ים בְּחָזְקָ֑ה וְיָשֻׁ֗בוּ אִ֚ישׁ מִדַּרְכּ֣וֹ הָֽרָעָ֔ה וּמִן־הֶחָמָ֖ס אֲשֶׁ֥ר בְּכַפֵּיהֶֽם׃
+                            מִֽי־יוֹדֵ֣עַ יָשׁ֔וּב וְנִחַ֖ם הָאֱלֹהִ֑ים וְשָׁ֛ב מֵחֲר֥וֹן אַפּ֖וֹ וְלֹ֥א נֹאבֵֽד׃
+                            וַיַּ֤רְא הָֽאֱלֹהִים֙ אֶֽת־מַ֣עֲשֵׂיהֶ֔ם כִּי־שָׁ֖בוּ מִדַּרְכָּ֣ם הָרָעָ֑ה וַיִּנָּ֣חֶם הָאֱלֹהִ֗ים עַל־הָרָעָ֛ה אֲשֶׁר־דִּבֶּ֥ר לַעֲשׂוֹת־לָהֶ֖ם וְלֹ֥א עָשָֽׂה׃
+                        </div>
+                        <div class="translation">
+                            Then the word of the Lord came to Jonah the second time, saying, <span class="emphasize">“Arise, go to Nineveh, that great city, and call out against it the message that I tell you.”</span> So Jonah arose and went to Nineveh, according to the word of the Lord. Now Nineveh was an exceedingly great city, three days' journey in breadth. Jonah began to go into the city, going a day's journey. And he called out, <span class="emphasize">“Yet forty days, and Nineveh shall be overthrown!”</span> And the people of Nineveh believed God. They called for a fast and put on sackcloth, from the greatest of them to the least of them.
+                            The word reached the king of Nineveh, and he arose from his throne, removed his robe, covered himself with sackcloth, and sat in ashes. And he issued a proclamation and published through Nineveh, “By the decree of the king and his nobles: Let neither man nor beast, herd nor flock, taste anything. <span class="emphasize">Let them not feed or drink water, but let man and beast be covered with sackcloth</span>, and <span class="emphasize">let them call out mightily to God</span>. <span class="emphasize">Let everyone turn from his evil way and from the violence that is in his hands</span>. Who knows? God may turn and relent and turn from his fierce anger, so that we may not perish.”
+                            <span class="emphasize">When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it</span>.
+                        </div>  
+                    </div>
+                    <div class="bible-verse-no">
+                        <div class="book">Bible (ESV)</div>
+                        <div class="chapter">Jonah</div>
+                        <div class="chapter-verse">3:1-10</div>
+                    </div>  
+                </div>
+                Please note that the text does NOT read that Gd saw their sacrifices; the people of Niniveh were never commanded to sacrifice. Nor does the text read that Gd saw that they had the 'right faith.' Rather it says that Gd saw what they did: their works. Nor did Gd require that the people convert to Judaism. Their repentance was accepted, though they were Gentiles. 
+                <div class="bible-wrapper">
+                    <div class="bible-verse">
+                        <div class="bible-hebrew">    
+                            וַיִּקַּ֨ח אַהֲרֹ֜ן כַּאֲשֶׁ֣ר׀ דִּבֶּ֣ר מֹשֶׁ֗ה וַיָּ֙רָץ֙ אֶל־תּ֣וֹך הַקָּהָ֔ל וְהִנֵּ֛ה הֵחֵ֥ל הַנֶּ֖גֶף בָּעָ֑ם וַיִּתֵּן֙ אֶֽת־הַקְּטֹ֔רֶת וַיְכַפֵּ֖ר עַל־הָעָֽם׃
+                        </div>
+                        <div class="translation">
+                            And Aaron took as Moses commanded, and ran into the midst of the congregation; and, behold, the plague was begun among the people: and <span class="emphasize">he put on incense, and made an atonement for the people</span>.
+                        </div>  
+                    </div>
+                    <div class="bible-verse-no">
+                        <div class="book">Bible (KJV)</div>
+                        <div class="chapter">Numbers</div>
+                        <div class="chapter-verse">16:47 (17:12H)</div>
+                    </div>  
+                </div>
+                And in the verse below we see jewelry offered for atonement, but no blood is shed. 
+                <div class="bible-wrapper">
+                    <div class="bible-verse">
+                        <div class="bible-hebrew">    
+                            וַנַּקְרֵ֞ב אֶת־קָרְבַּ֣ן יְהוָ֗ה אִישׁ֩ אֲשֶׁ֨ר מָצָ֤א כְלִֽי־זָהָב֙ אֶצְעָדָ֣ה וְצָמִ֔יד טַבַּ֖עַת עָגִ֣יל וְכוּמָ֑ז לְכַפֵּ֥ר עַל־נַפְשֹׁתֵ֖ינוּ לִפְנֵ֥י יְהוָֽה׃
+                        </div>
+                        <div class="translation">
+                            We have therefore brought an oblation for the Lord, <span class="emphasize">what every man hath gotten</span>, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, <span class="emphasize">to make an atonement for our souls before the Lord</span>.
+                        </div>  
+                    </div>
+                    <div class="bible-verse-no">
+                        <div class="book">Bible (KJV)</div>
+                        <div class="chapter">Numbers</div>
+                        <div class="chapter-verse">31:50</div>
                     </div>  
                 </div>
             </span>
         </li>
         <li>
             <span>
-                If someone sinned, and that human sacrifice is needed then why according to God (the Father) that anyone sinned is responsible
+                Another example is that Isaiah had his sin removed with a live coal: 
                 <div class="bible-wrapper">
                     <div class="bible-verse">
                         <div class="bible-hebrew">    
-                            לֹֽא־יוּמְת֤וּ אָבוֹת֙ עַל־בָּנִ֔ים וּבָנִ֖ים לֹא־יוּמְת֣וּ עַל־אָב֑וֹת אִ֥ישׁ בְּחֶטְא֖וֹ יוּמָֽתוּ׃ ס
+                            וַיָּ֣עָף אֵלַ֗י אֶחָד֙ מִן־הַשְּׂרָפִ֔ים וּבְיָד֖וֹ רִצְפָּ֑ה בְּמֶ֨לְקַחַ֔יִם לָקַ֖ח מֵעַ֥ל הַמִּזְבֵּֽחַ׃
+                            וַיַּגַּ֣ע עַל־פִּ֔י וַיֹּ֕אמֶר הִנֵּ֛ה נָגַ֥ע זֶ֖ה עַל־שְׂפָתֶ֑יךָ וְסָ֣ר עֲוֺנֶ֔ךָ וְחַטָּאתְךָ֖ תְּכֻפָּֽר׃
                         </div>
                         <div class="translation">
-                            Fathers shall not be put to death because of their children, nor shall children be put to death because of their fathers. <span class="emphasize">Each one shall be put to death for his own sin</span>.
+                            Then flew one of the seraphims unto me, having a live coal in his hand, which he had taken with the tongs from off the altar: And he laid it upon my mouth, and said, Lo, <span class="emphasize">this hath touched thy lips; and thine iniquity is taken away, and thy sin purged</span>.
                         </div>  
                     </div>
                     <div class="bible-verse-no">
-                        <div class="book">Bible (ESV)</div>
-                        <div class="chapter">John</div>
-                        <div class="chapter-verse">14:28</div>
+                        <div class="book">Bible (KJV)</div>
+                        <div class="chapter">Isaiah</div>
+                        <div class="chapter-verse">6:6-7</div>
+                    </div>  
+                </div>
+                It can be pointed out that, without the Temple in Jerusalem, we can no longer offer any kind of ritual sacrifice, bloody or otherwise. This is true. It is not, however, the reason that Jews do not believe in blood sacrifice. Instead, it is the reason that Gd gave the people many different methods of atonement. There was a time in Israel's history when the people became all too consumed with the sacrificial ceremonies. For this, Gd rebuked them, and reminded them that the Laws of Gd were more important than the sacrifices. 
+                <div class="bible-wrapper">
+                    <div class="bible-verse">
+                        <div class="bible-hebrew">    
+                            וַיָּ֣עָף אֵלַ֗י אֶחָד֙ מִן־הַשְּׂרָפִ֔ים וּבְיָד֖וֹ רִצְפָּ֑ה בְּמֶ֨לְקַחַ֔יִם לָקַ֖ח מֵעַ֥ל הַמִּזְבֵּֽחַ׃
+                            וַיַּגַּ֣ע עַל־פִּ֔י וַיֹּ֕אמֶר הִנֵּ֛ה נָגַ֥ע זֶ֖ה עַל־שְׂפָתֶ֑יךָ וְסָ֣ר עֲוֺנֶ֔ךָ וְחַטָּאתְךָ֖ תְּכֻפָּֽר׃
+                        </div>
+                        <div class="translation">
+                            For I spake not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices: <span class="emphasize">But this thing commanded I them, saying, Obey my voice, and I will be your God, and ye shall be my people: and walk ye in all the ways that I have commanded you, that it may be well unto you</span>.
+                        </div>  
+                    </div>
+                    <div class="bible-verse-no">
+                        <div class="book">Bible (KJV)</div>
+                        <div class="chapter">Isaiah</div>
+                        <div class="chapter-verse">6:6-7</div>
                     </div>  
                 </div>
             </span>
         </li>
         <li>
             <span>
-                If Jesus (A.S.) is God and is equal to the Father, why would he call the Father as his God? 
+                Of all the methods Gd gave to us for atonement, the sacrifices were the weakest. (Please see below at 'There were other methods...'). This is the case because sacrifices only made atonement for one kind of sin. Several verses seem to indicate that there needs to be a sacrifice in order to gain atonement for sins. But it must be pointed out just which sins are forgiven by these sacrifices: unintentional sins AND ONLY unintentional sins. This is stated repeatedly: 
                 <div class="bible-wrapper">
                     <div class="bible-verse">
-                        <div class="bible">    
-                            λέγει αὐτῇ ἰησοῦς, μή μου ἅπτου, οὔπω γὰρ ἀναβέβηκα πρὸς τὸν πατέρα· πορεύου δὲ πρὸς τοὺς ἀδελφούς μου καὶ εἰπὲ αὐτοῖς, ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν.
+                        <div class="bible-hebrew">  
+                            וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃
+                            דַּבֵּ֞ר אֶל־בְּנֵ֣י יִשְׂרָאֵל֮ לֵאמֹר֒ נֶ֗פֶשׁ כִּֽי־תֶחֱטָ֤א בִשְׁגָגָה֙ מִכֹּל֙ מִצְוֺ֣ת יְהוָ֔ה אֲשֶׁ֖ר לֹ֣א תֵעָשֶׂ֑ינָה וְעָשָׂ֕ה מֵאַחַ֖ת מֵהֵֽנָּה׃
+                            אִ֣ם הַכֹּהֵ֧ן הַמָּשִׁ֛יחַ יֶחֱטָ֖א לְאַשְׁמַ֣ת הָעָ֑ם וְהִקְרִ֡יב עַ֣ל חַטָּאתוֹ֩ אֲשֶׁ֨ר חָטָ֜א פַּ֣ר בֶּן־בָּקָ֥ר תָּמִ֛ים לַיהוָ֖ה לְחַטָּֽאת׃
+                            וְהֵבִ֣יא אֶת־הַפָּ֗ר אֶל־פֶּ֛תַח אֹ֥הֶל מוֹעֵ֖ד לִפְנֵ֣י יְהוָ֑ה וְסָמַ֤ךְ אֶת־יָדוֹ֙ עַל־רֹ֣אשׁ הַפָּ֔ר וְשָׁחַ֥ט אֶת־הַפָּ֖ר לִפְנֵ֥י יְהוָֽה׃
+                            וְלָקַ֛ח הַכֹּהֵ֥ן הַמָּשִׁ֖יחַ מִדַּ֣ם הַפָּ֑ר וְהֵבִ֥יא אֹת֖וֹ אֶל־אֹ֥הֶל מוֹעֵֽד׃
                         </div>
                         <div class="translation">
-                            The word of the Lord came to me: "What do you mean by repeating this proverb concerning the land of Israel, The fathers have eaten sour grapes, and the children's teeth are set on edge'? As I live, declares the Lord God, this proverb shall no more be used by you in Israel. Behold, all souls are mine; the soul of the father as well as the soul of the son is mine: <span class="emphasize">the soul who sins shall die</span>.
+                            And the Lord spake unto Moses, saying, Speak unto the children of Israel, saying, If a soul shall <span class="emphasize">sin through ignorance against any of the commandments of the Lord</span> concerning things which ought not to be done, and shall do against any of them: If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the Lord for a sin offering. And he shall bring the bullock unto the door of the tabernacle of the congregation before the Lord; and shall lay his hand upon the bullock's head, and kill the bullock before the Lord. And the priest that is anointed shall take of the bullock's blood, and bring it to the tabernacle of the congregation:
                         </div>  
                     </div>
                     <div class="bible-verse-no">
-                        <div class="book">Bible (ESV)</div>
-                        <div class="chapter">Ezekiel</div>
-                        <div class="chapter-verse">18:1-4</div>
+                        <div class="book">Bible (KJV)</div>
+                        <div class="chapter">Leviticus</div>
+                        <div class="chapter-verse">4:1-5</div>
                     </div>  
                 </div>
                 <div class="bible-wrapper">
                     <div class="bible-verse">
-                        <div class="bible">    
-                            λέγει αὐτῇ ἰησοῦς, μή μου ἅπτου, οὔπω γὰρ ἀναβέβηκα πρὸς τὸν πατέρα· πορεύου δὲ πρὸς τοὺς ἀδελφούς μου καὶ εἰπὲ αὐτοῖς, ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν.
+                        <div class="bible-hebrew">  
+                            וְאִ֨ם כָּל־עֲדַ֤ת יִשְׂרָאֵל֙ יִשְׁגּ֔וּ וְנֶעְלַ֣ם דָּבָ֔ר מֵעֵינֵ֖י הַקָּהָ֑ל וְ֠עָשׂוּ אַחַ֨ת מִכָּל־מִצְוֺ֧ת יְהוָ֛ה אֲשֶׁ֥ר לֹא־תֵעָשֶׂ֖ינָה וְאָשֵֽׁמוּ׃
+                            וְנֽוֹדְעָה֙ הַֽחַטָּ֔את אֲשֶׁ֥ר חָטְא֖וּ עָלֶ֑יהָ וְהִקְרִ֨יבוּ הַקָּהָ֜ל פַּ֤ר בֶּן־בָּקָר֙ לְחַטָּ֔את וְהֵבִ֣יאוּ אֹת֔וֹ לִפְנֵ֖י אֹ֥הֶל מוֹעֵֽד׃
+                            וְ֠סָמְכוּ זִקְנֵ֨י הָעֵדָ֧ה אֶת־יְדֵיהֶ֛ם עַל־רֹ֥אשׁ הַפָּ֖ר לִפְנֵ֣י יְהוָ֑ה וְשָׁחַ֥ט אֶת־הַפָּ֖ר לִפְנֵ֥י יְהוָֽה׃
+                            וְהֵבִ֛יא הַכֹּהֵ֥ן הַמָּשִׁ֖יחַ מִדַּ֣ם הַפָּ֑ר אֶל־אֹ֖הֶל מוֹעֵֽד׃
                         </div>
                         <div class="translation">
-                            The soul who sins shall die. <span class="emphasize">The son shall not suffer for the iniquity of the father, nor the father suffer for the iniquity of the son. The righteousness of the righteous shall be upon himself, and the wickedness of the wicked shall be upon himself</span>.
-                            “But if a wicked person turns away from all his sins that he has committed and keeps all my statutes and does what is just and right, <span class="emphasize">he shall surely live; he shall not die. None of the transgressions that he has committed shall be remembered against him; for the righteousness that he has done he shall live</span>. Have I any pleasure in the death of the wicked, declares the Lord God, and not rather that he should turn from his way and live? But when a righteous person turns away from his righteousness and does injustice and does the same abominations that the wicked person does, <span class="emphasize">shall he live? None of the righteous deeds that he has done shall be remembered; for the treachery of which he is guilty and the sin he has committed, for them he shall die</span>.
+                            And if the whole congregation of Israel <span class="emphasize">sin through ignorance</span>, and the thing be hid from the eyes of the assembly, and they have done somewhat <span class="emphasize">against any of the commandments of the Lord</span> concerning things which should not be done, and are guilty; When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation. And the elders of the congregation shall lay their hands upon the head of the bullock before the Lord: and the bullock shall be killed before the Lord. And the priest that is anointed shall bring of the bullock's blood to the tabernacle of the congregation:
                         </div>  
                     </div>
                     <div class="bible-verse-no">
-                        <div class="book">Bible (ESV)</div>
-                        <div class="chapter">Ezekiel</div>
-                        <div class="chapter-verse">18:20-24</div>
+                        <div class="book">Bible (KJV)</div>
+                        <div class="chapter">Leviticus</div>
+                        <div class="chapter-verse">4:13-16</div>
                     </div>  
                 </div>
                 <div class="bible-wrapper">
                     <div class="bible-verse">
-                        <div class="bible">    
-                            λέγει αὐτῇ ἰησοῦς, μή μου ἅπτου, οὔπω γὰρ ἀναβέβηκα πρὸς τὸν πατέρα· πορεύου δὲ πρὸς τοὺς ἀδελφούς μου καὶ εἰπὲ αὐτοῖς, ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν.
+                        <div class="bible-hebrew">  
+                            אֲשֶׁ֥ר נָשִׂ֖יא יֶֽחֱטָ֑א וְעָשָׂ֡ה אַחַ֣ת מִכָּל־מִצְוֺת֩ יְהוָ֨ה אֱלֹהָ֜יו אֲשֶׁ֧ר לֹא־תֵעָשֶׂ֛ינָה בִּשְׁגָגָ֖ה וְאָשֵֽׁם׃
+                            אֽוֹ־הוֹדַ֤ע אֵלָיו֙ חַטָּאת֔וֹ אֲשֶׁ֥ר חָטָ֖א בָּ֑הּ וְהֵבִ֧יא אֶת־קָרְבָּנ֛וֹ שְׂעִ֥יר עִזִּ֖ים זָכָ֥ר תָּמִֽים׃
+                            וְסָמַ֤ךְ יָדוֹ֙ עַל־רֹ֣אשׁ הַשָּׂעִ֔יר וְשָׁחַ֣ט אֹת֔וֹ בִּמְק֛וֹם אֲשֶׁר־יִשְׁחַ֥ט אֶת־הָעֹלָ֖ה לִפְנֵ֣י יְהוָ֑ה חַטָּ֖את הֽוּא׃
                         </div>
                         <div class="translation">
-                            When a righteous person turns away from his righteousness and does injustice, <span class="emphasize">he shall die for it; for the injustice that he has done he shall die</span>. Again, when a wicked person turns away from the wickedness he has committed and does what is just and right, he shall save his life.
+                            When a ruler hath sinned, and done somewhat <span class="emphasize">through ignorance against any of the commandments of the Lord</span> his God concerning things which should not be done, and is guilty; Or if his sin, wherein he hath sinned, come to his knowledge; he shall bring his offering, a kid of the goats, a male without blemish: And he shall lay his hand upon the head of the goat, and kill it in the place where they kill the burnt offering before the Lord: it is a sin offering.
                         </div>  
                     </div>
                     <div class="bible-verse-no">
-                        <div class="book">Bible (ESV)</div>
-                        <div class="chapter">Ezekiel</div>
-                        <div class="chapter-verse">18:26-27</div>
+                        <div class="book">Bible (KJV)</div>
+                        <div class="chapter">Leviticus</div>
+                        <div class="chapter-verse">4:22-24</div>
                     </div>  
                 </div>
-                Again, this same principle is stated in the Book of Jeremiah. In the 31st chapter, Gd tells of a time in the future when no one will continue to believe in such a thing. 
                 <div class="bible-wrapper">
                     <div class="bible-verse">
-                        <div class="bible">    
-                            λέγει αὐτῇ ἰησοῦς, μή μου ἅπτου, οὔπω γὰρ ἀναβέβηκα πρὸς τὸν πατέρα· πορεύου δὲ πρὸς τοὺς ἀδελφούς μου καὶ εἰπὲ αὐτοῖς, ἀναβαίνω πρὸς τὸν πατέρα μου καὶ πατέρα ὑμῶν καὶ θεόν μου καὶ θεὸν ὑμῶν.
+                        <div class="bible-hebrew">  
+                            וְאִם־נֶ֧פֶשׁ אַחַ֛ת תֶּחֱטָ֥א בִשְׁגָגָ֖ה מֵעַ֣ם הָאָ֑רֶץ בַּ֠עֲשֹׂתָהּ אַחַ֨ת מִמִּצְוֺ֧ת יְהוָ֛ה אֲשֶׁ֥ר לֹא־תֵעָשֶׂ֖ינָה וְאָשֵֽׁם׃
+                            א֚וֹ הוֹדַ֣ע אֵלָ֔יו חַטָּאת֖וֹ אֲשֶׁ֣ר חָטָ֑א וְהֵבִ֨יא קָרְבָּנ֜וֹ שְׂעִירַ֤ת עִזִּים֙ תְּמִימָ֣ה נְקֵבָ֔ה עַל־חַטָּאת֖וֹ אֲשֶׁ֥ר חָטָֽא׃
+                            וְסָמַךְ֙ אֶת־יָד֔וֹ עַ֖ל רֹ֣אשׁ הַֽחַטָּ֑את וְשָׁחַט֙ אֶת־הַ֣חַטָּ֔את בִּמְק֖וֹם הָעֹלָֽה׃
                         </div>
                         <div class="translation">
-                            In those days they shall no longer say:
-                            “‘The fathers have eaten sour grapes,
-                            and the children's teeth are set on edge.’
-                            <span class="emphasize">But everyone shall die for his own iniquity</span>. Each man who eats sour grapes, his teeth shall be set on edge.
+                            And if any one of the common people <span class="emphasize">sin through ignorance, while he doeth somewhat against any of the commandments of the Lord</span> concerning things which ought not to be done, and be guilty; Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned. And he shall lay his hand upon the head of the sin offering, and slay the sin offering in the place of the burnt offering.
                         </div>  
                     </div>
                     <div class="bible-verse-no">
-                        <div class="book">Bible (ESV)</div>
-                        <div class="chapter">Jeremiah</div>
-                        <div class="chapter-verse">31:29-30</div>
+                        <div class="book">Bible (KJV)</div>
+                        <div class="chapter">Leviticus</div>
+                        <div class="chapter-verse">4:27-29</div>
+                    </div>  
+                </div>
+                <div class="bible-wrapper">
+                    <div class="bible-verse">
+                        <div class="bible-hebrew">  
+                            נֶ֚פֶשׁ כִּֽי־תִמְעֹ֣ל מַ֔עַל וְחָֽטְאָה֙ בִּשְׁגָגָ֔ה מִקָּדְשֵׁ֖י יְהוָ֑ה וְהֵבִיא֩ אֶת־אֲשָׁמ֨וֹ לַֽיהוָ֜ה אַ֧יִל תָּמִ֣ים מִן־הַצֹּ֗אן בְּעֶרְכְּךָ֛ כֶּֽסֶף־שְׁקָלִ֥ים בְּשֶֽׁקֶל־הַקֹּ֖דֶשׁ לְאָשָֽׁם׃
+                            וְאֵ֣ת אֲשֶׁר֩ חָטָ֨א מִן־הַקֹּ֜דֶשׁ יְשַׁלֵּ֗ם וְאֶת־חֲמִֽישִׁתוֹ֙ יוֹסֵ֣ף עָלָ֔יו וְנָתַ֥ן אֹת֖וֹ לַכֹּהֵ֑ן וְהַכֹּהֵ֗ן יְכַפֵּ֥ר עָלָ֛יו בְּאֵ֥יל הָאָשָׁ֖ם וְנִסְלַ֥ח לֽוֹ׃ פ
+                            וְאִם־נֶ֙פֶשׁ֙ כִּ֣י תֶֽחֱטָ֔א וְעָֽשְׂתָ֗ה אַחַת֙ מִכָּל־מִצְוֺ֣ת יְהוָ֔ה אֲשֶׁ֖ר לֹ֣א תֵעָשֶׂ֑ינָה וְלֹֽא־יָדַ֥ע וְאָשֵׁ֖ם וְנָשָׂ֥א עֲוֺנֽוֹ׃
+                            וְ֠הֵבִיא אַ֣יִל תָּמִ֧ים מִן־הַצֹּ֛אן בְּעֶרְכְּךָ֥ לְאָשָׁ֖ם אֶל־הַכֹּהֵ֑ן וְכִפֶּר֩ עָלָ֨יו הַכֹּהֵ֜ן עַ֣ל שִׁגְגָת֧וֹ אֲשֶׁר־שָׁגָ֛ג וְה֥וּא לֹֽא־יָדַ֖ע וְנִסְלַ֥ח לֽוֹ׃
+                        </div>
+                        <div class="translation">
+                            If a soul commit a trespass, and <span class="emphasize">sin through ignorance, in the holy things of the Lord</span>; then he shall bring for his trespass unto the Lord a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering: And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him. And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the Lord; though he wist it not, yet is he guilty, and shall bear his iniquity. And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist it not, and it shall be forgiven him.
+                        </div>  
+                    </div>
+                    <div class="bible-verse-no">
+                        <div class="book">Bible (KJV)</div>
+                        <div class="chapter">Leviticus</div>
+                        <div class="chapter-verse">5:15-16</div>
                     </div>  
                 </div>
             </span>
