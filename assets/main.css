@@ -1384,11 +1384,6 @@ html {
             background-color: rgba(253, 232, 218, 0.541);
             color: #cd7c56; }
     html body main.site-main-content {
-      padding: 100px 100px 50px 100px; }
-@-moz-document url-prefix() {
-  html body {
-    padding: 100px; } }
-    html body main.site-main-content {
       background-color: #ffffff;
       float: right;
       width: 650px;

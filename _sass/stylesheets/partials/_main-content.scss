@@ -1,13 +1,13 @@
 @mixin site-main-content($width, $height, $margin) {
-    main.site-main-content {
-        padding: 100px 100px 50px 100px;
-    }
+    // main.site-main-content {
+    //     padding: 100px 100px 50px 100px;
+    // }
 
-    @-moz-document url-prefix() {
-        main.site-main-content {
-            padding: 100px;
-        }
-    }
+    // @-moz-document url-prefix() {
+    //     main.site-main-content {
+    //         padding: 100px;
+    //     }
+    // }
     main.site-main-content {
         article.post {
 
