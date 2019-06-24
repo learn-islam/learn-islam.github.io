@@ -1334,7 +1334,7 @@ html {
       max-width: 500px; }
       html body header .site-sidebar {
         position: fixed;
-        background-color: rgba(253, 232, 218, 0.541);
+        background-image: linear-gradient(#ffffff00, rgba(253, 232, 218, 0.541));
         border-radius: 15px; }
         html body header .site-sidebar div#website-name-wrapper {
           display: none; }
