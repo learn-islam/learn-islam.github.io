@@ -207,8 +207,10 @@ html {
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: block;
               padding-top: 25px; }
-              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#mobile {
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.mobile {
                 display: block !important; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.basmalah-english {
+                display: none; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
               margin-top: 0px;
               padding-top: 15px; }
@@ -464,8 +466,10 @@ html {
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: block;
               padding-top: 25px; }
-              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#mobile {
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.mobile {
                 display: block !important; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.basmalah-english {
+                display: none; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
               margin-top: 0px;
               padding-top: 15px; }
@@ -721,8 +725,10 @@ html {
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: block;
               padding-top: 25px; }
-              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#mobile {
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.mobile {
                 display: block !important; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.basmalah-english {
+                display: none; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
               margin-top: 0px;
               padding-top: 15px; }
@@ -966,8 +972,10 @@ html {
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: block;
               padding-top: 25px; }
-              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#mobile {
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.mobile {
                 display: block !important; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.basmalah-english {
+                display: none; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
               margin-top: 0px;
               padding-top: 15px; }
@@ -1211,8 +1219,10 @@ html {
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: block;
               padding-top: 25px; }
-              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#mobile {
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.mobile {
                 display: block !important; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.basmalah-english {
+                display: none; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
               margin-top: 0px;
               padding-top: 15px; }

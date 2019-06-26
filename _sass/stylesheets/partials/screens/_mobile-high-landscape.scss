@@ -369,8 +369,11 @@
                         div#home-page {
                             display: block;
                             padding-top: 25px;
-                            div#mobile {
+                            div.mobile {
                                 display: block !important;
+                            }
+                            div.basmalah-english {
+                                display: none;
                             }
                         }
     
