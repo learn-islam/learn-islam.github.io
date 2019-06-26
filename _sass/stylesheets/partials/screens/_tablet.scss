@@ -23,7 +23,6 @@
             height: 100%;
             // overflow-x: hidden;
             box-sizing: border-box !important;
-            
             .outer-wrapper {
                 width: 100% !important;
                 height: 100% !important;
@@ -351,7 +350,11 @@
     
     
                         div#home-page {
-                            display: none;
+                            display: block;
+                            padding-top: 25px;
+                            div#mobile {
+                                display: block !important;
+                            }
                         }
     
                         div.home {

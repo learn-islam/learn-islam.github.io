@@ -367,7 +367,11 @@
     
     
                         div#home-page {
-                            display: none;
+                            display: block;
+                            padding-top: 25px;
+                            div#mobile {
+                                display: block !important;
+                            }
                         }
     
                         div.home {

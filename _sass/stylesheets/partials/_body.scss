@@ -45,7 +45,9 @@ html {
         font-family: $font-body;
         text-align: $body-text-align;
         line-height: $body-line-height;
-        
+        #mobile {
+            display: none;
+        }
         a {
             text-decoration: none;
             color: $desert-color;

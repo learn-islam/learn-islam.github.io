@@ -205,7 +205,10 @@ html {
               html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border .quran-inline {
                 font-size: 15px !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
-              display: none; }
+              display: block;
+              padding-top: 25px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#mobile {
+                display: block !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
               margin-top: 0px;
               padding-top: 15px; }
@@ -459,7 +462,10 @@ html {
               html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border .quran-inline {
                 font-size: 15px !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
-              display: none; }
+              display: block;
+              padding-top: 25px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#mobile {
+                display: block !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
               margin-top: 0px;
               padding-top: 15px; }
@@ -713,7 +719,10 @@ html {
               html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border .quran-inline {
                 font-size: 15px !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
-              display: none; }
+              display: block;
+              padding-top: 25px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#mobile {
+                display: block !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
               margin-top: 0px;
               padding-top: 15px; }
@@ -955,7 +964,10 @@ html {
               html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border .quran-inline {
                 font-size: 15px !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
-              display: none; }
+              display: block;
+              padding-top: 25px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#mobile {
+                display: block !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
               margin-top: 0px;
               padding-top: 15px; }
@@ -1197,7 +1209,10 @@ html {
               html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border .quran-inline {
                 font-size: 15px !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
-              display: none; }
+              display: block;
+              padding-top: 25px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#mobile {
+                display: block !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div.home ul.post-list {
               margin-top: 0px;
               padding-top: 15px; }
@@ -1283,6 +1298,8 @@ html {
     font-family: "Roboto", sans-serif;
     text-align: justify;
     line-height: 26px; }
+    html body #mobile {
+      display: none; }
     html body a {
       text-decoration: none;
       color: #cd7c56; }
@@ -1399,6 +1416,8 @@ html {
       /*style the items (options), including the selected item:*/
       /*style items (options):*/
       /*hide the items when the select box is closed:*/ }
+      html body main.site-main-content div.home-page div#mobile {
+        display: none !important; }
       html body main.site-main-content article.post div.title-header {
         margin-bottom: 20px; }
       html body main.site-main-content div.post-header {
@@ -1657,7 +1676,7 @@ html {
           display: inline-block;
           text-align: center; }
       html body main.site-main-content div.verse-no {
-        background-color: #36454F; }
+        background-color: #2f5300; }
       html body main.site-main-content div.bible-verse-no {
         background-color: #003153; }
       html body main.site-main-content div#more-quran-10-89-93,

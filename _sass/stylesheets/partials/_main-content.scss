@@ -9,6 +9,11 @@
     //     }
     // }
     main.site-main-content {
+        div.home-page {
+            div#mobile {
+                display: none !important;
+            }
+        }
         article.post {
 
             div.title-header {
@@ -389,10 +394,6 @@
             line-height: $body-line_height;
         }
 
-        .bible-inline {
-
-        }
-
         .bible-hebrew {
             margin: 0 0 15px 0;
             font-size: 23px;
@@ -471,7 +472,7 @@
         }
 
         div.verse-no {
-            background-color: $sb-bg-color;
+            background-color: $quran-verse-no-bg; 
         }
 
         div.bible-verse-no {
