@@ -91,6 +91,7 @@ html {
                     font-size: 24px;
                     color: black; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content {
+                  margin-top: 3.4px;
                   display: none;
                   position: absolute;
                   background-color: #ffffff;
@@ -206,7 +207,16 @@ html {
                 font-size: 15px !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: block;
-              padding-top: 25px; }
+              padding-top: 40px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header {
+                margin-bottom: 0; }
+                html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path {
+                  transform: initial;
+                  margin-top: 2.5px; }
+                  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path a.ptext {
+                    transform: initial; }
+                  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path a.ctext {
+                    transform: initial; }
               html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.mobile {
                 display: block !important; }
               html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.basmalah-english {
@@ -350,6 +360,7 @@ html {
                     font-size: 24px;
                     color: black; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content {
+                  margin-top: 3.4px;
                   display: none;
                   position: absolute;
                   background-color: #ffffff;
@@ -465,7 +476,16 @@ html {
                 font-size: 15px !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: block;
-              padding-top: 25px; }
+              padding-top: 40px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header {
+                margin-bottom: 0; }
+                html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path {
+                  transform: initial;
+                  margin-top: 2.5px; }
+                  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path a.ptext {
+                    transform: initial; }
+                  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path a.ctext {
+                    transform: initial; }
               html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.mobile {
                 display: block !important; }
               html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.basmalah-english {
@@ -609,6 +629,7 @@ html {
                     font-size: 24px;
                     color: black; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content {
+                  margin-top: 3.4px;
                   display: none;
                   position: absolute;
                   background-color: #ffffff;
@@ -724,7 +745,16 @@ html {
                 font-size: 15px !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: block;
-              padding-top: 25px; }
+              padding-top: 40px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header {
+                margin-bottom: 0; }
+                html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path {
+                  transform: initial;
+                  margin-top: 2.5px; }
+                  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path a.ptext {
+                    transform: initial; }
+                  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path a.ctext {
+                    transform: initial; }
               html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.mobile {
                 display: block !important; }
               html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.basmalah-english {
@@ -866,6 +896,7 @@ html {
                     font-size: 24px;
                     color: black; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content {
+                  margin-top: 3.4px;
                   display: none;
                   position: absolute;
                   background-color: #ffffff;
@@ -971,7 +1002,16 @@ html {
                 font-size: 15px !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: block;
-              padding-top: 25px; }
+              padding-top: 40px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header {
+                margin-bottom: 0; }
+                html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path {
+                  transform: initial;
+                  margin-top: 2.5px; }
+                  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path a.ptext {
+                    transform: initial; }
+                  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path a.ctext {
+                    transform: initial; }
               html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.mobile {
                 display: block !important; }
               html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.basmalah-english {
@@ -1113,6 +1153,7 @@ html {
                     font-size: 24px;
                     color: black; }
                 html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content {
+                  margin-top: 3.4px;
                   display: none;
                   position: absolute;
                   background-color: #ffffff;
@@ -1218,7 +1259,16 @@ html {
                 font-size: 15px !important; }
             html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
               display: block;
-              padding-top: 25px; }
+              padding-top: 40px; }
+              html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header {
+                margin-bottom: 0; }
+                html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path {
+                  transform: initial;
+                  margin-top: 2.5px; }
+                  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path a.ptext {
+                    transform: initial; }
+                  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header div.path a.ctext {
+                    transform: initial; }
               html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.mobile {
                 display: block !important; }
               html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.basmalah-english {

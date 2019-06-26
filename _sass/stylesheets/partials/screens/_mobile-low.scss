@@ -146,6 +146,7 @@
                                 }
     
                                 div.dropdown-content {
+                                    margin-top: 3.4px;
                                     display: none;
                                     position: absolute;
                                     background-color: #ffffff;
@@ -369,7 +370,22 @@
     
                         div#home-page {
                             display: block;
-                            padding-top: 25px;
+                            padding-top: 40px;
+                            div.title-header {
+                                margin-bottom: 0;
+    
+                                div.path {
+                                    transform: initial;
+                                    margin-top: 2.5px;
+                                    a.ptext {
+                                        transform: initial;
+                                    }
+    
+                                    a.ctext {
+                                        transform: initial;
+                                    }
+                                }
+                            }
                             div.mobile {
                                 display: block !important;
                             }
