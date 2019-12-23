@@ -1339,20 +1339,14 @@ html {
     max-height: 100%;
     margin: 0;
     padding: 0;
-    background-image: url("/assets/bg-2.jpg");
     /* Background image is centered vertically and horizontally at all times */
-    background-position: center center;
     /* Background image doesn't tile */
-    background-repeat: no-repeat;
     /* Background image is fixed in the viewport so that it doesn't move when 
         the content's height is greater than the image's height */
-    background-attachment: fixed;
     /* This is what makes the background image rescale based
         on the container's size */
-    background-size: cover;
     /* Set a background color that will be displayed
         while the background image is loading */
-    background-color: #ffc6b5;
     color: #000000;
     font-size: 16px;
     font-family: "Roboto", sans-serif;
@@ -1396,8 +1390,8 @@ html {
       background-color: #ffffff00;
       height: 1px;
       max-height: 100%;
-      margin-top: 50px;
-      margin-bottom: 50px;
+      padding-top: 80px;
+      padding-bottom: 80px;
       margin-left: auto;
       margin-right: auto;
       display: table; }
@@ -1411,8 +1405,8 @@ html {
       max-width: 500px; }
       html body header .site-sidebar {
         position: fixed;
-        background-image: linear-gradient(#ffffff00, rgba(253, 232, 218, 0.541), #ffffff00);
-        border-radius: 15px; }
+        background-color: #00000000;
+        border: 1px solid #00000000; }
         html body header .site-sidebar div#website-name-wrapper {
           display: none; }
         html body header .site-sidebar img {
@@ -1441,9 +1435,7 @@ html {
             transition-property: all;
             transition-timing-function: ease-in-out; }
           html body header .site-sidebar nav a:hover {
-            background-color: rgba(253, 232, 218, 0.541);
-            color: #303030;
-            border-bottom: 1px solid rgba(235, 235, 235, 0); }
+            color: #000000; }
         html body header .site-sidebar div#icon-container {
           text-align: center;
           padding: 20px 2px 15px 2px;
@@ -1454,7 +1446,7 @@ html {
             width: 16px;
             background-color: none;
             border-radius: 50%;
-            color: rgba(255, 255, 255, 0.767);
+            color: #222222;
             text-decoration: none;
             transition: all .3s ease-in-out; }
           html body header .site-sidebar div#icon-container a.fa:hover {
@@ -1467,10 +1459,7 @@ html {
       max-width: 650px;
       height: 100%;
       max-height: 100%;
-      padding: 100px 100px 50px 100px;
-      margin: 0 0 50px 0;
-      box-shadow: 0px 0 150px 5px rgba(110, 110, 110, 0.5);
-      border-radius: 15px;
+      padding: 0 0 0 50px;
       /*style the arrow inside the select element:*/
       /*point the arrow upwards when the select box is open (active):*/
       /*style the items (options), including the selected item:*/
