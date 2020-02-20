@@ -435,7 +435,7 @@ The following questions I prepared are meant to seek the truth and truth only. I
                     <div class="bible-verse-no">
                         <div class="book">Bible (ESV)</div>
                         <div class="chapter">Romans</div>
-                        <div class="chapter-verse">4:15</div>
+                        <div class="chapter-verse">7:9</div>
                     </div>  
                 </div>
                 <div class="bible-wrapper">
