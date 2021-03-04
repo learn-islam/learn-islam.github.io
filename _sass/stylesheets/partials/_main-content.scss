@@ -1,8 +1,7 @@
-@mixin site-main-content($width, $height, $margin) {
+@mixin site-main-content($width, $height, $padding) {
     // main.site-main-content {
     //     padding: 100px 100px 50px 100px;
     // }
-
     // @-moz-document url-prefix() {
     //     main.site-main-content {
     //         padding: 100px;
@@ -15,7 +14,6 @@
             }
         }
         article.post {
-
             div.title-header {
                 margin-bottom: 20px;
             }
@@ -26,36 +24,29 @@
         max-width: $width;
         height: $height;
         max-height: $height;
-        padding: 0 0 0 50px;
+        padding: 0 0 0 $padding;
         // margin: $margin;
         // margin: 0;
         // box-shadow: 0px 0 150px 5px rgba(110, 110, 110, 0.5);
         // border-radius: 15px;
-
         div.post-header {
             display: block !important;
         }
-
         header.post-header,
         div.post-content {
             display: block !important;
         }
-
         span.web-title {
             font-family: 'Berkshire Swash', cursive;
             font-size: 50px;
             color: $sb-nav-color;
-
             display: block;
-
             margin: 50px;
             text-align: center;
         }
-
         div.title-header {
             margin: 0;
         }
-
         div.path {
             display: inline-block;
             font-family: $font-post-meta;
@@ -69,7 +60,6 @@
                 color: $gray;
                 padding: 0 10px;
             }
-
             a.ctext {
                 display: block;
                 transform: skewX(-20deg);
@@ -77,12 +67,10 @@
                 padding: 0 10px;
             }
         }
-
         div.parents {
             background-color: white;
             border: .5px solid $gray;
         }
-
         div.parents:hover {
             background-color: $pastel-orange;
             border: .5px solid $pastel-orange;
@@ -95,13 +83,11 @@
                 color: $button-color;
             }
         }
-
         div.children {
             // font-weight: bold;
             background-color: $button-bg;
             border: .5px solid $desert-color;
         }
-
         div.children:hover {
             background-color: $pastel-orange;
             border: .5px solid $pastel-orange;
@@ -116,37 +102,29 @@
                 padding: 0 10px;
             }
         }
-
         span.basmallah {
             font-size: 40px;
             font-family: 'Reem Kufi', sans-serif;
             display: block;
-
             text-align: center;
         }
-
         .previous {
             margin: 0 10px 0 0;
         }
-
         button.previous {
             display: none;
         }
-
         .next {
             margin: 0 0 0 10px;
             background-color: #000000;
         }
-
         button.next {
             display: none;
         }
-
         // div.parents {
         //     background-color: white;
         //     border: .5px solid $gray;
         // }
-
         // div.parents:hover {
         //     background-color: $pastel-orange;
         //     border: .5px solid $pastel-orange;
@@ -159,13 +137,11 @@
         //         color: $button-color;
         //     }
         // }
-
         // div.children {
         //     // font-weight: bold;
         //     background-color: $button-bg;
         //     border: .5px solid $desert-color;
         // }
-
         // div.children:hover {
         //     background-color: $pastel-orange;
         //     border: .5px solid $pastel-orange;
@@ -180,21 +156,16 @@
         //         padding: 0 10px;
         //     }
         // }
-
-
         button,
         .previous,
         .next {
             padding: 0 8px;
-
             background-color: $button-bg;
             color: $button-color;
-
             font-family: $font-post-meta;
             font-size: 16px;
             border: .5px solid $desert-color;
         }
-
         button:hover,
         .previous:hover,
         .next:hover {
@@ -205,17 +176,14 @@
             transition-property: all;
             transition-timing-function: ease-in-out;
         }
-
         button:active,
         .previous:active,
         .next:active {
             background-color: $pastel-orange;
         }
-
         button.more-button {
             font-size: 16px;
         }
-
         a.post-link,
         h1.post-title {
             font-family: $font-post-meta;
@@ -224,7 +192,6 @@
             color: $sb-bg-color;
             margin-top: 0;
         }
-
         span.post-meta,
         time,
         div.rss-subscribe,
@@ -233,29 +200,23 @@
             font-size: $font-size-post-meta;
             color: $sb-bg-color;
         }
-
         div.rss-subscribe {
             float: left;
         }
-
         div.pagination {
             float: right;
         }
-
         time,
         div#rss-subscribe-post.rss-subscribe {
             display: inline;
         }
-
         ul.post-list {
             list-style: none;
             padding: 0;
-
             li {
                 padding: 30px 0;
             }
         }
-
         div.with-left-border,
         div.question,
         div.question-christian,
@@ -263,34 +224,28 @@
             padding: 10px;
             border-left: 2px solid rgba(0, 0, 0, .1);
         }
-
         div.with-top-border,
         div.answer {
             padding: 10px 0 0 0;
             border-top: 2px solid rgba(0, 0, 0, .1);
         }
-
         div.with-all-border {
             padding: 10px;
             border: 2px solid rgba(0, 0, 0, .1);
         }
-
         div.reference {
             margin: 0 0 50px 0;
-
             ol {
                 margin: 0;
                 padding: 0 0 0 15px;
             }
         }
-
         div.question-christian {
             ol {
                 margin: 0;
                 padding: 0 0 0 15px;
             }
         }
-
         span.question-label,
         span.answer-label,
         span.question-christian-label,
@@ -301,99 +256,78 @@
             color: #ffffff;
             padding: 2px 7px;
         }
-
         div.question-label-wrapper {
             margin: 35px 0 0 0;
-
             span.question-label {
                 background-color: #FF6961;
             }
         }
-
         div.answer-label-wrapper {
             margin: 30px 0 0 0;
-
             span.answer-label {
                 background-color: #FFB347;
             }
         }
-
         div.question-christian-wrapper {
             margin: 30px 0 0 0;
-
             span.question-christian-label {
                 background-color: #966FD6;
             }
         }
-
         div.reference-label-wrapper {
             margin: 20px 0 0 0;
-
             span.reference-label {
                 background-color: #77DD77;
             }
         }
-
         div.investigation-wrapper {
             margin: 30px 0 0 0;
-
             span.investigation-label {
                 background-color: #779ECB;
             }
         }
-
         div.section-wrapper {
-            margin: 30px 0 0 0;
-
+            margin: 20px 0 0 0;
             span.section-label {
                 background-color: $sec-bg-color;
             }
         }
-
         .more-button-wrapper {
             text-align: right;
         }
-
         .quran,
         .bible,
         .bible-hebrew {
             display: block;
             color: $quran-color;
         }
-
         .bible-hebrew-inline {
             font-size: 20px;
         }
-
         .bible-aramaic-inline {
             font-size: 15px;
         }
-
         .quran,
         .quran-inline {
             line-height: 250%;
             text-align: right;
             font-family: 'Amiri', serif;
         }
-
         .quran {
             font-size: 20px;
         }
-
         .quran-inline {
             font-size: 15px;
         }
-
-        .bible, .bible-inline {
+        .bible,
+        .bible-inline {
             font-family: 'Noto Serif', serif;
         }
-
         .bible {
             margin: 0 0 15px 0;
             font-size: $font-size-body;
             line-height: $body-line_height;
         }
-
         .bible-hebrew {
             margin: 0 0 15px 0;
             font-size: 23px;
@@ -402,43 +336,35 @@
             font-family: 'Times New Roman', Times, serif;
             text-align: right;
         }
-
         .emphasize-quran {
             color: $quran-emphasize;
             font-weight: bold;
         }
-
         .emphasize {
             color: $quran-color;
             font-weight: bold;
         }
-
         .translation {
             font-family: $font-quran-translation;
             display: block;
         }
-
         div.more-quran-wrapper {
             margin: 15px;
-
             div.quran-wrapper {
                 margin: 0px;
             }
         }
-
         div.quran-wrapper,
         div.bible-wrapper {
             box-sizing: border-box;
             margin: 15px;
             background-color: $quran-bg-color;
         }
-
         div.quran-verse,
         div.bible-verse {
             background-color: $quran-bg-color;
             padding: 10px;
         }
-
         div.verse-no,
         div.bible-verse-no {
             box-sizing: border-box;
@@ -446,39 +372,32 @@
             width: 100%;
             clear: both;
             color: #ffffff;
-
             font-family: $font-post-meta;
             text-align: center;
             padding: 0 10px;
-
             div.book {
                 float: left;
-                width: 100px;
+                width: 25%;
                 text-align: left;
             }
-
             div.chapter-verse {
                 float: right;
-                width: 100px;
+                width: 25%;
                 text-align: right;
             }
-
             div.chapter {
                 margin: 0 auto !important;
-                width: 300px;
+                width: 50%;
                 display: inline-block;
                 text-align: center;
             }
         }
-
         div.verse-no {
-            background-color: $quran-verse-no-bg; 
+            background-color: $quran-verse-no-bg;
         }
-
         div.bible-verse-no {
             background-color: $bb-bg-color;
         }
-
         div#more-quran-10-89-93,
         div#more-quran-3-151,
         div#other-translations-17-101,
@@ -490,13 +409,11 @@
             transform: scaleX(0);
             transition: 1s ease opacity, 1s ease transform;
         }
-
         .tooltip {
             position: relative;
             display: inline-block;
             // border-bottom: 1px dotted black;
         }
-
         .tooltip .tooltiptext {
             font-family: $font-post-meta;
             font-size: $font-size-post-meta;
@@ -516,7 +433,6 @@
             opacity: 0;
             transition: opacity 0.3s;
         }
-
         .tooltip .tooltiptext::after {
             content: "";
             position: absolute;
@@ -527,26 +443,21 @@
             border-style: solid;
             border-color: #555 transparent transparent transparent;
         }
-
         .tooltip:hover .tooltiptext {
             visibility: visible;
             opacity: 1;
         }
-
         .custom-select {
             position: relative;
             font-family: Arial;
         }
-
         .custom-select select {
             display: none;
             /*hide original SELECT element:*/
         }
-
         .select-selected {
             background-color: DodgerBlue;
         }
-
         /*style the arrow inside the select element:*/
         .select-selected:after {
             position: absolute;
@@ -558,13 +469,11 @@
             border: 6px solid transparent;
             border-color: #fff transparent transparent transparent;
         }
-
         /*point the arrow upwards when the select box is open (active):*/
         .select-selected.select-arrow-active:after {
             border-color: transparent transparent #fff transparent;
             top: 7px;
         }
-
         /*style the items (options), including the selected item:*/
         .select-items div,
         .select-selected {
@@ -575,7 +484,6 @@
             cursor: pointer;
             user-select: none;
         }
-
         /*style items (options):*/
         .select-items {
             position: absolute;
@@ -585,12 +493,10 @@
             right: 0;
             z-index: 99;
         }
-
         /*hide the items when the select box is closed:*/
         .select-hide {
             display: none;
         }
-
         .select-items div:hover,
         .same-as-selected {
             background-color: rgba(0, 0, 0, 0.1);
