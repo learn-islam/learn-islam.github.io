@@ -1,8 +1,4 @@
----
-layout: page
-title: Understanding Christianity
----
-<div class="title-header">
+I"±<div class="title-header">
     <div class="path parents">
         <a class="ptext" href="/index.html">Learn Islam</a>
     </div>
@@ -13,7 +9,7 @@ title: Understanding Christianity
         <a class="ctext" href="/pages/christianity/understanding-christianity.html">Understanding Christianity</a>
     </div>
 </div>
-In this page, we will discuss what Christianity is as a religion. The presentation will proceed with a summarized version on the belief of the said religion, but will also provide dedicated pages on the details of the main items that will be mentioned.
+<p>In this page, we will discuss what Christianity is as a religion. The presentation will proceed with a summarized version on the belief of the said religion, but will also provide dedicated pages on the details of the main items that will be mentioned.</p>
 <div class="section-wrapper">
     <span class="section-label">Nature of God</span>
 </div>
@@ -81,3 +77,4 @@ For more details, please refer to the following pages:
     <li><span>Holy Books</span></li>
     <li><span>Who is Paul?</span></li>
 </ul>
+:ET
