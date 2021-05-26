@@ -2,20 +2,15 @@
     header {
         float: left;
         display: table;
-
         // margin-top: 8px;
         margin-right: 20px;
-        
         // height: %;
         // max-height: 100%;
         width: $width;
         max-width: $width * 2;
-
         // margin: 0 -1000px 0 0;
-
-        .site-sidebar {     
+        .site-sidebar {
             position: fixed;
-
             div#website-name-wrapper {
                 display: none;
             }
@@ -38,19 +33,15 @@
                 margin-bottom: -8px;
                 margin-left: 0;
                 margin-left: 0;
-
                 a {
                     background-color: rgba(234, 234, 234, 0);
                     border-bottom: 1px solid rgba(221, 221, 221, 0);
                     color: $desert-color;
-
                     float: center;
                     display: block;
-
                     font-family: 'Montserrat', sans-serif;
                     font-size: 11px;
-                    text-decoration: none;    
-                    
+                    text-decoration: none;
                     text-align: center;
                     padding: 10px 0px;
                     // margin: 10px auto;  
@@ -59,7 +50,6 @@
                     transition-property: all;
                     transition-timing-function: ease-in-out;
                 }
-
                 a:hover {
                     // background-image: linear-gradient(to right, unquote('#ffffff00'), #00000081, unquote('#ffffff00'));
                     // background-color: $button-bg;
@@ -84,7 +74,7 @@
                 // background-color: $bottom-bg-color;
                 padding: 20px 2px 15px 2px;
                 border-radius: 0 0 20px 20px;
-                a.fa {
+                a.lni {
                     padding: 10px;
                     margin: 0 10px;
                     width: 16px;
@@ -95,7 +85,7 @@
                     text-decoration: none;
                     transition: all .3s ease-in-out;
                 }
-                a.fa:hover {
+                a.lni:hover {
                     background-color: $button-bg;
                     color: $desert-color;
                 }

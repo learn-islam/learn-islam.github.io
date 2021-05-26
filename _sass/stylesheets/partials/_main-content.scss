@@ -309,11 +309,12 @@
         }
         .quran,
         .quran-inline {
-            line-height: 250%;
+            line-height: 200%;
             text-align: right;
-            font-family: 'Amiri', serif;
+            font-family: 'Scheherazade', serif;
         }
         .quran {
+            margin: 0 0 15px 0;
             font-size: 20px;
         }
         .quran-inline {

@@ -3,44 +3,34 @@
 @import "screens/mobile-high-landscape";
 @import "screens/tablet";
 @import "screens/tablet-landscape";
-
 html {
     height: 100%;
     box-sizing: border-box !important;
-    
     @include mobile_low();
     @include mobile_high();
     @include mobile_high_landscape();
     @include tablet();
     @include tablet_landscape();
-
     body {
         max-height: 100%;
         margin: 0;
         padding: 0;
-
         // background-image: url("/assets/bg-2.jpg");
         /* Background image is centered vertically and horizontally at all times */
         // background-position: center center;
-        
         /* Background image doesn't tile */
         // background-repeat: no-repeat;
-        
         /* Background image is fixed in the viewport so that it doesn't move when 
             the content's height is greater than the image's height */
         // background-attachment: fixed;
-        
         /* This is what makes the background image rescale based
             on the container's size */
         // background-size: cover;
-        
         /* Set a background color that will be displayed
             while the background image is loading */
         // background-color: #ffffff;
         // background-color: rgb(255, 198, 181);
-        
         color: #000000;
-
         font-size: $font-size-body;
         font-family: $font-body;
         text-align: $body-text-align;
@@ -52,57 +42,48 @@ html {
             text-decoration: none;
             color: $desert-color;
         }
-
         li {
             color: $desert-color;
         }
-
         li span {
             color: #000000;
         }
-
         table {
             margin: 15px 0;
             width: 100%;
             max-width: 100%;
-            border-collapse:collapse;
-
+            border-collapse: collapse;
             thead {
                 background-color: $sb-bg-color;
-                padding: 5px; 
-
+                padding: 5px;
                 td {
-                    font-family: $font-post-meta; 
+                    font-family: $font-post-meta;
                     color: $gold;
-                    padding: 5px; 
+                    padding: 5px;
                     text-align: center;
                 }
             }
-
             tbody {
                 background-color: $quran-bg-color;
                 border-width: 0;
                 font-size: 14px;
-
                 td {
                     padding: 5px 10px;
-                    border-bottom: 1px solid rgba(0,0,0,.05);
+                    border-bottom: 1px solid rgba(0, 0, 0, .05);
                 }
-                
             }
         }
-
         @include outer-wrapper();
         @include parent($parent-container-width, $parent-container-height);
         @include site-sidebar($sidebar-container-width);
-        @include site-main-content($main-container-width,$parent-container-height, $main-container-margin);
-
+        @include site-main-content($main-container-width, $parent-container-height, $main-container-margin);
         // background-color: $bg-color; //hsl(2, 57%, 40%);
         // background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.05) 50px, rgba(0,0,0,.05) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.05) 63px, rgba(0,0,0,.05) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.09) 116px, rgba(0,0,0,.09) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.09) 169px, rgba(0,0,0,.09) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.09) 182px, rgba(0,0,0,.09) 232px, transparent 232px),
         // repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.05) 50px, rgba(0,0,0,.05) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.05) 63px, rgba(0,0,0,.05) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.09) 116px, rgba(0,0,0,.09) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.09) 169px, rgba(0,0,0,.09) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.09) 182px, rgba(0,0,0,.09) 232px, transparent 232px),
         // repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.03) 2px, rgba(0,0,0,.03) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.03) 5px);
     }
 }
+
 @import url('https://fonts.googleapis.com/css?family=Economica:400,400i');
 @import url('https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre');
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif');
@@ -116,4 +97,21 @@ html {
 @import url('https://fonts.googleapis.com/css?family=Amita|Galdeano|Offside');
 @import url('https://fonts.googleapis.com/css?family=Rochester');
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css");
+@font-face {
+    font-family: KFGQPC;
+    src: url("../../../assets/font/UthmanTN1\ Ver10.otf");
+}
+
+@font-face {
+    font-family: Scheherazade;
+    font-weight: normal;
+    src: url("../../../assets/font/ScheherazadeNew-Regular.ttf");
+}
+
+@font-face {
+    font-family: Scheherazade;
+    font-weight: bold;
+    src: url("../../../assets/font/ScheherazadeNew-Bold.ttf");
+}
+
 // @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300');

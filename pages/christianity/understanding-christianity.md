@@ -33,6 +33,12 @@ Unitarians, on the other hand, justify their claim of Oneness of God through ver
 Trinitarian Christians emphasizes heavily on the role of sin. In particular, they believe in the concept of Original Sin, which states that we are all sinners because we inherited this from our first ancestor, Adam and Eve (may peace be with them), who committed the first sin. This sin, accordingly, are present from the day we were born, and can only be removed through atonement.
 </div>
 <div class="section-wrapper">
+    <span class="section-label">Law</span>
+</div>
+<div class="with-top-border">
+Christianity justifies their belief by emphasizing that the Ten Commandments (Exodus 20:1-17) that was given by God the Father are difficult to put into practice. No one can put it into practice without having shortcomings on some of the items. These shortcomings are then sins, since having shortcomings means not fulfilling the items, making everyone a sinner. These sins then can only be removed by atonement.
+</div>
+<div class="section-wrapper">
     <span class="section-label">Atonement of Sin</span>
 </div>
 <div class="with-top-border">    
@@ -54,7 +60,7 @@ Christianity has the most number of denominations among all other religions. It 
     <span class="section-label">Holy Books</span>
 </div>
 <div class="with-top-border">   
-The Holy Books used by the Christians, is the Bible, consisting of the Old Testament and the New Testament. The said compilation of books were written by either Prophets and Writers, who were divinely inspired, accordingly.
+The Holy Books used by the Christians, is the Bible, consisting of the Old Testament and the New Testament. The said compilation of books were written by either Prophets and Writers, who were divinely inspired, accordingly. The Old Testament is used by the Christians as reference for the fulfillment of their claims in the New Testament.
 </div>
 <div class="section-wrapper">
     <span class="section-label">Practice</span>
@@ -66,7 +72,7 @@ The difference between Christian denominations can arise from the Nature of God,
     <span class="section-label">St. Paul</span>
 </div>
 <div class="with-top-border">   
-St. Paul is by far the most popular Christian convert, his writing are heavily used as reference for most Christians. Most Christian nowadays are referred to as Pauline Christians, since the other movement in the early days of Christianity, such as Nazareth Christians, Gnostic Christians, etc. were considered heretics and was overwhelmed by the popularity of Pauline teachings.
+St. Paul is by far the most popular Christian convert, his writings are heavily used as reference by Christians. Most Christians nowadays are referred to as Pauline Christians, since the other movement in the early days of Christianity, such as Nazareth Christians, Gnostic Christians, etc. were considered heretics and was overwhelmed by the popularity of Pauline teachings.
 </div>
 
 <p>
