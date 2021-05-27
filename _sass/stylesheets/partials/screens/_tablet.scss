@@ -307,6 +307,9 @@
                         div#home-page {
                             display: block;
                             padding-top: 40px;
+                            div#icon-container-footer {
+                                display: block !important;
+                            }
                             div.title-header {
                                 margin-bottom: 0;
                                 div.path {

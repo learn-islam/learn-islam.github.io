@@ -73,6 +73,28 @@ html {
                 }
             }
         }
+        div#icon-container-footer {
+            display: none;
+            text-align: center;
+            padding: 20px 2px 15px 2px;
+            border-radius: 0 0 20px 20px;
+            margin-top: 20px;
+            a.lni {
+                padding: 10px;
+                margin: 0 10px;
+                width: 16px;
+                // height: 30px;
+                background-color: none;
+                border-radius: 50%;
+                color: rgb(34, 34, 34);
+                text-decoration: none;
+                transition: all .3s ease-in-out;
+            }
+            a.lni:hover {
+                background-color: $button-bg;
+                color: $desert-color;
+            }
+        }
         @include outer-wrapper();
         @include parent($parent-container-width, $parent-container-height);
         @include site-sidebar($sidebar-container-width);

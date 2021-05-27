@@ -144,7 +144,9 @@ html {
     margin-left: 0;
     text-align: right;
   }
-  html body .outer-wrapper .site-parent-container header .site-sidebar nav a#home-button, html body .outer-wrapper .site-parent-container header .site-sidebar nav a#article-button, html body .outer-wrapper .site-parent-container header .site-sidebar nav a#christianity-button {
+  html body .outer-wrapper .site-parent-container header .site-sidebar nav a#home-button,
+html body .outer-wrapper .site-parent-container header .site-sidebar nav a#article-button,
+html body .outer-wrapper .site-parent-container header .site-sidebar nav a#christianity-button {
     display: none;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a {
@@ -242,7 +244,8 @@ html {
     font-family: "Frank Ruhl Libre", serif;
     font-size: 18px;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-aramaic-inline {
+  html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-hebrew-inline,
+html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-aramaic-inline {
     font-size: 15px;
   }
   html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border .quran {
@@ -254,6 +257,9 @@ html {
   html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
     display: block;
     padding-top: 40px;
+  }
+  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#icon-container-footer {
+    display: block !important;
   }
   html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header {
     margin-bottom: 0;
@@ -315,7 +321,8 @@ html {
     font-family: "Frank Ruhl Libre", serif;
     font-size: 18px;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
+  html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline,
+html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
     font-family: "Frank Ruhl Libre", serif;
     font-size: 15px;
   }
@@ -331,27 +338,32 @@ html {
   html body .outer-wrapper .site-parent-container main.site-main-content div.more-quran-wrapper div.quran-wrapper {
     margin: 0px !important;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.quran-wrapper, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-wrapper {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.quran-wrapper,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-wrapper {
     box-sizing: border-box;
     margin: 10px 0 !important;
     background-color: rgba(0, 0, 0, 0.03);
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no {
     box-sizing: border-box;
     width: 100%;
     padding: 0 4px !important;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.book, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.book {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.book,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.book {
     float: left;
     width: 20%;
     text-align: left;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter-verse, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter-verse {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter-verse,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter-verse {
     float: right;
     width: 20%;
     text-align: right;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter {
     margin: 0 auto !important;
     width: 55%;
     display: inline-block;
@@ -487,7 +499,9 @@ html {
     margin-left: 0;
     text-align: right;
   }
-  html body .outer-wrapper .site-parent-container header .site-sidebar nav a#home-button, html body .outer-wrapper .site-parent-container header .site-sidebar nav a#article-button, html body .outer-wrapper .site-parent-container header .site-sidebar nav a#christianity-button {
+  html body .outer-wrapper .site-parent-container header .site-sidebar nav a#home-button,
+html body .outer-wrapper .site-parent-container header .site-sidebar nav a#article-button,
+html body .outer-wrapper .site-parent-container header .site-sidebar nav a#christianity-button {
     display: none;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a {
@@ -585,7 +599,8 @@ html {
     font-family: "Frank Ruhl Libre", serif;
     font-size: 18px;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-aramaic-inline {
+  html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-hebrew-inline,
+html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-aramaic-inline {
     font-size: 15px;
   }
   html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border .quran {
@@ -597,6 +612,9 @@ html {
   html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
     display: block;
     padding-top: 40px;
+  }
+  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#icon-container-footer {
+    display: block !important;
   }
   html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header {
     margin-bottom: 0;
@@ -658,7 +676,8 @@ html {
     font-family: "Frank Ruhl Libre", serif;
     font-size: 18px;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
+  html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline,
+html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
     font-family: "Frank Ruhl Libre", serif;
     font-size: 15px;
   }
@@ -674,27 +693,32 @@ html {
   html body .outer-wrapper .site-parent-container main.site-main-content div.more-quran-wrapper div.quran-wrapper {
     margin: 0px !important;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.quran-wrapper, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-wrapper {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.quran-wrapper,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-wrapper {
     box-sizing: border-box;
     margin: 10px 0 !important;
     background-color: rgba(0, 0, 0, 0.03);
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no {
     box-sizing: border-box;
     width: 100%;
     padding: 0 4px !important;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.book, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.book {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.book,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.book {
     float: left;
     width: 20%;
     text-align: left;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter-verse, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter-verse {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter-verse,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter-verse {
     float: right;
     width: 20%;
     text-align: right;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter {
     margin: 0 auto !important;
     width: 55%;
     display: inline-block;
@@ -830,7 +854,9 @@ html {
     margin-left: 0;
     text-align: right;
   }
-  html body .outer-wrapper .site-parent-container header .site-sidebar nav a#home-button, html body .outer-wrapper .site-parent-container header .site-sidebar nav a#article-button, html body .outer-wrapper .site-parent-container header .site-sidebar nav a#christianity-button {
+  html body .outer-wrapper .site-parent-container header .site-sidebar nav a#home-button,
+html body .outer-wrapper .site-parent-container header .site-sidebar nav a#article-button,
+html body .outer-wrapper .site-parent-container header .site-sidebar nav a#christianity-button {
     display: none;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a {
@@ -928,7 +954,8 @@ html {
     font-family: "Frank Ruhl Libre", serif;
     font-size: 18px;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-aramaic-inline {
+  html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-hebrew-inline,
+html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border div.bible-wrapper div.bible-verse .bible-aramaic-inline {
     font-size: 15px;
   }
   html body .outer-wrapper .site-parent-container main.site-main-content article.post div.post-content div.page div.investigation.with-top-border .quran {
@@ -940,6 +967,9 @@ html {
   html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
     display: block;
     padding-top: 40px;
+  }
+  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#icon-container-footer {
+    display: block !important;
   }
   html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header {
     margin-bottom: 0;
@@ -1001,7 +1031,8 @@ html {
     font-family: "Frank Ruhl Libre", serif;
     font-size: 18px;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline, html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
+  html body .outer-wrapper .site-parent-container main.site-main-content .bible-hebrew-inline,
+html body .outer-wrapper .site-parent-container main.site-main-content .bible-aramaic-inline {
     font-family: "Frank Ruhl Libre", serif;
     font-size: 15px;
   }
@@ -1017,27 +1048,32 @@ html {
   html body .outer-wrapper .site-parent-container main.site-main-content div.more-quran-wrapper div.quran-wrapper {
     margin: 0px !important;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.quran-wrapper, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-wrapper {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.quran-wrapper,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-wrapper {
     box-sizing: border-box;
     margin: 10px 0 !important;
     background-color: rgba(0, 0, 0, 0.03);
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no {
     box-sizing: border-box;
     width: 100%;
     padding: 0 4px !important;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.book, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.book {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.book,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.book {
     float: left;
     width: 20%;
     text-align: left;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter-verse, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter-verse {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter-verse,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter-verse {
     float: right;
     width: 20%;
     text-align: right;
   }
-  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter, html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter {
+  html body .outer-wrapper .site-parent-container main.site-main-content div.verse-no div.chapter,
+html body .outer-wrapper .site-parent-container main.site-main-content div.bible-verse-no div.chapter {
     margin: 0 auto !important;
     width: 55%;
     display: inline-block;
@@ -1270,6 +1306,9 @@ html body .outer-wrapper .site-parent-container main.site-main-content article.p
   html body .outer-wrapper .site-parent-container main.site-main-content div#home-page {
     display: block;
     padding-top: 40px;
+  }
+  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#icon-container-footer {
+    display: block !important;
   }
   html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header {
     margin-bottom: 0;
@@ -1607,6 +1646,9 @@ html body .outer-wrapper .site-parent-container main.site-main-content article.p
     display: block;
     padding-top: 40px;
   }
+  html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div#icon-container-footer {
+    display: block !important;
+  }
   html body .outer-wrapper .site-parent-container main.site-main-content div#home-page div.title-header {
     margin-bottom: 0;
   }
@@ -1771,6 +1813,27 @@ html body table tbody {
 html body table tbody td {
   padding: 5px 10px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+html body div#icon-container-footer {
+  display: none;
+  text-align: center;
+  padding: 20px 2px 15px 2px;
+  border-radius: 0 0 20px 20px;
+  margin-top: 20px;
+}
+html body div#icon-container-footer a.lni {
+  padding: 10px;
+  margin: 0 10px;
+  width: 16px;
+  background-color: none;
+  border-radius: 50%;
+  color: #222222;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+html body div#icon-container-footer a.lni:hover {
+  background-color: rgba(253, 232, 218, 0.541);
+  color: #cd7c56;
 }
 html body .outer-wrapper {
   width: 100%;
