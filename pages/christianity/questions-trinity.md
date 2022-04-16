@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trinity
+title: Questions on Trinity
 ---
 <div class="title-header">
     <div class="path parents">
@@ -16,6 +16,7 @@ title: Trinity
         <a class="ctext" href="/pages/christianity/questions-trinity.html">Questions on Trinity</a>
     </div>
 </div>
+<h1 class="post-title">{{ page.title | escape }}</h1>
 In the name of Allah (the Almighty God), the Entirely Merciful, the Especially Merciful. Let me begin with the sincerest intention all for the sake of truth.
 The following questions I prepared are meant to seek the truth and truth only. I have no intention of attacking Christianity or Judaism, or any religion, all I want is to verify what they preach and study their scriptures. However, if there is something in the following questions that might go against you, I sincerely apologize, and I am open for any correction. I intend to have a dialogue and not to spread hatred. I prepared this in all honesty and tried my best to be respectful as much as possible in some sensitive questions.
 <div class="question-label-wrapper">

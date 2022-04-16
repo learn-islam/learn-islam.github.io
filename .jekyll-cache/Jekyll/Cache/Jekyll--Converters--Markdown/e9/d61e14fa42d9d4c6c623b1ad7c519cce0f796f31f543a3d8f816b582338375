@@ -1,0 +1,111 @@
+I"�<div id="home-page">
+    <div class="title-header">
+        <div class="path parents">
+            <a class="ptext" href="/index.html">Learn Islam</a>
+        </div>
+        <div class="path children" style="margin-bottom: 16px;">
+            <a class="ctext" href="/index.html">Home</a>
+        </div>
+    </div>
+    <h1 class="post-title">Welcome to Learn Islam!</h1>
+    <div class="mobile" style="display: none; text-align: center;">
+        <img src="/assets/basmalah.png" style="width: 130px; margin: 30px auto 0 auto;" /><br />
+        <div class="mobile" style="padding-bottom: 40px; font-family: 'Saira Condensed'; font-size: 13px;">(In the name of God, the Lord of Mercy, the Giver of Mercy!)</div>
+    </div>
+    <div class="basmalah-english">
+        In the name of God, the Lord of Mercy, the Giver of Mercy!<br /><br />
+    </div>
+    <span class="tooltip">Assalamu 'Alaikum!<span class="tooltiptext">Arabic for "Peace be upon you", Muslim greeting.</span></span> <span class="tooltip">Alhamdulillah!<span class="tooltiptext">Arabic for "Praise be to God", Muslim common phrase.</span></span> Let me begin with a sincere intention all for the sake of Allah <span class="tooltip">(S.W.T.)<span class="tooltiptext">Subhanahu wa ta'ala, Arabic for "May He be glorified and exalted", Muslim honorific.</span></span>. Thank you very much for visiting Learn Islam, a website made to invite humanity to come together into a common understanding, that the Almighty God, Allah <span class="tooltip">(S.W.T.)<span class="tooltiptext">Subhanahu wa ta'ala, Arabic for "May He be glorified and exalted", Muslim honorific.</span></span> --- the God of Adam, Eve, Noah, David, Solomon, Jacob, Joseph, Moses, Jesus, Muhammad and all other prophets not mentioned in between (peace and blessings be with them all) --- is but ONE GOD (absolute monotheism). This is an invitation through dialog, respect, peace and sincerity.
+    <div class="bible-wrapper">
+        <div class="bible-verse">
+            <div class="bible-hebrew">    
+                שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה׀ אֶחָֽד׃
+            </div>
+            <div class="translation">
+                “Hear, O Israel: <span class="emphasize">The Lord our God, the Lord is one</span>.
+            </div>  
+        </div>
+        <div class="bible-verse-no" style="background-color: #530000 !important;">
+            <div class="book" style="width:25%;">Old Testament</div>
+            <div class="chapter" style="width:50%; margin-left:-20px;">Deuteronomy</div>
+            <div class="chapter-verse" style="width:25%;">6:4</div>
+        </div>  
+    </div>
+    <div class="bible-wrapper">
+        <div class="bible-verse">
+            <div class="bible">    
+                αὕτη δέ ἐστιν ἡ αἰώνιος ζωή, ἵνα γινώσκωσιν σὲ τὸν μόνον ἀληθινὸν θεὸν καὶ ὃν ἀπέστειλας ἰησοῦν χριστόν.
+            </div>
+            <div class="translation">
+                And this is eternal life, that they know you, <span class="emphasize">the only true God</span>, and Jesus Christ whom you have sent.
+            </div>  
+        </div>
+        <div class="bible-verse-no">
+            <div class="book" style="width:25%;">New Testament</div>
+            <div class="chapter" style="width:50%;">John</div>
+            <div class="chapter-verse" style="width: 25%;">17:3</div>
+        </div>  
+    </div>
+    <div class="quran-wrapper">
+        <div class="quran-verse">
+            <div class="quran">
+                قُلْ هُوَ ٱللَّهُ أَحَدٌ
+                ٱللَّهُ ٱلصَّمَدُ
+                لَمْ يَلِدْ وَلَمْ يُولَدْ
+                وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ
+            </div>
+            <div class="translation">
+                Say, "He is Allah,  <span class="emphasize">[who is] One</span>,
+                Allah, the Eternal Refuge.
+                He neither begets nor is born,
+                Nor is there to Him any equivalent."
+            </div>  
+        </div>
+        <div class="verse-no">
+            <div class="book" style="width:25%;">Final Testament</div>
+            <div class="chapter" style="width:50%;">Al-Ikhlas (Sincerity)</div>
+            <div class="chapter-verse" style="width:25%;">112:1-4</div>
+        </div>  
+    </div>
+    
+    <center style="display:none;">
+        <span class="tooltip">
+        
+        <span class="basmallah">بسم الله الرحمن الرحيم</span>
+        <span class="tooltiptext">Bismillah ir-Rahman ir-Rahim, Arabic for "In the name of Allah, the Most Gracious, the Most Merciful", this is the phrase recited before each sura (chapter) of the Qur'an except for the ninth chapter.</span></span>  
+        <br />
+        <span class="web-title">Learn Islam</span>
+        <img id="underconstruction" src="/assets/under_cons.jpg" style="display: block; transform: scale(0.6); margin: auto;" />
+        <span style="font-size:10px;">https://www.pinterest.com/pin/358388082830081980/<br />
+            Background image by Rubén Bagüés shot at Erg Chebbi, Morocco.
+            
+        </span>
+    </center>
+    
+    <!-- <div id="home-welcome" style="margin-top: 50px;">
+        Assalamu 'Alaikum!
+        <br/>
+        <br/>
+        Learn Islam is a website primarily made to address the misconception, as the title says, about Islam. The content of the site is tailored to 
+        audiences who are curious about Islam,
+        
+        ade to address the misconception about Islam.
+        The content of the site is tailored to audiences who prefer to investigate the scriptures by rational reasoning.
+        
+        
+        
+        Readers are encouraged to verify the claims in the cont
+        
+        Henc and scientific approaches.
+        This is done by investigating the Qur'an and Hadiths. Comparative study is one best approach to find the truth, hence
+        this website also investigate the Bible as to what it teaches.
+    </div>  -->
+    <div id="icon-container-footer" style="text-align: center;">
+        <a href="mailto:contact.learnislam@gmail.com" class="lni lni-laptop"></a>
+        <a href="https://twitter.com/learn_alislam" class="lni lni-twitter"></a>
+        <a href="https://www.instagram.com/learn_alislam/" class="lni lni-instagram"></a>
+        
+        <!-- <a href="https://alstat.github.io" class="fa fa-rss"></a> -->
+    </div>
+</div>
+:ET

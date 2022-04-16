@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trinity
+title: Questions on Sins
 ---
 <div class="title-header">
     <div class="path parents">
@@ -19,6 +19,7 @@ title: Trinity
 <!-- <div class="question-label-wrapper">
     <span class="question-label">Questions</span>
 </div> -->
+<h1 class="post-title">{{ page.title | escape }}</h1>
 The Christian belief is that Jesus (A.S.) died for the sins of all humanity. That is, the Messiah is supposed to be the blood sacrifice necessary for the forgiveness of sin; in other words, a human sacrifice. 
 <div class="investigation">    
     <ol>

@@ -16,6 +16,7 @@ title: Trinity
         <a class="ctext" href="/pages/christianity/trinity.html">Trinity</a>
     </div>
 </div>
+<h1 class="post-title">{{ page.title | escape }}</h1>
 When it comes to the nature of God, beliefs differ significantly across the various denominations of Christianity. The most popular belief, promoted by the vast majority of churches in the world, is that God has a triune nature. This is the doctrine known as the Trinity, which defines God as one Being who exists eternally as three distinct persons — the Father, the Son and the Holy Spirit. Put simply, it is “one God in three persons”. The persons of the Trinity are not to be confused, so the Father is not the Son, the Son is not the Holy Spirit and the Holy Spirit is not the Father. All three persons of the Trinity are said to be co-equal and co-eternal, and “each is God, whole and entire.” However, each person is said to have a different role when it comes to how God relates to the world. For example, in God’s plan of salvation for mankind, the Father is said to have sent the Son, Jesus, who died on the cross for the sins of mankind. The Holy Spirit is said to sanctify believers, inspiring Christians in their day-to-day lives.
 
 Here is a diagram that is commonly used by Trinitarians to summarise the doctrine:

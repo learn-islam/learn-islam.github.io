@@ -1,8 +1,4 @@
----
-layout: page
-title: A Closer Look at Christianity
----
-<div class="title-header">
+I"<div class="title-header">
     <div class="path parents">
         <a class="ptext" href="/index.html">Learn Islam</a>
     </div>
@@ -13,7 +9,7 @@ title: A Closer Look at Christianity
         <a class="ctext" href="/pages/christianity/investigating-christianity.html">A Closer Look at Christianity</a>
     </div>
 </div>
-<h1 class="post-title">{{ page.title | escape }}</h1>
+<h1 class="post-title">A Closer Look at Christianity</h1>
 <h3>Table of Content</h3>
 <ul>
     <li>
@@ -44,3 +40,4 @@ title: A Closer Look at Christianity
         <span>Questions on Practices</span>
     </li>
 </ul>
+:ET

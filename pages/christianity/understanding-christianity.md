@@ -13,6 +13,7 @@ title: Understanding Christianity
         <a class="ctext" href="/pages/christianity/understanding-christianity.html">Understanding Christianity</a>
     </div>
 </div>
+<h1 class="post-title">{{ page.title | escape }}</h1>
 In this page, we will discuss what Christianity is as a religion. The presentation will proceed with a summarized version on the belief of the said religion, but will also provide dedicated pages on the details of the main items that will be mentioned.
 <div class="section-wrapper">
     <span class="section-label">Nature of God</span>
