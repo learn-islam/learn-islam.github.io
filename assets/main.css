@@ -60,7 +60,7 @@ html {
     border-radius: 0px;
     box-sizing: border-box;
     height: 50px;
-    box-shadow: 0px 1px 3px #c5c5c5;
+    box-shadow: 0px 1px 3px rgb(197, 197, 197);
     z-index: 2;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper {
@@ -72,7 +72,7 @@ html {
   html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper div#website-name {
     padding: 0px 10px 0px 0px;
     margin: 0;
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: "Saira Condensed", sans-serif;
     font-weight: bold;
     font-size: 20px;
@@ -84,7 +84,7 @@ html {
     margin-top: -8px;
     font-size: 13px;
     font-family: "Saira Condensed", sans-serif;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown {
     margin: 3px 0;
@@ -94,14 +94,14 @@ html {
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown button.dropbtn {
     box-sizing: border-box;
-    background-color: #00000000;
+    background-color: rgba(0, 0, 0, 0);
     padding: 10px;
     border: none;
     cursor: pointer;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown button.dropbtn a {
     font-size: 24px;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content {
     margin-top: 3.4px;
@@ -113,7 +113,7 @@ html {
     z-index: 1;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content a {
-    color: black !important;
+    color: rgb(0, 0, 0) !important;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -134,7 +134,7 @@ html {
     background-color: #ffffff;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown:hover button.dropbtn a {
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar img {
     display: none;
@@ -150,7 +150,7 @@ html body .outer-wrapper .site-parent-container header .site-sidebar nav a#chris
     display: none;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a {
-    background-color: #383838;
+    background-color: rgb(56, 56, 56);
     border-bottom: 1px solid rgba(221, 221, 221, 0);
     color: white;
     display: inline-block;
@@ -166,8 +166,8 @@ html body .outer-wrapper .site-parent-container header .site-sidebar nav a#chris
     transition-timing-function: ease-in-out;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a:hover {
-    background-color: black;
-    color: #303030;
+    background-color: rgb(0, 0, 0);
+    color: rgb(48, 48, 48);
     border-bottom: 1px solid rgba(235, 235, 235, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div#icon-container {
@@ -415,7 +415,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     border-radius: 0px;
     box-sizing: border-box;
     height: 50px;
-    box-shadow: 0px 1px 3px #c5c5c5;
+    box-shadow: 0px 1px 3px rgb(197, 197, 197);
     z-index: 2;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper {
@@ -427,7 +427,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
   html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper div#website-name {
     padding: 0px 10px 0px 0px;
     margin: 0;
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: "Saira Condensed", sans-serif;
     font-weight: bold;
     font-size: 20px;
@@ -439,7 +439,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     margin-top: -8px;
     font-size: 13px;
     font-family: "Saira Condensed", sans-serif;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown {
     margin: 3px 0;
@@ -449,14 +449,14 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown button.dropbtn {
     box-sizing: border-box;
-    background-color: #00000000;
+    background-color: rgba(0, 0, 0, 0);
     padding: 10px;
     border: none;
     cursor: pointer;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown button.dropbtn a {
     font-size: 24px;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content {
     margin-top: 3.4px;
@@ -468,7 +468,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     z-index: 1;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content a {
-    color: black !important;
+    color: rgb(0, 0, 0) !important;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -489,7 +489,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     background-color: #ffffff;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown:hover button.dropbtn a {
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar img {
     display: none;
@@ -505,7 +505,7 @@ html body .outer-wrapper .site-parent-container header .site-sidebar nav a#chris
     display: none;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a {
-    background-color: #383838;
+    background-color: rgb(56, 56, 56);
     border-bottom: 1px solid rgba(221, 221, 221, 0);
     color: white;
     display: inline-block;
@@ -521,8 +521,8 @@ html body .outer-wrapper .site-parent-container header .site-sidebar nav a#chris
     transition-timing-function: ease-in-out;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a:hover {
-    background-color: black;
-    color: #303030;
+    background-color: rgb(0, 0, 0);
+    color: rgb(48, 48, 48);
     border-bottom: 1px solid rgba(235, 235, 235, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div#icon-container {
@@ -770,7 +770,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     border-radius: 0px;
     box-sizing: border-box;
     height: 50px;
-    box-shadow: 0px 1px 3px #c5c5c5;
+    box-shadow: 0px 1px 3px rgb(197, 197, 197);
     z-index: 2;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper {
@@ -782,7 +782,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
   html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper div#website-name {
     padding: 0px 10px 0px 0px;
     margin: 0;
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: "Saira Condensed", sans-serif;
     font-weight: bold;
     font-size: 20px;
@@ -794,7 +794,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     margin-top: -8px;
     font-size: 13px;
     font-family: "Saira Condensed", sans-serif;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown {
     margin: 3px 0;
@@ -804,14 +804,14 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown button.dropbtn {
     box-sizing: border-box;
-    background-color: #00000000;
+    background-color: rgba(0, 0, 0, 0);
     padding: 10px;
     border: none;
     cursor: pointer;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown button.dropbtn a {
     font-size: 24px;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content {
     margin-top: 3.4px;
@@ -823,7 +823,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     z-index: 1;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content a {
-    color: black !important;
+    color: rgb(0, 0, 0) !important;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -844,7 +844,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     background-color: #ffffff;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown:hover button.dropbtn a {
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar img {
     display: none;
@@ -860,7 +860,7 @@ html body .outer-wrapper .site-parent-container header .site-sidebar nav a#chris
     display: none;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a {
-    background-color: #383838;
+    background-color: rgb(56, 56, 56);
     border-bottom: 1px solid rgba(221, 221, 221, 0);
     color: white;
     display: inline-block;
@@ -876,8 +876,8 @@ html body .outer-wrapper .site-parent-container header .site-sidebar nav a#chris
     transition-timing-function: ease-in-out;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a:hover {
-    background-color: black;
-    color: #303030;
+    background-color: rgb(0, 0, 0);
+    color: rgb(48, 48, 48);
     border-bottom: 1px solid rgba(235, 235, 235, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div#icon-container {
@@ -1123,7 +1123,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     border-radius: 0px;
     box-sizing: border-box;
     height: 50px;
-    box-shadow: 0px 1px 3px #c5c5c5;
+    box-shadow: 0px 1px 3px rgb(197, 197, 197);
     z-index: 2;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper {
@@ -1135,7 +1135,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
   html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper div#website-name {
     padding: 0px 10px 0px 0px;
     margin: 0;
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: "Saira Condensed", sans-serif;
     font-weight: bold;
     font-size: 20px;
@@ -1147,7 +1147,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     margin-top: -8px;
     font-size: 13px;
     font-family: "Saira Condensed", sans-serif;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown {
     margin: 3px 0;
@@ -1157,14 +1157,14 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown button.dropbtn {
     box-sizing: border-box;
-    background-color: #00000000;
+    background-color: rgba(0, 0, 0, 0);
     padding: 10px;
     border: none;
     cursor: pointer;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown button.dropbtn a {
     font-size: 24px;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content {
     margin-top: 3.4px;
@@ -1176,7 +1176,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     z-index: 1;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content a {
-    color: black !important;
+    color: rgb(0, 0, 0) !important;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -1197,7 +1197,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     background-color: #ffffff;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown:hover button.dropbtn a {
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar img {
     display: none;
@@ -1213,7 +1213,7 @@ html body .outer-wrapper .site-parent-container header .site-sidebar nav a#chris
     display: none;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a {
-    background-color: #383838;
+    background-color: rgb(56, 56, 56);
     border-bottom: 1px solid rgba(221, 221, 221, 0);
     color: white;
     display: inline-block;
@@ -1229,8 +1229,8 @@ html body .outer-wrapper .site-parent-container header .site-sidebar nav a#chris
     transition-timing-function: ease-in-out;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a:hover {
-    background-color: black;
-    color: #303030;
+    background-color: rgb(0, 0, 0);
+    color: rgb(48, 48, 48);
     border-bottom: 1px solid rgba(235, 235, 235, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div#icon-container {
@@ -1462,7 +1462,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     border-radius: 0px;
     box-sizing: border-box;
     height: 50px;
-    box-shadow: 0px 1px 3px #c5c5c5;
+    box-shadow: 0px 1px 3px rgb(197, 197, 197);
     z-index: 2;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper {
@@ -1474,7 +1474,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
   html body .outer-wrapper .site-parent-container header .site-sidebar div#website-name-wrapper div#website-name {
     padding: 0px 10px 0px 0px;
     margin: 0;
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: "Saira Condensed", sans-serif;
     font-weight: bold;
     font-size: 20px;
@@ -1486,7 +1486,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     margin-top: -8px;
     font-size: 13px;
     font-family: "Saira Condensed", sans-serif;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown {
     margin: 3px 0;
@@ -1496,14 +1496,14 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown button.dropbtn {
     box-sizing: border-box;
-    background-color: #00000000;
+    background-color: rgba(0, 0, 0, 0);
     padding: 10px;
     border: none;
     cursor: pointer;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown button.dropbtn a {
     font-size: 24px;
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content {
     margin-top: 3.4px;
@@ -1515,7 +1515,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     z-index: 1;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown div.dropdown-content a {
-    color: black !important;
+    color: rgb(0, 0, 0) !important;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -1536,7 +1536,7 @@ html body .outer-wrapper .site-parent-container main.site-main-content div.bible
     background-color: #ffffff;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div.dropdown:hover button.dropbtn a {
-    color: black;
+    color: rgb(0, 0, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar img {
     display: none;
@@ -1552,7 +1552,7 @@ html body .outer-wrapper .site-parent-container header .site-sidebar nav a#chris
     display: none;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a {
-    background-color: #383838;
+    background-color: rgb(56, 56, 56);
     border-bottom: 1px solid rgba(221, 221, 221, 0);
     color: white;
     display: inline-block;
@@ -1568,8 +1568,8 @@ html body .outer-wrapper .site-parent-container header .site-sidebar nav a#chris
     transition-timing-function: ease-in-out;
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar nav a:hover {
-    background-color: black;
-    color: #303030;
+    background-color: rgb(0, 0, 0);
+    color: rgb(48, 48, 48);
     border-bottom: 1px solid rgba(235, 235, 235, 0);
   }
   html body .outer-wrapper .site-parent-container header .site-sidebar div#icon-container {
@@ -1781,10 +1781,10 @@ html body #mobile {
 }
 html body a {
   text-decoration: none;
-  color: #cd7c56;
+  color: rgb(205, 124, 86);
 }
 html body li {
-  color: #cd7c56;
+  color: rgb(205, 124, 86);
 }
 html body li span {
   color: #000000;
@@ -1827,13 +1827,13 @@ html body div#icon-container-footer a.lni {
   width: 16px;
   background-color: none;
   border-radius: 50%;
-  color: #222222;
+  color: rgb(34, 34, 34);
   text-decoration: none;
   transition: all 0.3s ease-in-out;
 }
 html body div#icon-container-footer a.lni:hover {
   background-color: rgba(253, 232, 218, 0.541);
-  color: #cd7c56;
+  color: rgb(205, 124, 86);
 }
 html body .outer-wrapper {
   width: 100%;
@@ -1842,7 +1842,7 @@ html body .outer-wrapper {
   position: relative;
 }
 html body .site-parent-container {
-  background-color: #ffffff00;
+  background-color: rgba(255, 255, 255, 0);
   height: 1px;
   max-height: 100%;
   padding-top: 80px;
@@ -1863,8 +1863,8 @@ html body header {
 }
 html body header .site-sidebar {
   position: fixed;
-  background-color: #00000000;
-  border: 1px solid #00000000;
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid rgba(0, 0, 0, 0);
 }
 html body header .site-sidebar div#website-name-wrapper {
   display: none;
@@ -1884,7 +1884,7 @@ html body header .site-sidebar nav {
 html body header .site-sidebar nav a {
   background-color: rgba(234, 234, 234, 0);
   border-bottom: 1px solid rgba(221, 221, 221, 0);
-  color: #cd7c56;
+  color: rgb(205, 124, 86);
   float: center;
   display: block;
   font-family: "Montserrat", sans-serif;
@@ -1911,13 +1911,13 @@ html body header .site-sidebar div#icon-container a.lni {
   width: 16px;
   background-color: none;
   border-radius: 50%;
-  color: #222222;
+  color: rgb(34, 34, 34);
   text-decoration: none;
   transition: all 0.3s ease-in-out;
 }
 html body header .site-sidebar div#icon-container a.lni:hover {
   background-color: rgba(253, 232, 218, 0.541);
-  color: #cd7c56;
+  color: rgb(205, 124, 86);
 }
 html body main.site-main-content {
   background-color: #ffffff;
@@ -1973,7 +1973,7 @@ html body main.site-main-content div.path a.ptext {
 html body main.site-main-content div.path a.ctext {
   display: block;
   transform: skewX(-20deg);
-  color: #303030;
+  color: rgb(48, 48, 48);
   padding: 0 10px;
 }
 html body main.site-main-content div.parents {
@@ -1989,11 +1989,11 @@ html body main.site-main-content div.parents:hover {
   transition-timing-function: ease-in-out;
 }
 html body main.site-main-content div.parents:hover a.ptext {
-  color: #303030;
+  color: rgb(48, 48, 48);
 }
 html body main.site-main-content div.children {
   background-color: rgba(253, 232, 218, 0.541);
-  border: 0.5px solid #cd7c56;
+  border: 0.5px solid rgb(205, 124, 86);
 }
 html body main.site-main-content div.children:hover {
   background-color: #f1ece9;
@@ -2006,7 +2006,7 @@ html body main.site-main-content div.children:hover {
 html body main.site-main-content div.children:hover a.ctext {
   display: block;
   transform: skewX(-20deg);
-  color: #303030;
+  color: rgb(48, 48, 48);
   padding: 0 10px;
 }
 html body main.site-main-content span.basmallah {
@@ -2033,10 +2033,10 @@ html body main.site-main-content .previous,
 html body main.site-main-content .next {
   padding: 0 8px;
   background-color: rgba(253, 232, 218, 0.541);
-  color: #303030;
+  color: rgb(48, 48, 48);
   font-family: "Saira Condensed";
   font-size: 16px;
-  border: 0.5px solid #cd7c56;
+  border: 0.5px solid rgb(205, 124, 86);
 }
 html body main.site-main-content button:hover,
 html body main.site-main-content .previous:hover,
@@ -2270,6 +2270,9 @@ html body main.site-main-content div.verse-no {
 }
 html body main.site-main-content div.bible-verse-no {
   background-color: #003153;
+}
+html body main.site-main-content div.bible-verse-no.ot {
+  background-color: #530000 !important;
 }
 html body main.site-main-content div#more-quran-10-89-93,
 html body main.site-main-content div#more-quran-3-151,

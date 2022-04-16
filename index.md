@@ -29,7 +29,7 @@ title: Welcome to Learn Islam!
                 “Hear, O Israel: <span class="emphasize">The Lord our God, the Lord is one</span>.
             </div>  
         </div>
-        <div class="bible-verse-no" style="background-color: #530000 !important;">
+        <div class="bible-verse-no ot">
             <div class="book" style="width:25%;">Old Testament</div>
             <div class="chapter" style="width:50%; margin-left:-20px;">Deuteronomy</div>
             <div class="chapter-verse" style="width:25%;">6:4</div>

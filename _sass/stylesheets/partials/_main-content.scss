@@ -399,6 +399,9 @@
         div.bible-verse-no {
             background-color: $bb-bg-color;
         }
+        div.bible-verse-no.ot {
+            background-color: $bb-ot-bg-color !important;
+        }
         div#more-quran-10-89-93,
         div#more-quran-3-151,
         div#other-translations-17-101,
